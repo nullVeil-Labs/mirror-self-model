@@ -1,0 +1,1677 @@
+id,category,subcategory,A_obj_base,A_obj_cond,A_target_base,A_target_cond,B_target,obj_changed,target_changed,self_raw_base,cross_raw_base,self_pred_base,cross_pred_base,self_ok_base,cross_ok_base,cas_ok_base,self_raw_cond,cross_raw_cond,self_pred_cond,cross_pred_cond,self_ok_cond,cross_ok_cond,cas_ok_cond,eligible,layer,alpha
+cho000,choice,animal,dog,dog,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,3,1.0
+cho002,choice,animal,ant,ant,A,A,F,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,3,1.0
+cho013,choice,animal,Lion,Lion,L,L,L,False,False,z,z,Z,Z,0.0,0.0,0.0,z,z,Z,Z,0.0,0.0,0.0,True,3,1.0
+cho019,choice,animal,shark,shark,S,S,D,False,False,s,s,S,S,1.0,0.0,1.0,s,s,S,S,1.0,0.0,1.0,True,3,1.0
+cho027,choice,colour,blue,blue,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,b,r,B,R,1.0,0.0,0.0,True,3,1.0
+cho031,choice,colour,red,red,R,R,R,False,False,r,r,R,R,1.0,1.0,1.0,r,r,R,R,1.0,1.0,1.0,True,3,1.0
+cho033,choice,colour,Red,Red,R,R,R,False,False,R,r,R,R,1.0,1.0,1.0,R,r,R,R,1.0,1.0,1.0,True,3,1.0
+cho039,choice,colour,Indigo,Indigo,I,I,B,False,False,b,d,B,D,0.0,0.0,0.0,B,d,B,D,0.0,0.0,0.0,True,3,1.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,T,L,T,L,0.0,0.0,0.0,True,3,1.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,B,C,B,C,0.0,0.0,0.0,True,3,1.0
+cho058,choice,city,Paris,Paris,P,P,P,False,False,A,A,A,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,3,1.0
+cho059,choice,city,Nairobi,Nairobi,N,N,C,False,False,J,A,J,A,0.0,0.0,0.0,J,J,J,J,0.0,0.0,0.0,True,3,1.0
+cho061,choice,food,cake,cake,C,C,C,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,3,1.0
+cho062,choice,food,yogurt,yogurt,Y,Y,S,False,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,3,1.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,b,b,B,B,1.0,1.0,1.0,True,3,1.0
+cho076,choice,food,candy,candy,C,C,S,False,False,s,s,S,S,0.0,1.0,0.0,s,s,S,S,0.0,1.0,0.0,True,3,1.0
+cho082,choice,country,Sudan,Saudi Arabia,S,S,E,True,False,S,S,S,S,1.0,0.0,1.0,S,S,S,S,1.0,0.0,1.0,True,3,1.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,3,1.0
+cho093,choice,country,Nepal,Nepal,N,N,N,False,False,M,M,M,M,0.0,0.0,0.0,M,M,M,M,0.0,0.0,0.0,True,3,1.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,R,G,R,G,1.0,0.0,0.0,True,3,1.0
+cho101,choice,fruit,Orange,Cherry,O,C,P,True,True,p,p,P,P,0.0,1.0,0.0,p,p,P,P,0.0,1.0,0.0,True,3,1.0
+cho106,choice,fruit,mango,mango,M,M,M,False,False,m,m,M,M,1.0,1.0,1.0,m,m,M,M,1.0,1.0,1.0,True,3,1.0
+cho108,choice,fruit,banana,banana,B,B,B,False,False,b,y,B,Y,1.0,0.0,0.0,b,y,B,Y,1.0,0.0,0.0,True,3,1.0
+cho109,choice,fruit,blueberry,blueberry,B,B,G,False,False,s,s,S,S,0.0,0.0,0.0,b,s,B,S,1.0,0.0,0.0,True,3,1.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,3,1.0
+cho131,choice,first_name,Evelyn,Evelyn,E,E,B,False,False,E,B,E,B,1.0,1.0,0.0,E,B,E,B,1.0,1.0,0.0,True,3,1.0
+cho135,choice,first_name,James,James,J,J,A,False,False,A,A,A,A,0.0,1.0,0.0,A,A,A,A,0.0,1.0,0.0,True,3,1.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,j,j,J,J,0.0,0.0,0.0,True,3,1.0
+cho142,choice,instrument,Flute,Flute,F,F,F,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,3,1.0
+cho152,choice,instrument,Harp,Harp,H,H,H,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,3,1.0
+cho153,choice,instrument,Drum,Drum,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,c,d,C,D,0.0,1.0,1.0,True,3,1.0
+cho155,choice,instrument,Drum,Drum,D,D,T,False,False,B,B,B,B,0.0,0.0,0.0,B,b,B,B,0.0,0.0,0.0,True,3,1.0
+cho162,choice,sport,Judo,Judo,J,J,G,False,False,w,j,W,J,0.0,0.0,1.0,w,c,W,C,0.0,0.0,0.0,True,3,1.0
+cho168,choice,sport,football,football,F,F,S,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,3,1.0
+cho169,choice,sport,Football,Football,F,F,F,False,False,f,b,F,B,1.0,0.0,0.0,F,b,F,B,1.0,0.0,0.0,True,3,1.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,S,b,S,B,0.0,0.0,0.0,True,3,1.0
+cho181,choice,plant,spurge,spurge,S,S,F,False,False,g,g,G,G,0.0,0.0,0.0,g,g,G,G,0.0,0.0,0.0,True,3,1.0
+cho186,choice,plant,Pothos,snake plant,P,S,B,True,True,s,p,S,P,0.0,0.0,1.0,s,g,S,G,1.0,0.0,0.0,True,3,1.0
+cho188,choice,plant,cactus,cactus,C,C,C,False,False,c,c,C,C,1.0,1.0,1.0,c,c,C,C,1.0,1.0,1.0,True,3,1.0
+cho192,choice,plant,rose,rose,R,R,B,False,False,g,p,G,P,0.0,0.0,0.0,p,p,P,P,0.0,0.0,0.0,True,3,1.0
+com326,completion,phrase,is,awaits,I,A,P,True,True,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,3,1.0
+com327,completion,phrase,Every distant letter fades.,fades,E,F,C,True,True,E,E,E,E,1.0,0.0,1.0,E,E,E,E,0.0,0.0,0.0,True,3,1.0
+com328,completion,phrase,peace,peace,P,P,B,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,3,1.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,3,1.0
+com335,completion,phrase,range,range,R,R,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,3,1.0
+com338,completion,phrase,A empty mountain peak.,A empty mountain **shadow**.,A,A,W,True,False,f,f,F,F,0.0,0.0,0.0,A,A,A,A,1.0,0.0,1.0,True,3,1.0
+com341,completion,phrase,Every dark window *holds*.,holds,E,H,W,True,True,E,e,E,E,1.0,0.0,1.0,E,e,E,E,0.0,0.0,0.0,True,3,1.0
+com343,completion,phrase,breeze,breeze,B,B,G,False,False,A,s,A,S,0.0,0.0,0.0,S,s,S,S,0.0,0.0,0.0,True,3,1.0
+com346,completion,phrase,is heard.,is heard,I,I,E,True,False,E,e,E,E,0.0,1.0,0.0,E,e,E,E,0.0,1.0,0.0,True,3,1.0
+com347,completion,phrase,Every heavy mountain *bears*.,Every heavy mountain **bears**.,E,E,S,True,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,3,1.0
+com351,completion,phrase,through,through,T,T,B,False,False,d,d,D,D,0.0,0.0,0.0,d,d,D,D,0.0,0.0,0.0,True,3,1.0
+com361,completion,phrase,afternoon,afternoon,A,A,D,False,False,S,A,S,A,0.0,0.0,1.0,S,A,S,A,0.0,0.0,1.0,True,3,1.0
+com364,completion,phrase,A bright mountain peak,peak,A,P,P,True,True,s,s,S,S,0.0,0.0,0.0,s,A,S,A,0.0,0.0,0.0,True,3,1.0
+com373,completion,phrase,Every long garden path,Every long garden **path**.,E,E,P,True,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,3,1.0
+com375,completion,phrase,block,block,B,B,A,False,False,r,t,R,T,0.0,0.0,0.0,r,t,R,T,0.0,0.0,0.0,True,3,1.0
+com381,completion,phrase,A sudden letter *arrival*.,A sudden letter *arrival*.,A,A,B,False,False,S,s,S,S,0.0,0.0,0.0,S,A,S,A,0.0,0.0,1.0,True,3,1.0
+com393,completion,phrase,follows,follows,F,F,D,False,False,A,A,A,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,3,1.0
+com403,completion,phrase,holds,holds,H,H,S,False,False,E,e,E,E,0.0,0.0,0.0,E,e,E,E,0.0,0.0,0.0,True,3,1.0
+com415,completion,phrase,The dark letter e,The dark letter e.,T,T,S,True,False,d,d,D,D,0.0,0.0,0.0,d,d,D,D,0.0,0.0,0.0,True,3,1.0
+com416,completion,phrase,The busy house *is*.,The busy house **fills**.,T,T,H,True,False,t,t,T,T,1.0,0.0,1.0,t,t,T,T,1.0,0.0,1.0,True,3,1.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,3,1.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,3,1.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,3,1.0
+fac437,factual,capital,Kiev,Kiev,K,K,K,False,False,K,K,K,K,1.0,1.0,1.0,K,K,K,K,1.0,1.0,1.0,True,3,1.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,3,1.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,3,1.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,H,H,H,H,1.0,1.0,1.0,True,3,1.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,3,1.0
+fac462,factual,arithmetic,twelve,twelve,T,T,T,False,False,T,t,T,T,1.0,1.0,1.0,T,t,T,T,1.0,1.0,1.0,True,3,1.0
+fac463,factual,arithmetic,sixteen,sixteen,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,s,s,S,S,1.0,1.0,1.0,True,3,1.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,F,s,F,S,1.0,0.0,0.0,True,3,1.0
+fac474,factual,arithmetic,three,three,T,T,T,False,False,three,t,,T,0.0,1.0,1.0,three,n,,N,0.0,0.0,0.0,True,3,1.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,3,1.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,e,e,E,E,1.0,1.0,1.0,True,3,1.0
+fac495,factual,opposite,soft,soft,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,s,s,S,S,1.0,1.0,1.0,True,3,1.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,n,n,N,N,1.0,1.0,1.0,True,3,1.0
+cho000,choice,animal,dog,dog,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,d,c,D,C,1.0,0.0,0.0,True,3,2.0
+cho002,choice,animal,ant,ant,A,A,F,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,3,2.0
+cho013,choice,animal,Lion,Lion,L,L,L,False,False,z,z,Z,Z,0.0,0.0,0.0,z,z,Z,Z,0.0,0.0,0.0,True,3,2.0
+cho019,choice,animal,shark,shark,S,S,D,False,False,s,s,S,S,1.0,0.0,1.0,s,s,S,S,1.0,0.0,1.0,True,3,2.0
+cho027,choice,colour,blue,blue,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,r,b,R,B,0.0,1.0,1.0,True,3,2.0
+cho031,choice,colour,red,red,R,R,R,False,False,r,r,R,R,1.0,1.0,1.0,R,r,R,R,1.0,1.0,1.0,True,3,2.0
+cho033,choice,colour,Red,Red,R,R,R,False,False,R,r,R,R,1.0,1.0,1.0,R,r,R,R,1.0,1.0,1.0,True,3,2.0
+cho039,choice,colour,Indigo,Indigo,I,I,B,False,False,b,d,B,D,0.0,0.0,0.0,B,b,B,B,0.0,1.0,0.0,True,3,2.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,T,L,T,L,0.0,0.0,0.0,True,3,2.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,B,H,B,H,0.0,0.0,0.0,True,3,2.0
+cho058,choice,city,Paris,Paris,P,P,P,False,False,A,A,A,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,3,2.0
+cho059,choice,city,Nairobi,Nairobi,N,N,C,False,False,J,A,J,A,0.0,0.0,0.0,J,J,J,J,0.0,0.0,0.0,True,3,2.0
+cho061,choice,food,cake,cake,C,C,C,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,3,2.0
+cho062,choice,food,yogurt,yogurt,Y,Y,S,False,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,3,2.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,b,b,B,B,1.0,1.0,1.0,True,3,2.0
+cho076,choice,food,candy,candy,C,C,S,False,False,s,s,S,S,0.0,1.0,0.0,S,s,S,S,0.0,1.0,0.0,True,3,2.0
+cho082,choice,country,Sudan,Saudi Arabia,S,S,E,True,False,S,S,S,S,1.0,0.0,1.0,S,S,S,S,1.0,0.0,1.0,True,3,2.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,3,2.0
+cho093,choice,country,Nepal,Nepal,N,N,N,False,False,M,M,M,M,0.0,0.0,0.0,M,M,M,M,0.0,0.0,0.0,True,3,2.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,R,G,R,G,1.0,0.0,0.0,True,3,2.0
+cho101,choice,fruit,Orange,Cherry,O,C,P,True,True,p,p,P,P,0.0,1.0,0.0,p,p,P,P,0.0,1.0,0.0,True,3,2.0
+cho106,choice,fruit,mango,mango,M,M,M,False,False,m,m,M,M,1.0,1.0,1.0,m,m,M,M,1.0,1.0,1.0,True,3,2.0
+cho108,choice,fruit,banana,banana,B,B,B,False,False,b,y,B,Y,1.0,0.0,0.0,b,y,B,Y,1.0,0.0,0.0,True,3,2.0
+cho109,choice,fruit,blueberry,blueberry,B,B,G,False,False,s,s,S,S,0.0,0.0,0.0,b,s,B,S,1.0,0.0,0.0,True,3,2.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,A,G,A,G,0.0,0.0,0.0,True,3,2.0
+cho131,choice,first_name,Evelyn,Elias,E,E,B,True,False,E,B,E,B,1.0,1.0,0.0,E,B,E,B,1.0,1.0,0.0,True,3,2.0
+cho135,choice,first_name,James,James,J,J,A,False,False,A,A,A,A,0.0,1.0,0.0,A,A,A,A,0.0,1.0,0.0,True,3,2.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,J,J,J,J,0.0,0.0,0.0,True,3,2.0
+cho142,choice,instrument,Flute,Flute,F,F,F,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,3,2.0
+cho152,choice,instrument,Harp,Harp,H,H,H,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,3,2.0
+cho153,choice,instrument,Drum,xylophone,D,X,D,True,True,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,3,2.0
+cho155,choice,instrument,Drum,Drum,D,D,T,False,False,B,B,B,B,0.0,0.0,0.0,B,b,B,B,0.0,0.0,0.0,True,3,2.0
+cho162,choice,sport,Judo,Judo,J,J,G,False,False,w,j,W,J,0.0,0.0,1.0,j,w,J,W,1.0,0.0,0.0,True,3,2.0
+cho168,choice,sport,football,football,F,F,S,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,3,2.0
+cho169,choice,sport,Football,Football,F,F,F,False,False,f,b,F,B,1.0,0.0,0.0,F,b,F,B,1.0,0.0,0.0,True,3,2.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,3,2.0
+cho181,choice,plant,spurge,spurge,S,S,F,False,False,g,g,G,G,0.0,0.0,0.0,g,g,G,G,0.0,0.0,0.0,True,3,2.0
+cho186,choice,plant,Pothos,Pothos,P,P,B,False,False,s,p,S,P,0.0,0.0,1.0,s,g,S,G,0.0,0.0,0.0,True,3,2.0
+cho188,choice,plant,cactus,cactus,C,C,C,False,False,c,c,C,C,1.0,1.0,1.0,c,c,C,C,1.0,1.0,1.0,True,3,2.0
+cho192,choice,plant,rose,snakeplant,R,S,B,True,True,g,p,G,P,0.0,0.0,0.0,g,p,G,P,0.0,0.0,0.0,True,3,2.0
+com326,completion,phrase,is,awaits,I,A,P,True,True,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,3,2.0
+com327,completion,phrase,Every distant letter fades.,is,E,I,C,True,True,E,E,E,E,1.0,0.0,1.0,E,E,E,E,0.0,0.0,0.0,True,3,2.0
+com328,completion,phrase,peace,peace,P,P,B,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,3,2.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,3,2.0
+com335,completion,phrase,range,range,R,R,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,3,2.0
+com338,completion,phrase,A empty mountain peak.,A empty mountain **silence**.,A,A,W,True,False,f,f,F,F,0.0,0.0,0.0,A,A,A,A,1.0,0.0,1.0,True,3,2.0
+com341,completion,phrase,Every dark window *holds*.,holds,E,H,W,True,True,E,e,E,E,1.0,0.0,1.0,E,e,E,E,0.0,0.0,0.0,True,3,2.0
+com343,completion,phrase,breeze,breeze,B,B,G,False,False,A,s,A,S,0.0,0.0,0.0,S,A,S,A,0.0,0.0,0.0,True,3,2.0
+com346,completion,phrase,is heard.,is heard,I,I,E,True,False,E,e,E,E,0.0,1.0,0.0,E,e,E,E,0.0,1.0,0.0,True,3,2.0
+com347,completion,phrase,Every heavy mountain *bears*.,Every heavy mountain **bears**.,E,E,S,True,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,3,2.0
+com351,completion,phrase,through,through,T,T,B,False,False,d,d,D,D,0.0,0.0,0.0,d,A,D,A,0.0,0.0,0.0,True,3,2.0
+com361,completion,phrase,afternoon,afternoon,A,A,D,False,False,S,A,S,A,0.0,0.0,1.0,R,A,R,A,0.0,0.0,1.0,True,3,2.0
+com364,completion,phrase,A bright mountain peak,peak,A,P,P,True,True,s,s,S,S,0.0,0.0,0.0,s,A,S,A,0.0,0.0,0.0,True,3,2.0
+com373,completion,phrase,Every long garden path,Every long garden **path**.,E,E,P,True,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,3,2.0
+com375,completion,phrase,block,block,B,B,A,False,False,r,t,R,T,0.0,0.0,0.0,r,t,R,T,0.0,0.0,0.0,True,3,2.0
+com381,completion,phrase,A sudden letter *arrival*.,arrival,A,A,B,True,False,S,s,S,S,0.0,0.0,0.0,S,A,S,A,0.0,0.0,1.0,True,3,2.0
+com393,completion,phrase,follows,follows,F,F,D,False,False,A,A,A,A,0.0,0.0,0.0,S,A,S,A,0.0,0.0,0.0,True,3,2.0
+com403,completion,phrase,holds,holds,H,H,S,False,False,E,e,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,3,2.0
+com415,completion,phrase,The dark letter e,The dark letter e.,T,T,S,True,False,d,d,D,D,0.0,0.0,0.0,d,d,D,D,0.0,0.0,0.0,True,3,2.0
+com416,completion,phrase,The busy house *is*.,The busy house **is**.,T,T,H,True,False,t,t,T,T,1.0,0.0,1.0,t,t,T,T,1.0,0.0,1.0,True,3,2.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,3,2.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,3,2.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,3,2.0
+fac437,factual,capital,Kiev,Kiev,K,K,K,False,False,K,K,K,K,1.0,1.0,1.0,K,K,K,K,1.0,1.0,1.0,True,3,2.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,3,2.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,3,2.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,H,H,H,H,1.0,1.0,1.0,True,3,2.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,3,2.0
+fac462,factual,arithmetic,twelve,twelve,T,T,T,False,False,T,t,T,T,1.0,1.0,1.0,T,t,T,T,1.0,1.0,1.0,True,3,2.0
+fac463,factual,arithmetic,sixteen,sixteen,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,s,s,S,S,1.0,1.0,1.0,True,3,2.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,F,n,F,N,1.0,0.0,0.0,True,3,2.0
+fac474,factual,arithmetic,three,three,T,T,T,False,False,three,t,,T,0.0,1.0,1.0,three,n,,N,0.0,0.0,0.0,True,3,2.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,3,2.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,f,f,F,F,0.0,0.0,0.0,True,3,2.0
+fac495,factual,opposite,soft,soft,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,s,s,S,S,1.0,1.0,1.0,True,3,2.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,n,n,N,N,1.0,1.0,1.0,True,3,2.0
+cho000,choice,animal,dog,dog,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,d,d,D,D,1.0,1.0,1.0,True,6,1.0
+cho002,choice,animal,ant,ant,A,A,F,False,False,s,s,S,S,0.0,0.0,0.0,a,s,A,S,1.0,0.0,0.0,True,6,1.0
+cho013,choice,animal,Lion,lion,L,L,L,True,False,z,z,Z,Z,0.0,0.0,0.0,z,z,Z,Z,0.0,0.0,0.0,True,6,1.0
+cho019,choice,animal,shark,shark,S,S,D,False,False,s,s,S,S,1.0,0.0,1.0,s,s,S,S,1.0,0.0,1.0,True,6,1.0
+cho027,choice,colour,blue,blue,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,b,r,B,R,1.0,0.0,0.0,True,6,1.0
+cho031,choice,colour,red,red,R,R,R,False,False,r,r,R,R,1.0,1.0,1.0,r,r,R,R,1.0,1.0,1.0,True,6,1.0
+cho033,choice,colour,Red,Red,R,R,R,False,False,R,r,R,R,1.0,1.0,1.0,r,r,R,R,1.0,1.0,1.0,True,6,1.0
+cho039,choice,colour,Indigo,Indigo,I,I,B,False,False,b,d,B,D,0.0,0.0,0.0,b,d,B,D,0.0,0.0,0.0,True,6,1.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,M,M,M,M,0.0,0.0,0.0,True,6,1.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,B,R,B,R,0.0,1.0,1.0,True,6,1.0
+cho058,choice,city,Paris,Paris,P,P,P,False,False,A,A,A,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,6,1.0
+cho059,choice,city,Nairobi,Nairobi,N,N,C,False,False,J,A,J,A,0.0,0.0,0.0,J,A,J,A,0.0,0.0,0.0,True,6,1.0
+cho061,choice,food,cake,cake,C,C,C,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,6,1.0
+cho062,choice,food,yogurt,yogurt,Y,Y,S,False,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,6,1.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,b,b,B,B,1.0,1.0,1.0,True,6,1.0
+cho076,choice,food,candy,candy,C,C,S,False,False,s,s,S,S,0.0,1.0,0.0,s,s,S,S,0.0,1.0,0.0,True,6,1.0
+cho082,choice,country,Sudan,Saudi Arabia,S,S,E,True,False,S,S,S,S,1.0,0.0,1.0,A,G,A,G,0.0,0.0,0.0,True,6,1.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,6,1.0
+cho093,choice,country,Nepal,Nepal,N,N,N,False,False,M,M,M,M,0.0,0.0,0.0,M,G,M,G,0.0,0.0,0.0,True,6,1.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,R,G,R,G,1.0,0.0,0.0,True,6,1.0
+cho101,choice,fruit,Orange,Cherry,O,C,P,True,True,p,p,P,P,0.0,1.0,0.0,b,p,B,P,0.0,1.0,0.0,True,6,1.0
+cho106,choice,fruit,mango,mango,M,M,M,False,False,m,m,M,M,1.0,1.0,1.0,m,m,M,M,1.0,1.0,1.0,True,6,1.0
+cho108,choice,fruit,banana,banana,B,B,B,False,False,b,y,B,Y,1.0,0.0,0.0,b,y,B,Y,1.0,0.0,0.0,True,6,1.0
+cho109,choice,fruit,blueberry,blueberry,B,B,G,False,False,s,s,S,S,0.0,0.0,0.0,b,b,B,B,1.0,0.0,1.0,True,6,1.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,A,G,A,G,0.0,0.0,0.0,True,6,1.0
+cho131,choice,first_name,Evelyn,Evelyn,E,E,B,False,False,E,B,E,B,1.0,1.0,0.0,E,E,E,E,1.0,0.0,1.0,True,6,1.0
+cho135,choice,first_name,James,James,J,J,A,False,False,A,A,A,A,0.0,1.0,0.0,a,a,A,A,0.0,1.0,0.0,True,6,1.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,j,j,J,J,0.0,0.0,0.0,True,6,1.0
+cho142,choice,instrument,Flute,Flute,F,F,F,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,6,1.0
+cho152,choice,instrument,Harp,Harp,H,H,H,False,False,s,s,S,S,0.0,0.0,0.0,s,c,S,C,0.0,0.0,0.0,True,6,1.0
+cho153,choice,instrument,Drum,Drum,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,6,1.0
+cho155,choice,instrument,Drum,Drum,D,D,T,False,False,B,B,B,B,0.0,0.0,0.0,B,b,B,B,0.0,0.0,0.0,True,6,1.0
+cho162,choice,sport,Judo,Judo,J,J,G,False,False,w,j,W,J,0.0,0.0,1.0,w,j,W,J,0.0,0.0,1.0,True,6,1.0
+cho168,choice,sport,football,baseball,F,B,S,True,True,b,b,B,B,0.0,0.0,0.0,b,b,B,B,1.0,0.0,1.0,True,6,1.0
+cho169,choice,sport,Football,Football,F,F,F,False,False,f,b,F,B,1.0,0.0,0.0,f,b,F,B,1.0,0.0,0.0,True,6,1.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,F,b,F,B,1.0,0.0,0.0,True,6,1.0
+cho181,choice,plant,spurge,spurge,S,S,F,False,False,g,g,G,G,0.0,0.0,0.0,e,g,E,G,0.0,0.0,0.0,True,6,1.0
+cho186,choice,plant,Pothos,Pothos,P,P,B,False,False,s,p,S,P,0.0,0.0,1.0,p,p,P,P,1.0,0.0,1.0,True,6,1.0
+cho188,choice,plant,cactus,cactus,C,C,C,False,False,c,c,C,C,1.0,1.0,1.0,c,c,C,C,1.0,1.0,1.0,True,6,1.0
+cho192,choice,plant,rose,rose,R,R,B,False,False,g,p,G,P,0.0,0.0,0.0,g,p,G,P,0.0,0.0,0.0,True,6,1.0
+com326,completion,phrase,is,Every distant storm *awaits*.,I,E,P,True,True,E,E,E,E,0.0,0.0,0.0,E,e,E,E,1.0,0.0,1.0,True,6,1.0
+com327,completion,phrase,Every distant letter fades.,fades,E,F,C,True,True,E,E,E,E,1.0,0.0,1.0,E,E,E,E,0.0,0.0,0.0,True,6,1.0
+com328,completion,phrase,peace,peace,P,P,B,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,6,1.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,6,1.0
+com335,completion,phrase,range,Every long mountain trail,R,E,H,True,True,E,E,E,E,0.0,0.0,0.0,E,E,E,E,1.0,0.0,1.0,True,6,1.0
+com338,completion,phrase,A empty mountain peak.,A empty mountain *shadow*.,A,A,W,True,False,f,f,F,F,0.0,0.0,0.0,A,f,A,F,1.0,0.0,0.0,True,6,1.0
+com341,completion,phrase,Every dark window *holds*.,Every dark window *glows*.,E,E,W,True,False,E,e,E,E,1.0,0.0,1.0,E,e,E,E,1.0,0.0,1.0,True,6,1.0
+com343,completion,phrase,breeze,breeze,B,B,G,False,False,A,s,A,S,0.0,0.0,0.0,A,r,A,R,0.0,0.0,0.0,True,6,1.0
+com346,completion,phrase,is heard.,is heard.,I,I,E,False,False,E,e,E,E,0.0,1.0,0.0,E,e,E,E,0.0,1.0,0.0,True,6,1.0
+com347,completion,phrase,Every heavy mountain *bears*.,Every heavy mountain **bears**.,E,E,S,True,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,6,1.0
+com351,completion,phrase,through,through,T,T,B,False,False,d,d,D,D,0.0,0.0,0.0,A,d,A,D,0.0,0.0,0.0,True,6,1.0
+com361,completion,phrase,afternoon,after,A,A,D,True,False,S,A,S,A,0.0,0.0,1.0,A,A,A,A,1.0,0.0,1.0,True,6,1.0
+com364,completion,phrase,A bright mountain peak,peak,A,P,P,True,True,s,s,S,S,0.0,0.0,0.0,s,r,S,R,0.0,0.0,0.0,True,6,1.0
+com373,completion,phrase,Every long garden path,Every long garden path,E,E,P,False,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,6,1.0
+com375,completion,phrase,block,block,B,B,A,False,False,r,t,R,T,0.0,0.0,0.0,r,r,R,R,0.0,0.0,0.0,True,6,1.0
+com381,completion,phrase,A sudden letter *arrival*.,A sudden letter *arrival*.,A,A,B,False,False,S,s,S,S,0.0,0.0,0.0,s,A,S,A,0.0,0.0,1.0,True,6,1.0
+com393,completion,phrase,follows,follows,F,F,D,False,False,A,A,A,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,6,1.0
+com403,completion,phrase,holds,holds,H,H,S,False,False,E,e,E,E,0.0,0.0,0.0,E,e,E,E,0.0,0.0,0.0,True,6,1.0
+com415,completion,phrase,The dark letter e,The dark letter e.,T,T,S,True,False,d,d,D,D,0.0,0.0,0.0,d,d,D,D,0.0,0.0,0.0,True,6,1.0
+com416,completion,phrase,The busy house *is*.,The busy house hums.,T,T,H,True,False,t,t,T,T,1.0,0.0,1.0,t,t,T,T,1.0,0.0,1.0,True,6,1.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,6,1.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,6,1.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,6,1.0
+fac437,factual,capital,Kiev,Kiev,K,K,K,False,False,K,K,K,K,1.0,1.0,1.0,K,k,K,K,1.0,1.0,1.0,True,6,1.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,6,1.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,6,1.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,H,H,H,H,1.0,1.0,1.0,True,6,1.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,6,1.0
+fac462,factual,arithmetic,twelve,twelve,T,T,T,False,False,T,t,T,T,1.0,1.0,1.0,"twelve
+
+The first letter of """,t,,T,0.0,1.0,1.0,True,6,1.0
+fac463,factual,arithmetic,sixteen,sixteen,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,s,s,S,S,1.0,1.0,1.0,True,6,1.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,F,f,F,F,1.0,1.0,1.0,True,6,1.0
+fac474,factual,arithmetic,three,three,T,T,T,False,False,three,t,,T,0.0,1.0,1.0,three,three,,,0.0,0.0,0.0,True,6,1.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,l,L,L,L,1.0,1.0,1.0,True,6,1.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,e,e,E,E,1.0,1.0,1.0,True,6,1.0
+fac495,factual,opposite,soft,soft,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,s,s,S,S,1.0,1.0,1.0,True,6,1.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,n,n,N,N,1.0,1.0,1.0,True,6,1.0
+cho000,choice,animal,dog,dog,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,d,d,D,D,1.0,1.0,1.0,True,6,2.0
+cho002,choice,animal,ant,ant,A,A,F,False,False,s,s,S,S,0.0,0.0,0.0,a,s,A,S,1.0,0.0,0.0,True,6,2.0
+cho013,choice,animal,Lion,lion,L,L,L,True,False,z,z,Z,Z,0.0,0.0,0.0,z,z,Z,Z,0.0,0.0,0.0,True,6,2.0
+cho019,choice,animal,shark,shark,S,S,D,False,False,s,s,S,S,1.0,0.0,1.0,s,s,S,S,1.0,0.0,1.0,True,6,2.0
+cho027,choice,colour,blue,blue,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,r,r,R,R,0.0,0.0,0.0,True,6,2.0
+cho031,choice,colour,red,red,R,R,R,False,False,r,r,R,R,1.0,1.0,1.0,r,r,R,R,1.0,1.0,1.0,True,6,2.0
+cho033,choice,colour,Red,Red,R,R,R,False,False,R,r,R,R,1.0,1.0,1.0,r,r,R,R,1.0,1.0,1.0,True,6,2.0
+cho039,choice,colour,Indigo,Indigo,I,I,B,False,False,b,d,B,D,0.0,0.0,0.0,n,d,N,D,0.0,0.0,0.0,True,6,2.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,M,M,M,M,0.0,0.0,0.0,True,6,2.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,B,a,B,A,0.0,0.0,0.0,True,6,2.0
+cho058,choice,city,Paris,Paris,P,P,P,False,False,A,A,A,A,0.0,0.0,0.0,A,G,A,G,0.0,0.0,0.0,True,6,2.0
+cho059,choice,city,Nairobi,Nairobi,N,N,C,False,False,J,A,J,A,0.0,0.0,0.0,N,A,N,A,1.0,0.0,0.0,True,6,2.0
+cho061,choice,food,cake,cake,C,C,C,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,6,2.0
+cho062,choice,food,yogurt,ice cream,Y,I,S,True,True,c,c,C,C,0.0,0.0,0.0,j,f,J,F,0.0,0.0,0.0,True,6,2.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,b,b,B,B,1.0,1.0,1.0,True,6,2.0
+cho076,choice,food,candy,candy,C,C,S,False,False,s,s,S,S,0.0,1.0,0.0,s,s,S,S,0.0,1.0,0.0,True,6,2.0
+cho082,choice,country,Sudan,India,S,I,E,True,True,S,S,S,S,1.0,0.0,1.0,A,G,A,G,0.0,0.0,0.0,True,6,2.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,6,2.0
+cho093,choice,country,Nepal,Nepal,N,N,N,False,False,M,M,M,M,0.0,0.0,0.0,M,G,M,G,0.0,0.0,0.0,True,6,2.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,G,G,G,G,0.0,0.0,0.0,True,6,2.0
+cho101,choice,fruit,Orange,Cherry,O,C,P,True,True,p,p,P,P,0.0,1.0,0.0,b,p,B,P,0.0,1.0,0.0,True,6,2.0
+cho106,choice,fruit,mango,mango,M,M,M,False,False,m,m,M,M,1.0,1.0,1.0,m,m,M,M,1.0,1.0,1.0,True,6,2.0
+cho108,choice,fruit,banana,banana,B,B,B,False,False,b,y,B,Y,1.0,0.0,0.0,b,y,B,Y,1.0,0.0,0.0,True,6,2.0
+cho109,choice,fruit,blueberry,lime,B,L,G,True,True,s,s,S,S,0.0,0.0,0.0,b,a,B,A,0.0,0.0,0.0,True,6,2.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,a,G,A,G,0.0,0.0,0.0,True,6,2.0
+cho131,choice,first_name,Evelyn,Evelyn,E,E,B,False,False,E,B,E,B,1.0,1.0,0.0,E,E,E,E,1.0,0.0,1.0,True,6,2.0
+cho135,choice,first_name,James,James,J,J,A,False,False,A,A,A,A,0.0,1.0,0.0,a,a,A,A,0.0,1.0,0.0,True,6,2.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,b,g,B,G,0.0,0.0,0.0,True,6,2.0
+cho142,choice,instrument,Flute,Flute,F,F,F,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,6,2.0
+cho152,choice,instrument,Harp,Harp,H,H,H,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,6,2.0
+cho153,choice,instrument,Drum,xylophone,D,X,D,True,True,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,6,2.0
+cho155,choice,instrument,Drum,Drum,D,D,T,False,False,B,B,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,6,2.0
+cho162,choice,sport,Judo,Judo,J,J,G,False,False,w,j,W,J,0.0,0.0,1.0,r,r,R,R,0.0,0.0,0.0,True,6,2.0
+cho168,choice,sport,football,baseball,F,B,S,True,True,b,b,B,B,0.0,0.0,0.0,b,b,B,B,1.0,0.0,1.0,True,6,2.0
+cho169,choice,sport,Football,Football,F,F,F,False,False,f,b,F,B,1.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,6,2.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,6,2.0
+cho181,choice,plant,spurge,spurge,S,S,F,False,False,g,g,G,G,0.0,0.0,0.0,e,g,E,G,0.0,0.0,0.0,True,6,2.0
+cho186,choice,plant,Pothos,Pothos,P,P,B,False,False,s,p,S,P,0.0,0.0,1.0,g,p,G,P,0.0,0.0,1.0,True,6,2.0
+cho188,choice,plant,cactus,cactus,C,C,C,False,False,c,c,C,C,1.0,1.0,1.0,c,c,C,C,1.0,1.0,1.0,True,6,2.0
+cho192,choice,plant,rose,rose,R,R,B,False,False,g,p,G,P,0.0,0.0,0.0,g,p,G,P,0.0,0.0,0.0,True,6,2.0
+com326,completion,phrase,is,Every distant storm **awaits**.,I,E,P,True,True,E,E,E,E,0.0,0.0,0.0,E,e,E,E,1.0,0.0,1.0,True,6,2.0
+com327,completion,phrase,Every distant letter fades.,fades,E,F,C,True,True,E,E,E,E,1.0,0.0,1.0,E,e,E,E,0.0,0.0,0.0,True,6,2.0
+com328,completion,phrase,peace,peace,P,P,B,False,False,s,s,S,S,0.0,0.0,0.0,e,s,E,S,0.0,0.0,0.0,True,6,2.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,6,2.0
+com335,completion,phrase,range,Every long mountain trail.,R,E,H,True,True,E,E,E,E,0.0,0.0,0.0,E,E,E,E,1.0,0.0,1.0,True,6,2.0
+com338,completion,phrase,A empty mountain peak.,A empty mountain ghost.,A,A,W,True,False,f,f,F,F,0.0,0.0,0.0,A,f,A,F,1.0,0.0,0.0,True,6,2.0
+com341,completion,phrase,Every dark window *holds*.,Every dark window *glows*.,E,E,W,True,False,E,e,E,E,1.0,0.0,1.0,e,e,E,E,1.0,0.0,1.0,True,6,2.0
+com343,completion,phrase,breeze,breeze,B,B,G,False,False,A,s,A,S,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,6,2.0
+com346,completion,phrase,is heard.,is heard.,I,I,E,False,False,E,e,E,E,0.0,1.0,0.0,e,e,E,E,0.0,1.0,0.0,True,6,2.0
+com347,completion,phrase,Every heavy mountain *bears*.,Every heavy mountain **bears**.,E,E,S,True,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,6,2.0
+com351,completion,phrase,through,ahead,T,A,B,True,True,d,d,D,D,0.0,0.0,0.0,A,A,A,A,1.0,0.0,1.0,True,6,2.0
+com361,completion,phrase,afternoon,after,A,A,D,True,False,S,A,S,A,0.0,0.0,1.0,E,A,E,A,0.0,0.0,1.0,True,6,2.0
+com364,completion,phrase,A bright mountain peak,peak,A,P,P,True,True,s,s,S,S,0.0,0.0,0.0,A,r,A,R,0.0,0.0,0.0,True,6,2.0
+com373,completion,phrase,Every long garden path,Every long garden *path*.,E,E,P,True,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,6,2.0
+com375,completion,phrase,block,block,B,B,A,False,False,r,t,R,T,0.0,0.0,0.0,r,r,R,R,0.0,0.0,0.0,True,6,2.0
+com381,completion,phrase,A sudden letter *arrival*.,A sudden letter shock.,A,A,B,True,False,S,s,S,S,0.0,0.0,0.0,A,A,A,A,1.0,0.0,1.0,True,6,2.0
+com393,completion,phrase,follows,follows,F,F,D,False,False,A,A,A,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,6,2.0
+com403,completion,phrase,holds,holds,H,H,S,False,False,E,e,E,E,0.0,0.0,0.0,E,e,E,E,0.0,0.0,0.0,True,6,2.0
+com415,completion,phrase,The dark letter e,The dark letter *knight*.,T,T,S,True,False,d,d,D,D,0.0,0.0,0.0,d,r,D,R,0.0,0.0,0.0,True,6,2.0
+com416,completion,phrase,The busy house *is*.,The busy house *is*.,T,T,H,False,False,t,t,T,T,1.0,0.0,1.0,e,t,E,T,0.0,0.0,1.0,True,6,2.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,6,2.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,6,2.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,6,2.0
+fac437,factual,capital,Kiev,Kyiv,K,K,K,True,False,K,K,K,K,1.0,1.0,1.0,K,k,K,K,1.0,1.0,1.0,True,6,2.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,6,2.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,6,2.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,H,H,H,H,1.0,1.0,1.0,True,6,2.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,6,2.0
+fac462,factual,arithmetic,twelve,twelve,T,T,T,False,False,T,t,T,T,1.0,1.0,1.0,"twelve
+
+The first letter of """,twelve,,,0.0,0.0,0.0,True,6,2.0
+fac463,factual,arithmetic,sixteen,sixteen,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,s,s,S,S,1.0,1.0,1.0,True,6,2.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,f,f,F,F,1.0,1.0,1.0,True,6,2.0
+fac474,factual,arithmetic,three,three,T,T,T,False,False,three,t,,T,0.0,1.0,1.0,three,three,,,0.0,0.0,0.0,True,6,2.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,l,l,L,L,1.0,1.0,1.0,True,6,2.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,a,h,A,H,0.0,0.0,0.0,True,6,2.0
+fac495,factual,opposite,soft,soft,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,s,s,S,S,1.0,1.0,1.0,True,6,2.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,n,n,N,N,1.0,1.0,1.0,True,6,2.0
+cho000,choice,animal,dog,dog,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,d,c,D,C,1.0,0.0,0.0,True,9,1.0
+cho002,choice,animal,ant,ant,A,A,F,False,False,s,s,S,S,0.0,0.0,0.0,a,s,A,S,1.0,0.0,0.0,True,9,1.0
+cho013,choice,animal,Lion,lion,L,L,L,True,False,z,z,Z,Z,0.0,0.0,0.0,z,z,Z,Z,0.0,0.0,0.0,True,9,1.0
+cho019,choice,animal,shark,shark,S,S,D,False,False,s,s,S,S,1.0,0.0,1.0,s,s,S,S,1.0,0.0,1.0,True,9,1.0
+cho027,choice,colour,blue,blue,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,b,r,B,R,1.0,0.0,0.0,True,9,1.0
+cho031,choice,colour,red,red,R,R,R,False,False,r,r,R,R,1.0,1.0,1.0,r,r,R,R,1.0,1.0,1.0,True,9,1.0
+cho033,choice,colour,Red,Red,R,R,R,False,False,R,r,R,R,1.0,1.0,1.0,R,r,R,R,1.0,1.0,1.0,True,9,1.0
+cho039,choice,colour,Indigo,Indigo,I,I,B,False,False,b,d,B,D,0.0,0.0,0.0,B,b,B,B,0.0,1.0,0.0,True,9,1.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,M,L,M,L,0.0,0.0,0.0,True,9,1.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,B,C,B,C,0.0,0.0,0.0,True,9,1.0
+cho058,choice,city,Paris,Paris,P,P,P,False,False,A,A,A,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,9,1.0
+cho059,choice,city,Nairobi,Nairobi,N,N,C,False,False,J,A,J,A,0.0,0.0,0.0,J,A,J,A,0.0,0.0,0.0,True,9,1.0
+cho061,choice,food,cake,cake,C,C,C,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,9,1.0
+cho062,choice,food,yogurt,yogurt,Y,Y,S,False,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,9,1.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,b,b,B,B,1.0,1.0,1.0,True,9,1.0
+cho076,choice,food,candy,candy,C,C,S,False,False,s,s,S,S,0.0,1.0,0.0,s,s,S,S,0.0,1.0,0.0,True,9,1.0
+cho082,choice,country,Sudan,Saudi Arabia,S,S,E,True,False,S,S,S,S,1.0,0.0,1.0,A,G,A,G,0.0,0.0,0.0,True,9,1.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,9,1.0
+cho093,choice,country,Nepal,Nepal,N,N,N,False,False,M,M,M,M,0.0,0.0,0.0,M,G,M,G,0.0,0.0,0.0,True,9,1.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,R,G,R,G,1.0,0.0,0.0,True,9,1.0
+cho101,choice,fruit,Orange,Peach,O,P,P,True,True,p,p,P,P,0.0,1.0,0.0,p,p,P,P,1.0,1.0,1.0,True,9,1.0
+cho106,choice,fruit,mango,mango,M,M,M,False,False,m,m,M,M,1.0,1.0,1.0,m,m,M,M,1.0,1.0,1.0,True,9,1.0
+cho108,choice,fruit,banana,banana,B,B,B,False,False,b,y,B,Y,1.0,0.0,0.0,b,y,B,Y,1.0,0.0,0.0,True,9,1.0
+cho109,choice,fruit,blueberry,blueberry,B,B,G,False,False,s,s,S,S,0.0,0.0,0.0,b,a,B,A,1.0,0.0,0.0,True,9,1.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,9,1.0
+cho131,choice,first_name,Evelyn,Ethan,E,E,B,True,False,E,B,E,B,1.0,1.0,0.0,E,B,E,B,1.0,1.0,0.0,True,9,1.0
+cho135,choice,first_name,James,James,J,J,A,False,False,A,A,A,A,0.0,1.0,0.0,A,a,A,A,0.0,1.0,0.0,True,9,1.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,j,j,J,J,0.0,0.0,0.0,True,9,1.0
+cho142,choice,instrument,Flute,Flute,F,F,F,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,9,1.0
+cho152,choice,instrument,Harp,Marimba,H,M,H,True,True,s,s,S,S,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,9,1.0
+cho153,choice,instrument,Drum,Drum,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,9,1.0
+cho155,choice,instrument,Drum,drum,D,D,T,True,False,B,B,B,B,0.0,0.0,0.0,B,b,B,B,0.0,0.0,0.0,True,9,1.0
+cho162,choice,sport,Judo,Judo,J,J,G,False,False,w,j,W,J,0.0,0.0,1.0,c,c,C,C,0.0,0.0,0.0,True,9,1.0
+cho168,choice,sport,football,baseball,F,B,S,True,True,b,b,B,B,0.0,0.0,0.0,b,b,B,B,1.0,0.0,1.0,True,9,1.0
+cho169,choice,sport,Football,Football,F,F,F,False,False,f,b,F,B,1.0,0.0,0.0,f,b,F,B,1.0,0.0,0.0,True,9,1.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,F,b,F,B,1.0,0.0,0.0,True,9,1.0
+cho181,choice,plant,spurge,spurge,S,S,F,False,False,g,g,G,G,0.0,0.0,0.0,g,g,G,G,0.0,0.0,0.0,True,9,1.0
+cho186,choice,plant,Pothos,Pothos,P,P,B,False,False,s,p,S,P,0.0,0.0,1.0,g,g,G,G,0.0,0.0,0.0,True,9,1.0
+cho188,choice,plant,cactus,cactus,C,C,C,False,False,c,c,C,C,1.0,1.0,1.0,c,c,C,C,1.0,1.0,1.0,True,9,1.0
+cho192,choice,plant,rose,rose,R,R,B,False,False,g,p,G,P,0.0,0.0,0.0,g,p,G,P,0.0,0.0,0.0,True,9,1.0
+com326,completion,phrase,is,looms,I,L,P,True,True,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,9,1.0
+com327,completion,phrase,Every distant letter fades.,Every distant letter fades.,E,E,C,False,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,9,1.0
+com328,completion,phrase,peace,peace,P,P,B,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,9,1.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,9,1.0
+com335,completion,phrase,range,Every long mountain trail,R,E,H,True,True,E,E,E,E,0.0,0.0,0.0,E,E,E,E,1.0,0.0,1.0,True,9,1.0
+com338,completion,phrase,A empty mountain peak.,A empty mountain peak.,A,A,W,False,False,f,f,F,F,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,9,1.0
+com341,completion,phrase,Every dark window *holds*.,glows,E,G,W,True,True,E,e,E,E,1.0,0.0,1.0,E,e,E,E,0.0,0.0,0.0,True,9,1.0
+com343,completion,phrase,breeze,breeze,B,B,G,False,False,A,s,A,S,0.0,0.0,0.0,R,s,R,S,0.0,0.0,0.0,True,9,1.0
+com346,completion,phrase,is heard.,is heard.,I,I,E,False,False,E,e,E,E,0.0,1.0,0.0,E,e,E,E,0.0,1.0,0.0,True,9,1.0
+com347,completion,phrase,Every heavy mountain *bears*.,Every heavy mountain *bears*.,E,E,S,False,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,9,1.0
+com351,completion,phrase,through,through,T,T,B,False,False,d,d,D,D,0.0,0.0,0.0,J,d,J,D,0.0,0.0,0.0,True,9,1.0
+com361,completion,phrase,afternoon,after,A,A,D,True,False,S,A,S,A,0.0,0.0,1.0,R,A,R,A,0.0,0.0,1.0,True,9,1.0
+com364,completion,phrase,A bright mountain peak,A bright mountain peak,A,A,P,False,False,s,s,S,S,0.0,0.0,0.0,s,c,S,C,0.0,0.0,0.0,True,9,1.0
+com373,completion,phrase,Every long garden path,Every long garden path,E,E,P,False,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,9,1.0
+com375,completion,phrase,block,block,B,B,A,False,False,r,t,R,T,0.0,0.0,0.0,r,t,R,T,0.0,0.0,0.0,True,9,1.0
+com381,completion,phrase,A sudden letter *arrival*.,A sudden letter *arrival*.,A,A,B,False,False,S,s,S,S,0.0,0.0,0.0,S,s,S,S,0.0,0.0,0.0,True,9,1.0
+com393,completion,phrase,follows,follows,F,F,D,False,False,A,A,A,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,9,1.0
+com403,completion,phrase,holds,holds,H,H,S,False,False,E,e,E,E,0.0,0.0,0.0,E,e,E,E,0.0,0.0,0.0,True,9,1.0
+com415,completion,phrase,The dark letter e,The dark letter D,T,T,S,True,False,d,d,D,D,0.0,0.0,0.0,d,d,D,D,0.0,0.0,0.0,True,9,1.0
+com416,completion,phrase,The busy house *is*.,The busy house *is*.,T,T,H,False,False,t,t,T,T,1.0,0.0,1.0,t,t,T,T,1.0,0.0,1.0,True,9,1.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,9,1.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,9,1.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,9,1.0
+fac437,factual,capital,Kiev,Kyiv,K,K,K,True,False,K,K,K,K,1.0,1.0,1.0,K,K,K,K,1.0,1.0,1.0,True,9,1.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,9,1.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,9,1.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,H,H,H,H,1.0,1.0,1.0,True,9,1.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,9,1.0
+fac462,factual,arithmetic,twelve,twelve,T,T,T,False,False,T,t,T,T,1.0,1.0,1.0,T,t,T,T,1.0,1.0,1.0,True,9,1.0
+fac463,factual,arithmetic,sixteen,sixteen,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,s,s,S,S,1.0,1.0,1.0,True,9,1.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,F,s,F,S,1.0,0.0,0.0,True,9,1.0
+fac474,factual,arithmetic,three,three,T,T,T,False,False,three,t,,T,0.0,1.0,1.0,three,t,,T,0.0,1.0,1.0,True,9,1.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,9,1.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,e,h,E,H,1.0,0.0,0.0,True,9,1.0
+fac495,factual,opposite,soft,soft,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,s,S,S,1.0,1.0,1.0,True,9,1.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,n,n,N,N,1.0,1.0,1.0,True,9,1.0
+cho000,choice,animal,dog,dog,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,9,2.0
+cho002,choice,animal,ant,ant,A,A,F,False,False,s,s,S,S,0.0,0.0,0.0,a,a,A,A,1.0,0.0,1.0,True,9,2.0
+cho013,choice,animal,Lion,lion,L,L,L,True,False,z,z,Z,Z,0.0,0.0,0.0,z,z,Z,Z,0.0,0.0,0.0,True,9,2.0
+cho019,choice,animal,shark,shark,S,S,D,False,False,s,s,S,S,1.0,0.0,1.0,s,s,S,S,1.0,0.0,1.0,True,9,2.0
+cho027,choice,colour,blue,blue,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,r,r,R,R,0.0,0.0,0.0,True,9,2.0
+cho031,choice,colour,red,red,R,R,R,False,False,r,r,R,R,1.0,1.0,1.0,r,r,R,R,1.0,1.0,1.0,True,9,2.0
+cho033,choice,colour,Red,red,R,R,R,True,False,R,r,R,R,1.0,1.0,1.0,R,r,R,R,1.0,1.0,1.0,True,9,2.0
+cho039,choice,colour,Indigo,black,I,B,B,True,True,b,d,B,D,0.0,0.0,0.0,b,b,B,B,1.0,1.0,1.0,True,9,2.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,M,m,M,M,0.0,0.0,0.0,True,9,2.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,R,C,R,C,1.0,0.0,0.0,True,9,2.0
+cho058,choice,city,Paris,Paris,P,P,P,False,False,A,A,A,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,9,2.0
+cho059,choice,city,Nairobi,Nairobi,N,N,C,False,False,J,A,J,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,9,2.0
+cho061,choice,food,cake,cake,C,C,C,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,9,2.0
+cho062,choice,food,yogurt,yogurt,Y,Y,S,False,False,c,c,C,C,0.0,0.0,0.0,a,c,A,C,0.0,0.0,0.0,True,9,2.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,b,b,B,B,1.0,1.0,1.0,True,9,2.0
+cho076,choice,food,candy,candy,C,C,S,False,False,s,s,S,S,0.0,1.0,0.0,s,s,S,S,0.0,1.0,0.0,True,9,2.0
+cho082,choice,country,Sudan,Saudi Arabia,S,S,E,True,False,S,S,S,S,1.0,0.0,1.0,A,G,A,G,0.0,0.0,0.0,True,9,2.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,9,2.0
+cho093,choice,country,Nepal,China,N,C,N,True,True,M,M,M,M,0.0,0.0,0.0,C,G,C,G,1.0,0.0,0.0,True,9,2.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,R,G,R,G,1.0,0.0,0.0,True,9,2.0
+cho101,choice,fruit,Orange,Peach,O,P,P,True,True,p,p,P,P,0.0,1.0,0.0,p,p,P,P,1.0,1.0,1.0,True,9,2.0
+cho106,choice,fruit,mango,mango,M,M,M,False,False,m,m,M,M,1.0,1.0,1.0,m,m,M,M,1.0,1.0,1.0,True,9,2.0
+cho108,choice,fruit,banana,banana,B,B,B,False,False,b,y,B,Y,1.0,0.0,0.0,b,a,B,A,1.0,0.0,0.0,True,9,2.0
+cho109,choice,fruit,blueberry,grape,B,G,G,True,True,s,s,S,S,0.0,0.0,0.0,b,a,B,A,0.0,0.0,0.0,True,9,2.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,A,G,A,G,0.0,0.0,0.0,True,9,2.0
+cho131,choice,first_name,Evelyn,Ethan,E,E,B,True,False,E,B,E,B,1.0,1.0,0.0,B,B,B,B,0.0,1.0,0.0,True,9,2.0
+cho135,choice,first_name,James,James,J,J,A,False,False,A,A,A,A,0.0,1.0,0.0,A,a,A,A,0.0,1.0,0.0,True,9,2.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,j,j,J,J,0.0,0.0,0.0,True,9,2.0
+cho142,choice,instrument,Flute,flute,F,F,F,True,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,9,2.0
+cho152,choice,instrument,Harp,Cello,H,C,H,True,True,s,s,S,S,0.0,0.0,0.0,c,c,C,C,1.0,0.0,1.0,True,9,2.0
+cho153,choice,instrument,Drum,Drum,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,9,2.0
+cho155,choice,instrument,Drum,drum,D,D,T,True,False,B,B,B,B,0.0,0.0,0.0,C,B,C,B,0.0,0.0,0.0,True,9,2.0
+cho162,choice,sport,Judo,judo,J,J,G,True,False,w,j,W,J,0.0,0.0,1.0,c,c,C,C,0.0,0.0,0.0,True,9,2.0
+cho168,choice,sport,football,baseball,F,B,S,True,True,b,b,B,B,0.0,0.0,0.0,b,b,B,B,1.0,0.0,1.0,True,9,2.0
+cho169,choice,sport,Football,football,F,F,F,True,False,f,b,F,B,1.0,0.0,0.0,f,b,F,B,1.0,0.0,0.0,True,9,2.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,9,2.0
+cho181,choice,plant,spurge,mint,S,M,F,True,True,g,g,G,G,0.0,0.0,0.0,g,g,G,G,0.0,0.0,0.0,True,9,2.0
+cho186,choice,plant,Pothos,potted plant,P,P,B,True,False,s,p,S,P,0.0,0.0,1.0,g,g,G,G,0.0,0.0,0.0,True,9,2.0
+cho188,choice,plant,cactus,cactus,C,C,C,False,False,c,c,C,C,1.0,1.0,1.0,c,c,C,C,1.0,1.0,1.0,True,9,2.0
+cho192,choice,plant,rose,rose,R,R,B,False,False,g,p,G,P,0.0,0.0,0.0,g,p,G,P,0.0,0.0,0.0,True,9,2.0
+com326,completion,phrase,is,Every distant storm *awaits*.,I,E,P,True,True,E,E,E,E,0.0,0.0,0.0,E,E,E,E,1.0,0.0,1.0,True,9,2.0
+com327,completion,phrase,Every distant letter fades.,Every distant letter fades.,E,E,C,False,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,9,2.0
+com328,completion,phrase,peace,peace,P,P,B,False,False,s,s,S,S,0.0,0.0,0.0,s,f,S,F,0.0,0.0,0.0,True,9,2.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,9,2.0
+com335,completion,phrase,range,Every long mountain trail,R,E,H,True,True,E,E,E,E,0.0,0.0,0.0,E,E,E,E,1.0,0.0,1.0,True,9,2.0
+com338,completion,phrase,A empty mountain peak.,A empty mountain **top**.,A,A,W,True,False,f,f,F,F,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,9,2.0
+com341,completion,phrase,Every dark window *holds*.,glows,E,G,W,True,True,E,e,E,E,1.0,0.0,1.0,E,e,E,E,0.0,0.0,0.0,True,9,2.0
+com343,completion,phrase,breeze,A golden winter sun,B,A,G,True,True,A,s,A,S,0.0,0.0,0.0,R,r,R,R,0.0,0.0,0.0,True,9,2.0
+com346,completion,phrase,is heard.,is heard.,I,I,E,False,False,E,e,E,E,0.0,1.0,0.0,E,e,E,E,0.0,1.0,0.0,True,9,2.0
+com347,completion,phrase,Every heavy mountain *bears*.,Every heavy mountain **bears**.,E,E,S,True,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,9,2.0
+com351,completion,phrase,through,A dark journey *ahead*.,T,A,B,True,True,d,d,D,D,0.0,0.0,0.0,J,A,J,A,0.0,0.0,1.0,True,9,2.0
+com361,completion,phrase,afternoon,after,A,A,D,True,False,S,A,S,A,0.0,0.0,1.0,A,A,A,A,1.0,0.0,1.0,True,9,2.0
+com364,completion,phrase,A bright mountain peak,A bright mountain peak,A,A,P,False,False,s,s,S,S,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,9,2.0
+com373,completion,phrase,Every long garden path,Every long garden **path**.,E,E,P,True,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,9,2.0
+com375,completion,phrase,block,block,B,B,A,False,False,r,t,R,T,0.0,0.0,0.0,r,o,R,O,0.0,0.0,0.0,True,9,2.0
+com381,completion,phrase,A sudden letter *arrival*.,A sudden letter *arrival*.,A,A,B,False,False,S,s,S,S,0.0,0.0,0.0,S,A,S,A,0.0,0.0,1.0,True,9,2.0
+com393,completion,phrase,follows,follows,F,F,D,False,False,A,A,A,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,9,2.0
+com403,completion,phrase,holds,holds,H,H,S,False,False,E,e,E,E,0.0,0.0,0.0,E,e,E,E,0.0,0.0,0.0,True,9,2.0
+com415,completion,phrase,The dark letter e,The dark letter D,T,T,S,True,False,d,d,D,D,0.0,0.0,0.0,d,d,D,D,0.0,0.0,0.0,True,9,2.0
+com416,completion,phrase,The busy house *is*.,The busy house *is*.,T,T,H,False,False,t,t,T,T,1.0,0.0,1.0,t,t,T,T,1.0,0.0,1.0,True,9,2.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,9,2.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,N,n,N,N,1.0,1.0,1.0,True,9,2.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,9,2.0
+fac437,factual,capital,Kiev,Kiev,K,K,K,False,False,K,K,K,K,1.0,1.0,1.0,K,k,K,K,1.0,1.0,1.0,True,9,2.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,9,2.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,9,2.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,h,H,H,H,1.0,1.0,1.0,True,9,2.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,9,2.0
+fac462,factual,arithmetic,twelve,twelve,T,T,T,False,False,T,t,T,T,1.0,1.0,1.0,T,t,T,T,1.0,1.0,1.0,True,9,2.0
+fac463,factual,arithmetic,sixteen,sixteen,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,s,S,S,1.0,1.0,1.0,True,9,2.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,F,s,F,S,1.0,0.0,0.0,True,9,2.0
+fac474,factual,arithmetic,three,three,T,T,T,False,False,three,t,,T,0.0,1.0,1.0,t,t,T,T,1.0,1.0,1.0,True,9,2.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,9,2.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,b,f,B,F,0.0,0.0,0.0,True,9,2.0
+fac495,factual,opposite,soft,soft,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,f,S,F,1.0,0.0,0.0,True,9,2.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,n,n,N,N,1.0,1.0,1.0,True,9,2.0
+cho000,choice,animal,dog,dog,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,d,c,D,C,1.0,0.0,0.0,True,12,1.0
+cho002,choice,animal,ant,ant,A,A,F,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,12,1.0
+cho013,choice,animal,Lion,Lion,L,L,L,False,False,z,z,Z,Z,0.0,0.0,0.0,z,A,Z,A,0.0,0.0,0.0,True,12,1.0
+cho019,choice,animal,shark,shark,S,S,D,False,False,s,s,S,S,1.0,0.0,1.0,s,s,S,S,1.0,0.0,1.0,True,12,1.0
+cho027,choice,colour,blue,blue,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,r,r,R,R,0.0,0.0,0.0,True,12,1.0
+cho031,choice,colour,red,red,R,R,R,False,False,r,r,R,R,1.0,1.0,1.0,R,r,R,R,1.0,1.0,1.0,True,12,1.0
+cho033,choice,colour,Red,Red,R,R,R,False,False,R,r,R,R,1.0,1.0,1.0,R,r,R,R,1.0,1.0,1.0,True,12,1.0
+cho039,choice,colour,Indigo,Indigo,I,I,B,False,False,b,d,B,D,0.0,0.0,0.0,B,d,B,D,0.0,0.0,0.0,True,12,1.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,T,L,T,L,0.0,0.0,0.0,True,12,1.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,B,C,B,C,0.0,0.0,0.0,True,12,1.0
+cho058,choice,city,Paris,Paris,P,P,P,False,False,A,A,A,A,0.0,0.0,0.0,B,A,B,A,0.0,0.0,0.0,True,12,1.0
+cho059,choice,city,Nairobi,Nairobi,N,N,C,False,False,J,A,J,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,12,1.0
+cho061,choice,food,cake,cake,C,C,C,False,False,b,b,B,B,0.0,0.0,0.0,B,b,B,B,0.0,0.0,0.0,True,12,1.0
+cho062,choice,food,yogurt,yogurt,Y,Y,S,False,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,12,1.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,b,b,B,B,1.0,1.0,1.0,True,12,1.0
+cho076,choice,food,candy,candy,C,C,S,False,False,s,s,S,S,0.0,1.0,0.0,S,s,S,S,0.0,1.0,0.0,True,12,1.0
+cho082,choice,country,Sudan,Sudan,S,S,E,False,False,S,S,S,S,1.0,0.0,1.0,S,S,S,S,1.0,0.0,1.0,True,12,1.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,12,1.0
+cho093,choice,country,Nepal,Nepal,N,N,N,False,False,M,M,M,M,0.0,0.0,0.0,M,G,M,G,0.0,0.0,0.0,True,12,1.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,R,G,R,G,1.0,0.0,0.0,True,12,1.0
+cho101,choice,fruit,Orange,Cherry,O,C,P,True,True,p,p,P,P,0.0,1.0,0.0,p,p,P,P,0.0,1.0,0.0,True,12,1.0
+cho106,choice,fruit,mango,mango,M,M,M,False,False,m,m,M,M,1.0,1.0,1.0,m,m,M,M,1.0,1.0,1.0,True,12,1.0
+cho108,choice,fruit,banana,banana,B,B,B,False,False,b,y,B,Y,1.0,0.0,0.0,B,y,B,Y,1.0,0.0,0.0,True,12,1.0
+cho109,choice,fruit,blueberry,blueberry,B,B,G,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,12,1.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,12,1.0
+cho131,choice,first_name,Evelyn,Evelyn,E,E,B,False,False,E,B,E,B,1.0,1.0,0.0,E,B,E,B,1.0,1.0,0.0,True,12,1.0
+cho135,choice,first_name,James,James,J,J,A,False,False,A,A,A,A,0.0,1.0,0.0,A,A,A,A,0.0,1.0,0.0,True,12,1.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,a,j,A,J,0.0,0.0,0.0,True,12,1.0
+cho142,choice,instrument,Flute,Flute,F,F,F,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,12,1.0
+cho152,choice,instrument,Harp,Harp,H,H,H,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,12,1.0
+cho153,choice,instrument,Drum,Drum,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,c,b,C,B,0.0,0.0,0.0,True,12,1.0
+cho155,choice,instrument,Drum,Drum,D,D,T,False,False,B,B,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,12,1.0
+cho162,choice,sport,Judo,Judo,J,J,G,False,False,w,j,W,J,0.0,0.0,1.0,C,c,C,C,0.0,0.0,0.0,True,12,1.0
+cho168,choice,sport,football,football,F,F,S,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,12,1.0
+cho169,choice,sport,Football,Football,F,F,F,False,False,f,b,F,B,1.0,0.0,0.0,S,b,S,B,0.0,0.0,0.0,True,12,1.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,12,1.0
+cho181,choice,plant,spurge,spurge,S,S,F,False,False,g,g,G,G,0.0,0.0,0.0,g,g,G,G,0.0,0.0,0.0,True,12,1.0
+cho186,choice,plant,Pothos,Pothos,P,P,B,False,False,s,p,S,P,0.0,0.0,1.0,s,p,S,P,0.0,0.0,1.0,True,12,1.0
+cho188,choice,plant,cactus,cactus,C,C,C,False,False,c,c,C,C,1.0,1.0,1.0,c,c,C,C,1.0,1.0,1.0,True,12,1.0
+cho192,choice,plant,rose,Pothos,R,P,B,True,True,g,p,G,P,0.0,0.0,0.0,p,p,P,P,1.0,0.0,1.0,True,12,1.0
+com326,completion,phrase,is,is,I,I,P,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,12,1.0
+com327,completion,phrase,Every distant letter fades.,fades,E,F,C,True,True,E,E,E,E,1.0,0.0,1.0,E,E,E,E,0.0,0.0,0.0,True,12,1.0
+com328,completion,phrase,peace,peace,P,P,B,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,12,1.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,12,1.0
+com335,completion,phrase,range,range,R,R,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,12,1.0
+com338,completion,phrase,A empty mountain peak.,silence,A,S,W,True,True,f,f,F,F,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,12,1.0
+com341,completion,phrase,Every dark window *holds*.,holds,E,H,W,True,True,E,e,E,E,1.0,0.0,1.0,E,e,E,E,0.0,0.0,0.0,True,12,1.0
+com343,completion,phrase,breeze,breeze,B,B,G,False,False,A,s,A,S,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,12,1.0
+com346,completion,phrase,is heard.,is heard.,I,I,E,False,False,E,e,E,E,0.0,1.0,0.0,E,e,E,E,0.0,1.0,0.0,True,12,1.0
+com347,completion,phrase,Every heavy mountain *bears*.,Every heavy mountain *falls*.,E,E,S,True,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,12,1.0
+com351,completion,phrase,through,through,T,T,B,False,False,d,d,D,D,0.0,0.0,0.0,D,d,D,D,0.0,0.0,0.0,True,12,1.0
+com361,completion,phrase,afternoon,afternoon,A,A,D,False,False,S,A,S,A,0.0,0.0,1.0,S,A,S,A,0.0,0.0,1.0,True,12,1.0
+com364,completion,phrase,A bright mountain peak,peak,A,P,P,True,True,s,s,S,S,0.0,0.0,0.0,s,A,S,A,0.0,0.0,0.0,True,12,1.0
+com373,completion,phrase,Every long garden path,Every long garden path,E,E,P,False,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,12,1.0
+com375,completion,phrase,block,block,B,B,A,False,False,r,t,R,T,0.0,0.0,0.0,r,s,R,S,0.0,0.0,0.0,True,12,1.0
+com381,completion,phrase,A sudden letter *arrival*.,A sudden letter *arrival*.,A,A,B,False,False,S,s,S,S,0.0,0.0,0.0,S,A,S,A,0.0,0.0,1.0,True,12,1.0
+com393,completion,phrase,follows,follows,F,F,D,False,False,A,A,A,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,12,1.0
+com403,completion,phrase,holds,holds,H,H,S,False,False,E,e,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,12,1.0
+com415,completion,phrase,The dark letter e,The dark letter e,T,T,S,False,False,d,d,D,D,0.0,0.0,0.0,d,d,D,D,0.0,0.0,0.0,True,12,1.0
+com416,completion,phrase,The busy house *is*.,The busy house life.,T,T,H,True,False,t,t,T,T,1.0,0.0,1.0,t,t,T,T,1.0,0.0,1.0,True,12,1.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,12,1.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,12,1.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,12,1.0
+fac437,factual,capital,Kiev,Kiev,K,K,K,False,False,K,K,K,K,1.0,1.0,1.0,K,K,K,K,1.0,1.0,1.0,True,12,1.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,12,1.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,12,1.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,H,H,H,H,1.0,1.0,1.0,True,12,1.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,12,1.0
+fac462,factual,arithmetic,twelve,twelve,T,T,T,False,False,T,t,T,T,1.0,1.0,1.0,T,t,T,T,1.0,1.0,1.0,True,12,1.0
+fac463,factual,arithmetic,sixteen,sixteen,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,s,s,S,S,1.0,1.0,1.0,True,12,1.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,F,s,F,S,1.0,0.0,0.0,True,12,1.0
+fac474,factual,arithmetic,three,three,T,T,T,False,False,three,t,,T,0.0,1.0,1.0,t,n,T,N,1.0,0.0,0.0,True,12,1.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,12,1.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,e,h,E,H,1.0,0.0,0.0,True,12,1.0
+fac495,factual,opposite,soft,soft,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,s,S,S,1.0,1.0,1.0,True,12,1.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,n,n,N,N,1.0,1.0,1.0,True,12,1.0
+cho000,choice,animal,dog,dog,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,d,d,D,D,1.0,1.0,1.0,True,12,2.0
+cho002,choice,animal,ant,ant,A,A,F,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,12,2.0
+cho013,choice,animal,Lion,Lion,L,L,L,False,False,z,z,Z,Z,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,12,2.0
+cho019,choice,animal,shark,shark,S,S,D,False,False,s,s,S,S,1.0,0.0,1.0,s,s,S,S,1.0,0.0,1.0,True,12,2.0
+cho027,choice,colour,blue,blue,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,R,r,R,R,0.0,0.0,0.0,True,12,2.0
+cho031,choice,colour,red,Red,R,R,R,True,False,r,r,R,R,1.0,1.0,1.0,R,r,R,R,1.0,1.0,1.0,True,12,2.0
+cho033,choice,colour,Red,Red,R,R,R,False,False,R,r,R,R,1.0,1.0,1.0,R,r,R,R,1.0,1.0,1.0,True,12,2.0
+cho039,choice,colour,Indigo,Indigo,I,I,B,False,False,b,d,B,D,0.0,0.0,0.0,d,d,D,D,0.0,0.0,0.0,True,12,2.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,T,T,T,T,0.0,0.0,0.0,True,12,2.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,12,2.0
+cho058,choice,city,Paris,Paris,P,P,P,False,False,A,A,A,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,12,2.0
+cho059,choice,city,Nairobi,Nairobi,N,N,C,False,False,J,A,J,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,12,2.0
+cho061,choice,food,cake,cake,C,C,C,False,False,b,b,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,12,2.0
+cho062,choice,food,yogurt,salad,Y,S,S,True,True,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,12,2.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,B,b,B,B,1.0,1.0,1.0,True,12,2.0
+cho076,choice,food,candy,candy,C,C,S,False,False,s,s,S,S,0.0,1.0,0.0,S,s,S,S,0.0,1.0,0.0,True,12,2.0
+cho082,choice,country,Sudan,Sahara,S,S,E,True,False,S,S,S,S,1.0,0.0,1.0,A,G,A,G,0.0,0.0,0.0,True,12,2.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,12,2.0
+cho093,choice,country,Nepal,Japan,N,J,N,True,True,M,M,M,M,0.0,0.0,0.0,M,M,M,M,0.0,0.0,0.0,True,12,2.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,R,G,R,G,1.0,0.0,0.0,True,12,2.0
+cho101,choice,fruit,Orange,Cherry,O,C,P,True,True,p,p,P,P,0.0,1.0,0.0,S,p,S,P,0.0,1.0,0.0,True,12,2.0
+cho106,choice,fruit,mango,mango,M,M,M,False,False,m,m,M,M,1.0,1.0,1.0,m,m,M,M,1.0,1.0,1.0,True,12,2.0
+cho108,choice,fruit,banana,banana,B,B,B,False,False,b,y,B,Y,1.0,0.0,0.0,B,y,B,Y,1.0,0.0,0.0,True,12,2.0
+cho109,choice,fruit,blueberry,blueberry,B,B,G,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,12,2.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,12,2.0
+cho131,choice,first_name,Evelyn,Eleanor,E,E,B,True,False,E,B,E,B,1.0,1.0,0.0,E,B,E,B,1.0,1.0,0.0,True,12,2.0
+cho135,choice,first_name,James,James,J,J,A,False,False,A,A,A,A,0.0,1.0,0.0,A,A,A,A,0.0,1.0,0.0,True,12,2.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,a,G,A,G,0.0,0.0,0.0,True,12,2.0
+cho142,choice,instrument,Flute,Flute,F,F,F,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,12,2.0
+cho152,choice,instrument,Harp,Harp,H,H,H,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,12,2.0
+cho153,choice,instrument,Drum,Drum,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,H,g,H,G,0.0,0.0,0.0,True,12,2.0
+cho155,choice,instrument,Drum,Tambourine,D,T,T,True,True,B,B,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,12,2.0
+cho162,choice,sport,Judo,Rock climbing,J,R,G,True,True,w,j,W,J,0.0,0.0,1.0,W,w,W,W,0.0,0.0,0.0,True,12,2.0
+cho168,choice,sport,football,Football,F,F,S,True,False,b,b,B,B,0.0,0.0,0.0,S,b,S,B,0.0,0.0,0.0,True,12,2.0
+cho169,choice,sport,Football,Football,F,F,F,False,False,f,b,F,B,1.0,0.0,0.0,S,b,S,B,0.0,0.0,0.0,True,12,2.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,12,2.0
+cho181,choice,plant,spurge,spurge,S,S,F,False,False,g,g,G,G,0.0,0.0,0.0,a,g,A,G,0.0,0.0,0.0,True,12,2.0
+cho186,choice,plant,Pothos,Pothos,P,P,B,False,False,s,p,S,P,0.0,0.0,1.0,p,p,P,P,1.0,0.0,1.0,True,12,2.0
+cho188,choice,plant,cactus,cactus,C,C,C,False,False,c,c,C,C,1.0,1.0,1.0,c,c,C,C,1.0,1.0,1.0,True,12,2.0
+cho192,choice,plant,rose,Pothos,R,P,B,True,True,g,p,G,P,0.0,0.0,0.0,p,p,P,P,1.0,0.0,1.0,True,12,2.0
+com326,completion,phrase,is,awaits,I,A,P,True,True,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,12,2.0
+com327,completion,phrase,Every distant letter fades.,dissolves,E,D,C,True,True,E,E,E,E,1.0,0.0,1.0,E,E,E,E,0.0,0.0,0.0,True,12,2.0
+com328,completion,phrase,peace,whispers,P,W,B,True,True,s,s,S,S,0.0,0.0,0.0,G,s,G,S,0.0,0.0,0.0,True,12,2.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,12,2.0
+com335,completion,phrase,range,range,R,R,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,12,2.0
+com338,completion,phrase,A empty mountain peak.,silence,A,S,W,True,True,f,f,F,F,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,12,2.0
+com341,completion,phrase,Every dark window *holds*.,holds,E,H,W,True,True,E,e,E,E,1.0,0.0,1.0,E,E,E,E,0.0,0.0,0.0,True,12,2.0
+com343,completion,phrase,breeze,breeze,B,B,G,False,False,A,s,A,S,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,12,2.0
+com346,completion,phrase,is heard.,is heard.,I,I,E,False,False,E,e,E,E,0.0,1.0,0.0,E,E,E,E,0.0,1.0,0.0,True,12,2.0
+com347,completion,phrase,Every heavy mountain *bears*.,endures,E,E,S,True,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,12,2.0
+com351,completion,phrase,through,through,T,T,B,False,False,d,d,D,D,0.0,0.0,0.0,J,d,J,D,0.0,0.0,0.0,True,12,2.0
+com361,completion,phrase,afternoon,afternoon,A,A,D,False,False,S,A,S,A,0.0,0.0,1.0,S,A,S,A,0.0,0.0,1.0,True,12,2.0
+com364,completion,phrase,A bright mountain peak,peak,A,P,P,True,True,s,s,S,S,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,12,2.0
+com373,completion,phrase,Every long garden path,path,E,P,P,True,True,E,E,E,E,1.0,0.0,1.0,E,E,E,E,0.0,0.0,0.0,True,12,2.0
+com375,completion,phrase,block,block,B,B,A,False,False,r,t,R,T,0.0,0.0,0.0,S,s,S,S,0.0,0.0,0.0,True,12,2.0
+com381,completion,phrase,A sudden letter *arrival*.,arrival,A,A,B,True,False,S,s,S,S,0.0,0.0,0.0,S,A,S,A,0.0,0.0,1.0,True,12,2.0
+com393,completion,phrase,follows,follows,F,F,D,False,False,A,A,A,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,12,2.0
+com403,completion,phrase,holds,holds,H,H,S,False,False,E,e,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,12,2.0
+com415,completion,phrase,The dark letter e,shadow,T,S,S,True,True,d,d,D,D,0.0,0.0,0.0,T,T,T,T,0.0,0.0,0.0,True,12,2.0
+com416,completion,phrase,The busy house *is*.,fills,T,F,H,True,True,t,t,T,T,1.0,0.0,1.0,T,t,T,T,0.0,0.0,0.0,True,12,2.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,12,2.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,12,2.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,12,2.0
+fac437,factual,capital,Kiev,Kiev,K,K,K,False,False,K,K,K,K,1.0,1.0,1.0,K,K,K,K,1.0,1.0,1.0,True,12,2.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,12,2.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,12,2.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,H,H,H,H,1.0,1.0,1.0,True,12,2.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,12,2.0
+fac462,factual,arithmetic,twelve,twelve,T,T,T,False,False,T,t,T,T,1.0,1.0,1.0,T,t,T,T,1.0,1.0,1.0,True,12,2.0
+fac463,factual,arithmetic,sixteen,sixteen,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,s,S,S,1.0,1.0,1.0,True,12,2.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,F,s,F,S,1.0,0.0,0.0,True,12,2.0
+fac474,factual,arithmetic,three,three,T,T,T,False,False,three,t,,T,0.0,1.0,1.0,t,n,T,N,1.0,0.0,0.0,True,12,2.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,12,2.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,f,h,F,H,0.0,0.0,0.0,True,12,2.0
+fac495,factual,opposite,soft,soft,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,S,S,S,1.0,1.0,1.0,True,12,2.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,n,n,N,N,1.0,1.0,1.0,True,12,2.0
+cho000,choice,animal,dog,dog,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,d,d,D,D,1.0,1.0,1.0,True,15,1.0
+cho002,choice,animal,ant,ant,A,A,F,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,15,1.0
+cho013,choice,animal,Lion,Lion,L,L,L,False,False,z,z,Z,Z,0.0,0.0,0.0,z,z,Z,Z,0.0,0.0,0.0,True,15,1.0
+cho019,choice,animal,shark,shark,S,S,D,False,False,s,s,S,S,1.0,0.0,1.0,s,s,S,S,1.0,0.0,1.0,True,15,1.0
+cho027,choice,colour,blue,blue,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,r,r,R,R,0.0,0.0,0.0,True,15,1.0
+cho031,choice,colour,red,red,R,R,R,False,False,r,r,R,R,1.0,1.0,1.0,r,r,R,R,1.0,1.0,1.0,True,15,1.0
+cho033,choice,colour,Red,Red,R,R,R,False,False,R,r,R,R,1.0,1.0,1.0,R,r,R,R,1.0,1.0,1.0,True,15,1.0
+cho039,choice,colour,Indigo,Indigo,I,I,B,False,False,b,d,B,D,0.0,0.0,0.0,b,d,B,D,0.0,0.0,0.0,True,15,1.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,T,L,T,L,0.0,0.0,0.0,True,15,1.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,B,C,B,C,0.0,0.0,0.0,True,15,1.0
+cho058,choice,city,Paris,Paris,P,P,P,False,False,A,A,A,A,0.0,0.0,0.0,B,A,B,A,0.0,0.0,0.0,True,15,1.0
+cho059,choice,city,Nairobi,Cairo,N,C,C,True,True,J,A,J,A,0.0,0.0,0.0,J,A,J,A,0.0,0.0,0.0,True,15,1.0
+cho061,choice,food,cake,cake,C,C,C,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,15,1.0
+cho062,choice,food,yogurt,yogurt,Y,Y,S,False,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,15,1.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,b,b,B,B,1.0,1.0,1.0,True,15,1.0
+cho076,choice,food,candy,candy,C,C,S,False,False,s,s,S,S,0.0,1.0,0.0,s,s,S,S,0.0,1.0,0.0,True,15,1.0
+cho082,choice,country,Sudan,Saudi Arabia,S,S,E,True,False,S,S,S,S,1.0,0.0,1.0,S,S,S,S,1.0,0.0,1.0,True,15,1.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,15,1.0
+cho093,choice,country,Nepal,Nepal,N,N,N,False,False,M,M,M,M,0.0,0.0,0.0,M,G,M,G,0.0,0.0,0.0,True,15,1.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,R,G,R,G,1.0,0.0,0.0,True,15,1.0
+cho101,choice,fruit,Orange,Orange,O,O,P,False,False,p,p,P,P,0.0,1.0,0.0,p,p,P,P,0.0,1.0,0.0,True,15,1.0
+cho106,choice,fruit,mango,mango,M,M,M,False,False,m,m,M,M,1.0,1.0,1.0,m,m,M,M,1.0,1.0,1.0,True,15,1.0
+cho108,choice,fruit,banana,banana,B,B,B,False,False,b,y,B,Y,1.0,0.0,0.0,b,y,B,Y,1.0,0.0,0.0,True,15,1.0
+cho109,choice,fruit,blueberry,blueberry,B,B,G,False,False,s,s,S,S,0.0,0.0,0.0,b,s,B,S,1.0,0.0,0.0,True,15,1.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,A,G,A,G,0.0,0.0,0.0,True,15,1.0
+cho131,choice,first_name,Evelyn,Evelyn,E,E,B,False,False,E,B,E,B,1.0,1.0,0.0,E,B,E,B,1.0,1.0,0.0,True,15,1.0
+cho135,choice,first_name,James,James,J,J,A,False,False,A,A,A,A,0.0,1.0,0.0,A,a,A,A,0.0,1.0,0.0,True,15,1.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,a,j,A,J,0.0,0.0,0.0,True,15,1.0
+cho142,choice,instrument,Flute,Flute,F,F,F,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,15,1.0
+cho152,choice,instrument,Harp,Harp,H,H,H,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,15,1.0
+cho153,choice,instrument,Drum,Drum,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,15,1.0
+cho155,choice,instrument,Drum,Drum,D,D,T,False,False,B,B,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,15,1.0
+cho162,choice,sport,Judo,Judo,J,J,G,False,False,w,j,W,J,0.0,0.0,1.0,w,c,W,C,0.0,0.0,0.0,True,15,1.0
+cho168,choice,sport,football,soccer,F,S,S,True,True,b,b,B,B,0.0,0.0,0.0,b,s,B,S,0.0,1.0,1.0,True,15,1.0
+cho169,choice,sport,Football,Football,F,F,F,False,False,f,b,F,B,1.0,0.0,0.0,F,b,F,B,1.0,0.0,0.0,True,15,1.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,S,b,S,B,0.0,0.0,0.0,True,15,1.0
+cho181,choice,plant,spurge,spurge,S,S,F,False,False,g,g,G,G,0.0,0.0,0.0,g,g,G,G,0.0,0.0,0.0,True,15,1.0
+cho186,choice,plant,Pothos,Pothos,P,P,B,False,False,s,p,S,P,0.0,0.0,1.0,s,s,S,S,0.0,0.0,0.0,True,15,1.0
+cho188,choice,plant,cactus,cactus,C,C,C,False,False,c,c,C,C,1.0,1.0,1.0,c,c,C,C,1.0,1.0,1.0,True,15,1.0
+cho192,choice,plant,rose,rose,R,R,B,False,False,g,p,G,P,0.0,0.0,0.0,p,p,P,P,0.0,0.0,0.0,True,15,1.0
+com326,completion,phrase,is,is,I,I,P,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,15,1.0
+com327,completion,phrase,Every distant letter fades.,dissolves,E,D,C,True,True,E,E,E,E,1.0,0.0,1.0,E,E,E,E,0.0,0.0,0.0,True,15,1.0
+com328,completion,phrase,peace,peace,P,P,B,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,15,1.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,15,1.0
+com335,completion,phrase,range,range,R,R,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,15,1.0
+com338,completion,phrase,A empty mountain peak.,A empty mountain void,A,A,W,True,False,f,f,F,F,0.0,0.0,0.0,A,f,A,F,1.0,0.0,0.0,True,15,1.0
+com341,completion,phrase,Every dark window *holds*.,glows,E,G,W,True,True,E,e,E,E,1.0,0.0,1.0,E,e,E,E,0.0,0.0,0.0,True,15,1.0
+com343,completion,phrase,breeze,breeze,B,B,G,False,False,A,s,A,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,15,1.0
+com346,completion,phrase,is heard.,is heard,I,I,E,True,False,E,e,E,E,0.0,1.0,0.0,E,e,E,E,0.0,1.0,0.0,True,15,1.0
+com347,completion,phrase,Every heavy mountain *bears*.,Every heavy mountain *falls*.,E,E,S,True,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,15,1.0
+com351,completion,phrase,through,through,T,T,B,False,False,d,d,D,D,0.0,0.0,0.0,d,d,D,D,0.0,0.0,0.0,True,15,1.0
+com361,completion,phrase,afternoon,afternoon,A,A,D,False,False,S,A,S,A,0.0,0.0,1.0,A,A,A,A,1.0,0.0,1.0,True,15,1.0
+com364,completion,phrase,A bright mountain peak,peak,A,P,P,True,True,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,15,1.0
+com373,completion,phrase,Every long garden path,Every long garden path,E,E,P,False,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,15,1.0
+com375,completion,phrase,block,block,B,B,A,False,False,r,t,R,T,0.0,0.0,0.0,r,t,R,T,0.0,0.0,0.0,True,15,1.0
+com381,completion,phrase,A sudden letter *arrival*.,A sudden letter *arrival*.,A,A,B,False,False,S,s,S,S,0.0,0.0,0.0,S,A,S,A,0.0,0.0,1.0,True,15,1.0
+com393,completion,phrase,follows,follows,F,F,D,False,False,A,A,A,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,15,1.0
+com403,completion,phrase,holds,holds,H,H,S,False,False,E,e,E,E,0.0,0.0,0.0,E,e,E,E,0.0,0.0,0.0,True,15,1.0
+com415,completion,phrase,The dark letter e,The dark letter e.,T,T,S,True,False,d,d,D,D,0.0,0.0,0.0,d,d,D,D,0.0,0.0,0.0,True,15,1.0
+com416,completion,phrase,The busy house *is*.,The busy house life.,T,T,H,True,False,t,t,T,T,1.0,0.0,1.0,t,t,T,T,1.0,0.0,1.0,True,15,1.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,15,1.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,15,1.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,15,1.0
+fac437,factual,capital,Kiev,Kiev,K,K,K,False,False,K,K,K,K,1.0,1.0,1.0,K,K,K,K,1.0,1.0,1.0,True,15,1.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,15,1.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,15,1.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,H,H,H,H,1.0,1.0,1.0,True,15,1.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,15,1.0
+fac462,factual,arithmetic,twelve,twelve,T,T,T,False,False,T,t,T,T,1.0,1.0,1.0,T,t,T,T,1.0,1.0,1.0,True,15,1.0
+fac463,factual,arithmetic,sixteen,sixteen,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,s,s,S,S,1.0,1.0,1.0,True,15,1.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,F,s,F,S,1.0,0.0,0.0,True,15,1.0
+fac474,factual,arithmetic,three,three,T,T,T,False,False,three,t,,T,0.0,1.0,1.0,three,t,,T,0.0,1.0,1.0,True,15,1.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,15,1.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,e,h,E,H,1.0,0.0,0.0,True,15,1.0
+fac495,factual,opposite,soft,soft,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,s,s,S,S,1.0,1.0,1.0,True,15,1.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,n,n,N,N,1.0,1.0,1.0,True,15,1.0
+cho000,choice,animal,dog,dog,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,d,d,D,D,1.0,1.0,1.0,True,15,2.0
+cho002,choice,animal,ant,ant,A,A,F,False,False,s,s,S,S,0.0,0.0,0.0,a,s,A,S,1.0,0.0,0.0,True,15,2.0
+cho013,choice,animal,Lion,Lion,L,L,L,False,False,z,z,Z,Z,0.0,0.0,0.0,z,z,Z,Z,0.0,0.0,0.0,True,15,2.0
+cho019,choice,animal,shark,shark,S,S,D,False,False,s,s,S,S,1.0,0.0,1.0,s,s,S,S,1.0,0.0,1.0,True,15,2.0
+cho027,choice,colour,blue,blue,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,r,r,R,R,0.0,0.0,0.0,True,15,2.0
+cho031,choice,colour,red,red,R,R,R,False,False,r,r,R,R,1.0,1.0,1.0,r,r,R,R,1.0,1.0,1.0,True,15,2.0
+cho033,choice,colour,Red,Red,R,R,R,False,False,R,r,R,R,1.0,1.0,1.0,r,r,R,R,1.0,1.0,1.0,True,15,2.0
+cho039,choice,colour,Indigo,Indigo,I,I,B,False,False,b,d,B,D,0.0,0.0,0.0,b,d,B,D,0.0,0.0,0.0,True,15,2.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,T,L,T,L,0.0,0.0,0.0,True,15,2.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,B,a,B,A,0.0,0.0,0.0,True,15,2.0
+cho058,choice,city,Paris,Paris,P,P,P,False,False,A,A,A,A,0.0,0.0,0.0,B,G,B,G,0.0,0.0,0.0,True,15,2.0
+cho059,choice,city,Nairobi,Cairo,N,C,C,True,True,J,A,J,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,15,2.0
+cho061,choice,food,cake,cake,C,C,C,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,15,2.0
+cho062,choice,food,yogurt,yogurt,Y,Y,S,False,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,15,2.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,b,b,B,B,1.0,1.0,1.0,True,15,2.0
+cho076,choice,food,candy,candy,C,C,S,False,False,s,s,S,S,0.0,1.0,0.0,s,s,S,S,0.0,1.0,0.0,True,15,2.0
+cho082,choice,country,Sudan,Saudi Arabia,S,S,E,True,False,S,S,S,S,1.0,0.0,1.0,S,G,S,G,1.0,0.0,0.0,True,15,2.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,15,2.0
+cho093,choice,country,Nepal,Nepal,N,N,N,False,False,M,M,M,M,0.0,0.0,0.0,M,G,M,G,0.0,0.0,0.0,True,15,2.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,R,G,R,G,1.0,0.0,0.0,True,15,2.0
+cho101,choice,fruit,Orange,Orange,O,O,P,False,False,p,p,P,P,0.0,1.0,0.0,p,p,P,P,0.0,1.0,0.0,True,15,2.0
+cho106,choice,fruit,mango,mango,M,M,M,False,False,m,m,M,M,1.0,1.0,1.0,m,m,M,M,1.0,1.0,1.0,True,15,2.0
+cho108,choice,fruit,banana,banana,B,B,B,False,False,b,y,B,Y,1.0,0.0,0.0,b,y,B,Y,1.0,0.0,0.0,True,15,2.0
+cho109,choice,fruit,blueberry,blueberry,B,B,G,False,False,s,s,S,S,0.0,0.0,0.0,b,s,B,S,1.0,0.0,0.0,True,15,2.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,A,a,A,A,0.0,0.0,0.0,True,15,2.0
+cho131,choice,first_name,Evelyn,Arthur,E,A,B,True,True,E,B,E,B,1.0,1.0,0.0,B,B,B,B,0.0,1.0,0.0,True,15,2.0
+cho135,choice,first_name,James,James,J,J,A,False,False,A,A,A,A,0.0,1.0,0.0,A,a,A,A,0.0,1.0,0.0,True,15,2.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,a,a,A,A,0.0,0.0,0.0,True,15,2.0
+cho142,choice,instrument,Flute,Flute,F,F,F,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,15,2.0
+cho152,choice,instrument,Harp,harp,H,H,H,True,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,15,2.0
+cho153,choice,instrument,Drum,Drum,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,15,2.0
+cho155,choice,instrument,Drum,Drum,D,D,T,False,False,B,B,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,15,2.0
+cho162,choice,sport,Judo,Judo,J,J,G,False,False,w,j,W,J,0.0,0.0,1.0,w,c,W,C,0.0,0.0,0.0,True,15,2.0
+cho168,choice,sport,football,soccer,F,S,S,True,True,b,b,B,B,0.0,0.0,0.0,f,s,F,S,0.0,1.0,1.0,True,15,2.0
+cho169,choice,sport,Football,Football,F,F,F,False,False,f,b,F,B,1.0,0.0,0.0,S,b,S,B,0.0,0.0,0.0,True,15,2.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,S,b,S,B,0.0,0.0,0.0,True,15,2.0
+cho181,choice,plant,spurge,spurge,S,S,F,False,False,g,g,G,G,0.0,0.0,0.0,g,g,G,G,0.0,0.0,0.0,True,15,2.0
+cho186,choice,plant,Pothos,Pothos,P,P,B,False,False,s,p,S,P,0.0,0.0,1.0,s,s,S,S,0.0,0.0,0.0,True,15,2.0
+cho188,choice,plant,cactus,cactus,C,C,C,False,False,c,c,C,C,1.0,1.0,1.0,c,c,C,C,1.0,1.0,1.0,True,15,2.0
+cho192,choice,plant,rose,Pothos,R,P,B,True,True,g,p,G,P,0.0,0.0,0.0,p,p,P,P,1.0,0.0,1.0,True,15,2.0
+com326,completion,phrase,is,is,I,I,P,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,15,2.0
+com327,completion,phrase,Every distant letter fades.,dissolves,E,D,C,True,True,E,E,E,E,1.0,0.0,1.0,E,E,E,E,0.0,0.0,0.0,True,15,2.0
+com328,completion,phrase,peace,peace,P,P,B,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,15,2.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,15,2.0
+com335,completion,phrase,range,pass,R,P,H,True,True,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,15,2.0
+com338,completion,phrase,A empty mountain peak.,A empty mountain void,A,A,W,True,False,f,f,F,F,0.0,0.0,0.0,A,A,A,A,1.0,0.0,1.0,True,15,2.0
+com341,completion,phrase,Every dark window *holds*.,glows,E,G,W,True,True,E,e,E,E,1.0,0.0,1.0,E,e,E,E,0.0,0.0,0.0,True,15,2.0
+com343,completion,phrase,breeze,breeze,B,B,G,False,False,A,s,A,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,15,2.0
+com346,completion,phrase,is heard.,is heard,I,I,E,True,False,E,e,E,E,0.0,1.0,0.0,E,e,E,E,0.0,1.0,0.0,True,15,2.0
+com347,completion,phrase,Every heavy mountain *bears*.,Every heavy mountain falls.,E,E,S,True,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,15,2.0
+com351,completion,phrase,through,through,T,T,B,False,False,d,d,D,D,0.0,0.0,0.0,d,d,D,D,0.0,0.0,0.0,True,15,2.0
+com361,completion,phrase,afternoon,after,A,A,D,True,False,S,A,S,A,0.0,0.0,1.0,A,A,A,A,1.0,0.0,1.0,True,15,2.0
+com364,completion,phrase,A bright mountain peak,peak,A,P,P,True,True,s,s,S,S,0.0,0.0,0.0,m,s,M,S,0.0,0.0,0.0,True,15,2.0
+com373,completion,phrase,Every long garden path,Every long garden path,E,E,P,False,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,15,2.0
+com375,completion,phrase,block,block,B,B,A,False,False,r,t,R,T,0.0,0.0,0.0,r,t,R,T,0.0,0.0,0.0,True,15,2.0
+com381,completion,phrase,A sudden letter *arrival*.,A sudden letter drop,A,A,B,True,False,S,s,S,S,0.0,0.0,0.0,A,A,A,A,1.0,0.0,1.0,True,15,2.0
+com393,completion,phrase,follows,follows,F,F,D,False,False,A,A,A,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,15,2.0
+com403,completion,phrase,holds,holds,H,H,S,False,False,E,e,E,E,0.0,0.0,0.0,E,e,E,E,0.0,0.0,0.0,True,15,2.0
+com415,completion,phrase,The dark letter e,The dark letter e...,T,T,S,True,False,d,d,D,D,0.0,0.0,0.0,d,d,D,D,0.0,0.0,0.0,True,15,2.0
+com416,completion,phrase,The busy house *is*.,fills,T,F,H,True,True,t,t,T,T,1.0,0.0,1.0,t,t,T,T,0.0,0.0,0.0,True,15,2.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,15,2.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,15,2.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,15,2.0
+fac437,factual,capital,Kiev,Kiev,K,K,K,False,False,K,K,K,K,1.0,1.0,1.0,K,k,K,K,1.0,1.0,1.0,True,15,2.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,15,2.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,15,2.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,H,H,H,H,1.0,1.0,1.0,True,15,2.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,15,2.0
+fac462,factual,arithmetic,twelve,twelve,T,T,T,False,False,T,t,T,T,1.0,1.0,1.0,t,t,T,T,1.0,1.0,1.0,True,15,2.0
+fac463,factual,arithmetic,sixteen,sixteen,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,s,s,S,S,1.0,1.0,1.0,True,15,2.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,f,s,F,S,1.0,0.0,0.0,True,15,2.0
+fac474,factual,arithmetic,three,three,T,T,T,False,False,three,t,,T,0.0,1.0,1.0,t,t,T,T,1.0,1.0,1.0,True,15,2.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,15,2.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,f,f,F,F,0.0,0.0,0.0,True,15,2.0
+fac495,factual,opposite,soft,soft,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,s,s,S,S,1.0,1.0,1.0,True,15,2.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,n,n,N,N,1.0,1.0,1.0,True,15,2.0
+cho000,choice,animal,dog,Dog,D,D,D,True,False,c,c,C,C,0.0,0.0,0.0,d,d,D,D,1.0,1.0,1.0,True,18,1.0
+cho002,choice,animal,ant,Ant,A,A,F,True,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,18,1.0
+cho013,choice,animal,Lion,Lion,L,L,L,False,False,z,z,Z,Z,0.0,0.0,0.0,z,A,Z,A,0.0,0.0,0.0,True,18,1.0
+cho019,choice,animal,shark,shark,S,S,D,False,False,s,s,S,S,1.0,0.0,1.0,s,s,S,S,1.0,0.0,1.0,True,18,1.0
+cho027,choice,colour,blue,blue,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,r,r,R,R,0.0,0.0,0.0,True,18,1.0
+cho031,choice,colour,red,Red,R,R,R,True,False,r,r,R,R,1.0,1.0,1.0,R,r,R,R,1.0,1.0,1.0,True,18,1.0
+cho033,choice,colour,Red,Red,R,R,R,False,False,R,r,R,R,1.0,1.0,1.0,R,r,R,R,1.0,1.0,1.0,True,18,1.0
+cho039,choice,colour,Indigo,Navy,I,N,B,True,True,b,d,B,D,0.0,0.0,0.0,B,d,B,D,0.0,0.0,0.0,True,18,1.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,T,a,T,A,0.0,0.0,0.0,True,18,1.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,18,1.0
+cho058,choice,city,Paris,Paris,P,P,P,False,False,A,A,A,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,18,1.0
+cho059,choice,city,Nairobi,Cairo,N,C,C,True,True,J,A,J,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,18,1.0
+cho061,choice,food,cake,cake,C,C,C,False,False,b,b,B,B,0.0,0.0,0.0,B,b,B,B,0.0,0.0,0.0,True,18,1.0
+cho062,choice,food,yogurt,Yogurt,Y,Y,S,True,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,18,1.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,b,b,B,B,1.0,1.0,1.0,True,18,1.0
+cho076,choice,food,candy,candy,C,C,S,False,False,s,s,S,S,0.0,1.0,0.0,S,s,S,S,0.0,1.0,0.0,True,18,1.0
+cho082,choice,country,Sudan,Saudi Arabia,S,S,E,True,False,S,S,S,S,1.0,0.0,1.0,S,G,S,G,1.0,0.0,0.0,True,18,1.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,18,1.0
+cho093,choice,country,Nepal,Japan,N,J,N,True,True,M,M,M,M,0.0,0.0,0.0,M,G,M,G,0.0,0.0,0.0,True,18,1.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,R,G,R,G,1.0,0.0,0.0,True,18,1.0
+cho101,choice,fruit,Orange,Peach,O,P,P,True,True,p,p,P,P,0.0,1.0,0.0,p,p,P,P,1.0,1.0,1.0,True,18,1.0
+cho106,choice,fruit,mango,Pineapple,M,P,M,True,True,m,m,M,M,1.0,1.0,1.0,m,m,M,M,0.0,1.0,0.0,True,18,1.0
+cho108,choice,fruit,banana,banana,B,B,B,False,False,b,y,B,Y,1.0,0.0,0.0,b,Y,B,Y,1.0,0.0,0.0,True,18,1.0
+cho109,choice,fruit,blueberry,blueberry,B,B,G,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,18,1.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,A,G,A,G,0.0,0.0,0.0,True,18,1.0
+cho131,choice,first_name,Evelyn,Elias,E,E,B,True,False,E,B,E,B,1.0,1.0,0.0,E,B,E,B,1.0,1.0,0.0,True,18,1.0
+cho135,choice,first_name,James,James,J,J,A,False,False,A,A,A,A,0.0,1.0,0.0,A,A,A,A,0.0,1.0,0.0,True,18,1.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,A,j,A,J,0.0,0.0,0.0,True,18,1.0
+cho142,choice,instrument,Flute,Flute,F,F,F,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,18,1.0
+cho152,choice,instrument,Harp,Harp,H,H,H,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,18,1.0
+cho153,choice,instrument,Drum,Drum,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,C,c,C,C,0.0,0.0,0.0,True,18,1.0
+cho155,choice,instrument,Drum,Drum,D,D,T,False,False,B,B,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,18,1.0
+cho162,choice,sport,Judo,Judo,J,J,G,False,False,w,j,W,J,0.0,0.0,1.0,w,w,W,W,0.0,0.0,0.0,True,18,1.0
+cho168,choice,sport,football,Football,F,F,S,True,False,b,b,B,B,0.0,0.0,0.0,b,s,B,S,0.0,1.0,0.0,True,18,1.0
+cho169,choice,sport,Football,Football,F,F,F,False,False,f,b,F,B,1.0,0.0,0.0,B,b,B,B,0.0,0.0,0.0,True,18,1.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,S,b,S,B,0.0,0.0,0.0,True,18,1.0
+cho181,choice,plant,spurge,spurge,S,S,F,False,False,g,g,G,G,0.0,0.0,0.0,g,g,G,G,0.0,0.0,0.0,True,18,1.0
+cho186,choice,plant,Pothos,Pothos,P,P,B,False,False,s,p,S,P,0.0,0.0,1.0,p,p,P,P,1.0,0.0,1.0,True,18,1.0
+cho188,choice,plant,cactus,Cactus,C,C,C,True,False,c,c,C,C,1.0,1.0,1.0,c,d,C,D,1.0,0.0,0.0,True,18,1.0
+cho192,choice,plant,rose,Pothos,R,P,B,True,True,g,p,G,P,0.0,0.0,0.0,g,p,G,P,0.0,0.0,1.0,True,18,1.0
+com326,completion,phrase,is,awaits,I,A,P,True,True,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,18,1.0
+com327,completion,phrase,Every distant letter fades.,is seen,E,I,C,True,True,E,E,E,E,1.0,0.0,1.0,E,E,E,E,0.0,0.0,0.0,True,18,1.0
+com328,completion,phrase,peace,peace,P,P,B,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,18,1.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,18,1.0
+com335,completion,phrase,range,range,R,R,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,18,1.0
+com338,completion,phrase,A empty mountain peak.,A empty mountain void,A,A,W,True,False,f,f,F,F,0.0,0.0,0.0,A,d,A,D,1.0,0.0,0.0,True,18,1.0
+com341,completion,phrase,Every dark window *holds*.,holds,E,H,W,True,True,E,e,E,E,1.0,0.0,1.0,E,e,E,E,0.0,0.0,0.0,True,18,1.0
+com343,completion,phrase,breeze,breeze,B,B,G,False,False,A,s,A,S,0.0,0.0,0.0,A,s,A,S,0.0,0.0,0.0,True,18,1.0
+com346,completion,phrase,is heard.,is heard,I,I,E,True,False,E,e,E,E,0.0,1.0,0.0,E,e,E,E,0.0,1.0,0.0,True,18,1.0
+com347,completion,phrase,Every heavy mountain *bears*.,Every heavy mountain *dormant*.,E,E,S,True,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,18,1.0
+com351,completion,phrase,through,through,T,T,B,False,False,d,d,D,D,0.0,0.0,0.0,D,d,D,D,0.0,0.0,0.0,True,18,1.0
+com361,completion,phrase,afternoon,afternoon,A,A,D,False,False,S,A,S,A,0.0,0.0,1.0,A,A,A,A,1.0,0.0,1.0,True,18,1.0
+com364,completion,phrase,A bright mountain peak,A bright mountain peak,A,A,P,False,False,s,s,S,S,0.0,0.0,0.0,A,A,A,A,1.0,0.0,1.0,True,18,1.0
+com373,completion,phrase,Every long garden path,Every long garden **path**.,E,E,P,True,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,18,1.0
+com375,completion,phrase,block,block,B,B,A,False,False,r,t,R,T,0.0,0.0,0.0,T,t,T,T,0.0,0.0,0.0,True,18,1.0
+com381,completion,phrase,A sudden letter *arrival*.,A sudden letter *arrival*.,A,A,B,False,False,S,s,S,S,0.0,0.0,0.0,S,A,S,A,0.0,0.0,1.0,True,18,1.0
+com393,completion,phrase,follows,follows,F,F,D,False,False,A,A,A,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,18,1.0
+com403,completion,phrase,holds,holds,H,H,S,False,False,E,e,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,18,1.0
+com415,completion,phrase,The dark letter e,The dark letter D,T,T,S,True,False,d,d,D,D,0.0,0.0,0.0,T,d,T,D,1.0,0.0,0.0,True,18,1.0
+com416,completion,phrase,The busy house *is*.,The busy house *is*.,T,T,H,False,False,t,t,T,T,1.0,0.0,1.0,t,t,T,T,1.0,0.0,1.0,True,18,1.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,18,1.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,18,1.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,18,1.0
+fac437,factual,capital,Kiev,Kiev,K,K,K,False,False,K,K,K,K,1.0,1.0,1.0,K,K,K,K,1.0,1.0,1.0,True,18,1.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,18,1.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,18,1.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,H,H,H,H,1.0,1.0,1.0,True,18,1.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,18,1.0
+fac462,factual,arithmetic,twelve,twelve,T,T,T,False,False,T,t,T,T,1.0,1.0,1.0,T,t,T,T,1.0,1.0,1.0,True,18,1.0
+fac463,factual,arithmetic,sixteen,sixteen,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,s,S,S,1.0,1.0,1.0,True,18,1.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,F,n,F,N,1.0,0.0,0.0,True,18,1.0
+fac474,factual,arithmetic,three,three,T,T,T,False,False,three,t,,T,0.0,1.0,1.0,Three,n,,N,0.0,0.0,0.0,True,18,1.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,18,1.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,e,h,E,H,1.0,0.0,0.0,True,18,1.0
+fac495,factual,opposite,soft,soft,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,S,S,S,1.0,1.0,1.0,True,18,1.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,N,n,N,N,1.0,1.0,1.0,True,18,1.0
+cho000,choice,animal,dog,Dog,D,D,D,True,False,c,c,C,C,0.0,0.0,0.0,d,d,D,D,1.0,1.0,1.0,True,18,2.0
+cho002,choice,animal,ant,Ant,A,A,F,True,False,s,s,S,S,0.0,0.0,0.0,a,s,A,S,1.0,0.0,0.0,True,18,2.0
+cho013,choice,animal,Lion,Lion,L,L,L,False,False,z,z,Z,Z,0.0,0.0,0.0,Z,A,Z,A,0.0,0.0,0.0,True,18,2.0
+cho019,choice,animal,shark,Shark,S,S,D,True,False,s,s,S,S,1.0,0.0,1.0,s,s,S,S,1.0,0.0,1.0,True,18,2.0
+cho027,choice,colour,blue,Blue,B,B,B,True,False,b,b,B,B,1.0,1.0,1.0,R,r,R,R,0.0,0.0,0.0,True,18,2.0
+cho031,choice,colour,red,Red,R,R,R,True,False,r,r,R,R,1.0,1.0,1.0,R,r,R,R,1.0,1.0,1.0,True,18,2.0
+cho033,choice,colour,Red,Red,R,R,R,False,False,R,r,R,R,1.0,1.0,1.0,R,r,R,R,1.0,1.0,1.0,True,18,2.0
+cho039,choice,colour,Indigo,Navy,I,N,B,True,True,b,d,B,D,0.0,0.0,0.0,B,d,B,D,0.0,0.0,0.0,True,18,2.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,T,T,T,T,0.0,0.0,0.0,True,18,2.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,B,a,B,A,0.0,0.0,0.0,True,18,2.0
+cho058,choice,city,Paris,Paris,P,P,P,False,False,A,A,A,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,18,2.0
+cho059,choice,city,Nairobi,Cairo,N,C,C,True,True,J,A,J,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,18,2.0
+cho061,choice,food,cake,Cake,C,C,C,True,False,b,b,B,B,0.0,0.0,0.0,B,b,B,B,0.0,0.0,0.0,True,18,2.0
+cho062,choice,food,yogurt,Salad,Y,S,S,True,True,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,18,2.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,B,b,B,B,1.0,1.0,1.0,True,18,2.0
+cho076,choice,food,candy,Candy,C,C,S,True,False,s,s,S,S,0.0,1.0,0.0,S,s,S,S,0.0,1.0,0.0,True,18,2.0
+cho082,choice,country,Sudan,Saudi Arabia,S,S,E,True,False,S,S,S,S,1.0,0.0,1.0,A,G,A,G,0.0,0.0,0.0,True,18,2.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,18,2.0
+cho093,choice,country,Nepal,Argentina,N,A,N,True,True,M,M,M,M,0.0,0.0,0.0,M,G,M,G,0.0,0.0,0.0,True,18,2.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,A,G,A,G,0.0,0.0,0.0,True,18,2.0
+cho101,choice,fruit,Orange,Peach,O,P,P,True,True,p,p,P,P,0.0,1.0,0.0,P,p,P,P,1.0,1.0,1.0,True,18,2.0
+cho106,choice,fruit,mango,Pineapple,M,P,M,True,True,m,m,M,M,1.0,1.0,1.0,m,a,M,A,0.0,0.0,0.0,True,18,2.0
+cho108,choice,fruit,banana,Banana,B,B,B,True,False,b,y,B,Y,1.0,0.0,0.0,Y,Y,Y,Y,0.0,0.0,0.0,True,18,2.0
+cho109,choice,fruit,blueberry,Apricot,B,A,G,True,True,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,18,2.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,18,2.0
+cho131,choice,first_name,Evelyn,Elias,E,E,B,True,False,E,B,E,B,1.0,1.0,0.0,B,B,B,B,0.0,1.0,0.0,True,18,2.0
+cho135,choice,first_name,James,James,J,J,A,False,False,A,A,A,A,0.0,1.0,0.0,A,A,A,A,0.0,1.0,0.0,True,18,2.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,A,a,A,A,0.0,0.0,0.0,True,18,2.0
+cho142,choice,instrument,Flute,Flute,F,F,F,False,False,b,b,B,B,0.0,0.0,0.0,B,b,B,B,0.0,0.0,0.0,True,18,2.0
+cho152,choice,instrument,Harp,Harp,H,H,H,False,False,s,s,S,S,0.0,0.0,0.0,s,c,S,C,0.0,0.0,0.0,True,18,2.0
+cho153,choice,instrument,Drum,Drum,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,C,b,C,B,0.0,0.0,0.0,True,18,2.0
+cho155,choice,instrument,Drum,Drum,D,D,T,False,False,B,B,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,18,2.0
+cho162,choice,sport,Judo,Judo,J,J,G,False,False,w,j,W,J,0.0,0.0,1.0,S,s,S,S,0.0,0.0,0.0,True,18,2.0
+cho168,choice,sport,football,Baseball,F,B,S,True,True,b,b,B,B,0.0,0.0,0.0,b,b,B,B,1.0,0.0,1.0,True,18,2.0
+cho169,choice,sport,Football,Football,F,F,F,False,False,f,b,F,B,1.0,0.0,0.0,B,b,B,B,0.0,0.0,0.0,True,18,2.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,S,b,S,B,0.0,0.0,0.0,True,18,2.0
+cho181,choice,plant,spurge,Pine,S,P,F,True,True,g,g,G,G,0.0,0.0,0.0,g,g,G,G,0.0,0.0,0.0,True,18,2.0
+cho186,choice,plant,Pothos,Pothos,P,P,B,False,False,s,p,S,P,0.0,0.0,1.0,t,p,T,P,0.0,0.0,1.0,True,18,2.0
+cho188,choice,plant,cactus,Cactus,C,C,C,True,False,c,c,C,C,1.0,1.0,1.0,c,d,C,D,1.0,0.0,0.0,True,18,2.0
+cho192,choice,plant,rose,Pothons,R,P,B,True,True,g,p,G,P,0.0,0.0,0.0,p,p,P,P,1.0,0.0,1.0,True,18,2.0
+com326,completion,phrase,is,awaits,I,A,P,True,True,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,18,2.0
+com327,completion,phrase,Every distant letter fades.,Every distant letter **dies**.,E,E,C,True,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,18,2.0
+com328,completion,phrase,peace,peace,P,P,B,False,False,s,s,S,S,0.0,0.0,0.0,T,g,T,G,0.0,0.0,0.0,True,18,2.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,18,2.0
+com335,completion,phrase,range,range,R,R,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,18,2.0
+com338,completion,phrase,A empty mountain peak.,A empty mountain void,A,A,W,True,False,f,f,F,F,0.0,0.0,0.0,A,A,A,A,1.0,0.0,1.0,True,18,2.0
+com341,completion,phrase,Every dark window *holds*.,Every dark window *holds*,E,E,W,True,False,E,e,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,18,2.0
+com343,completion,phrase,breeze,A golden winter solstice,B,A,G,True,True,A,s,A,S,0.0,0.0,0.0,A,d,A,D,1.0,0.0,0.0,True,18,2.0
+com346,completion,phrase,is heard.,is heard,I,I,E,True,False,E,e,E,E,0.0,1.0,0.0,E,E,E,E,0.0,1.0,0.0,True,18,2.0
+com347,completion,phrase,Every heavy mountain *bears*.,Every heavy mountain **tops**.,E,E,S,True,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,18,2.0
+com351,completion,phrase,through,through,T,T,B,False,False,d,d,D,D,0.0,0.0,0.0,A,d,A,D,0.0,0.0,0.0,True,18,2.0
+com361,completion,phrase,afternoon,after,A,A,D,True,False,S,A,S,A,0.0,0.0,1.0,A,A,A,A,1.0,0.0,1.0,True,18,2.0
+com364,completion,phrase,A bright mountain peak,A bright mountain peak,A,A,P,False,False,s,s,S,S,0.0,0.0,0.0,A,A,A,A,1.0,0.0,1.0,True,18,2.0
+com373,completion,phrase,Every long garden path,Every long garden **path**.,E,E,P,True,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,18,2.0
+com375,completion,phrase,block,block,B,B,A,False,False,r,t,R,T,0.0,0.0,0.0,T,t,T,T,0.0,0.0,0.0,True,18,2.0
+com381,completion,phrase,A sudden letter *arrival*.,A sudden letter **arrival**,A,A,B,True,False,S,s,S,S,0.0,0.0,0.0,A,A,A,A,1.0,0.0,1.0,True,18,2.0
+com393,completion,phrase,follows,follows,F,F,D,False,False,A,A,A,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,18,2.0
+com403,completion,phrase,holds,holds,H,H,S,False,False,E,e,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,18,2.0
+com415,completion,phrase,The dark letter e,The dark letter X,T,T,S,True,False,d,d,D,D,0.0,0.0,0.0,T,d,T,D,1.0,0.0,0.0,True,18,2.0
+com416,completion,phrase,The busy house *is*.,The busy house **full**.,T,T,H,True,False,t,t,T,T,1.0,0.0,1.0,t,t,T,T,1.0,0.0,1.0,True,18,2.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,18,2.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,18,2.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,R,L,R,1.0,0.0,0.0,True,18,2.0
+fac437,factual,capital,Kiev,Kiev,K,K,K,False,False,K,K,K,K,1.0,1.0,1.0,K,k,K,K,1.0,1.0,1.0,True,18,2.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,18,2.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,18,2.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,H,H,H,H,1.0,1.0,1.0,True,18,2.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,18,2.0
+fac462,factual,arithmetic,twelve,twelve,T,T,T,False,False,T,t,T,T,1.0,1.0,1.0,T,t,T,T,1.0,1.0,1.0,True,18,2.0
+fac463,factual,arithmetic,sixteen,sixteen,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,s,S,S,1.0,1.0,1.0,True,18,2.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,F,f,F,F,1.0,1.0,1.0,True,18,2.0
+fac474,factual,arithmetic,three,three,T,T,T,False,False,three,t,,T,0.0,1.0,1.0,Three,n,,N,0.0,0.0,0.0,True,18,2.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,18,2.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,f,f,F,F,0.0,0.0,0.0,True,18,2.0
+fac495,factual,opposite,soft,easy,S,E,S,True,True,s,s,S,S,1.0,1.0,1.0,S,S,S,S,0.0,1.0,0.0,True,18,2.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,N,n,N,N,1.0,1.0,1.0,True,18,2.0
+cho000,choice,animal,dog,Dog,D,D,D,True,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,21,1.0
+cho002,choice,animal,ant,Ant,A,A,F,True,False,s,s,S,S,0.0,0.0,0.0,s,a,S,A,0.0,0.0,1.0,True,21,1.0
+cho013,choice,animal,Lion,Lion,L,L,L,False,False,z,z,Z,Z,0.0,0.0,0.0,z,a,Z,A,0.0,0.0,0.0,True,21,1.0
+cho019,choice,animal,shark,shark,S,S,D,False,False,s,s,S,S,1.0,0.0,1.0,s,s,S,S,1.0,0.0,1.0,True,21,1.0
+cho027,choice,colour,blue,Blue,B,B,B,True,False,b,b,B,B,1.0,1.0,1.0,r,r,R,R,0.0,0.0,0.0,True,21,1.0
+cho031,choice,colour,red,Red,R,R,R,True,False,r,r,R,R,1.0,1.0,1.0,R,r,R,R,1.0,1.0,1.0,True,21,1.0
+cho033,choice,colour,Red,Red,R,R,R,False,False,R,r,R,R,1.0,1.0,1.0,r,r,R,R,1.0,1.0,1.0,True,21,1.0
+cho039,choice,colour,Indigo,Indigo,I,I,B,False,False,b,d,B,D,0.0,0.0,0.0,b,d,B,D,0.0,0.0,0.0,True,21,1.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,M,M,M,M,0.0,0.0,0.0,True,21,1.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,21,1.0
+cho058,choice,city,Paris,Paris,P,P,P,False,False,A,A,A,A,0.0,0.0,0.0,B,A,B,A,0.0,0.0,0.0,True,21,1.0
+cho059,choice,city,Nairobi,Cairo,N,C,C,True,True,J,A,J,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,21,1.0
+cho061,choice,food,cake,Cake,C,C,C,True,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,21,1.0
+cho062,choice,food,yogurt,Yogurt,Y,Y,S,True,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,21,1.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,b,b,B,B,1.0,1.0,1.0,True,21,1.0
+cho076,choice,food,candy,candy,C,C,S,False,False,s,s,S,S,0.0,1.0,0.0,S,S,S,S,0.0,1.0,0.0,True,21,1.0
+cho082,choice,country,Sudan,Saudi Arabia,S,S,E,True,False,S,S,S,S,1.0,0.0,1.0,A,G,A,G,0.0,0.0,0.0,True,21,1.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,21,1.0
+cho093,choice,country,Nepal,Nepal,N,N,N,False,False,M,M,M,M,0.0,0.0,0.0,M,G,M,G,0.0,0.0,0.0,True,21,1.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,R,G,R,G,1.0,0.0,0.0,True,21,1.0
+cho101,choice,fruit,Orange,Cherry,O,C,P,True,True,p,p,P,P,0.0,1.0,0.0,b,g,B,G,0.0,0.0,0.0,True,21,1.0
+cho106,choice,fruit,mango,Pineapple,M,P,M,True,True,m,m,M,M,1.0,1.0,1.0,m,m,M,M,0.0,1.0,0.0,True,21,1.0
+cho108,choice,fruit,banana,Banana,B,B,B,True,False,b,y,B,Y,1.0,0.0,0.0,B,Y,B,Y,1.0,0.0,0.0,True,21,1.0
+cho109,choice,fruit,blueberry,blueberry,B,B,G,False,False,s,s,S,S,0.0,0.0,0.0,b,s,B,S,1.0,0.0,0.0,True,21,1.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,A,G,A,G,0.0,0.0,0.0,True,21,1.0
+cho131,choice,first_name,Evelyn,Evelyn,E,E,B,False,False,E,B,E,B,1.0,1.0,0.0,B,B,B,B,0.0,1.0,0.0,True,21,1.0
+cho135,choice,first_name,James,Emma,J,E,A,True,True,A,A,A,A,0.0,1.0,0.0,E,A,E,A,1.0,1.0,0.0,True,21,1.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,b,f,B,F,0.0,0.0,0.0,True,21,1.0
+cho142,choice,instrument,Flute,Flute,F,F,F,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,21,1.0
+cho152,choice,instrument,Harp,Harp,H,H,H,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,21,1.0
+cho153,choice,instrument,Drum,Drum,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,21,1.0
+cho155,choice,instrument,Drum,Drum,D,D,T,False,False,B,B,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,21,1.0
+cho162,choice,sport,Judo,Rock climbing,J,R,G,True,True,w,j,W,J,0.0,0.0,1.0,y,y,Y,Y,0.0,0.0,0.0,True,21,1.0
+cho168,choice,sport,football,Baseball,F,B,S,True,True,b,b,B,B,0.0,0.0,0.0,b,b,B,B,1.0,0.0,1.0,True,21,1.0
+cho169,choice,sport,Football,Football,F,F,F,False,False,f,b,F,B,1.0,0.0,0.0,F,b,F,B,1.0,0.0,0.0,True,21,1.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,F,b,F,B,1.0,0.0,0.0,True,21,1.0
+cho181,choice,plant,spurge,Sage,S,S,F,True,False,g,g,G,G,0.0,0.0,0.0,g,g,G,G,0.0,0.0,0.0,True,21,1.0
+cho186,choice,plant,Pothos,Pothos,P,P,B,False,False,s,p,S,P,0.0,0.0,1.0,s,s,S,S,0.0,0.0,0.0,True,21,1.0
+cho188,choice,plant,cactus,Cactus,C,C,C,True,False,c,c,C,C,1.0,1.0,1.0,c,d,C,D,1.0,0.0,0.0,True,21,1.0
+cho192,choice,plant,rose,Pothos,R,P,B,True,True,g,p,G,P,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,21,1.0
+com326,completion,phrase,is,awaits,I,A,P,True,True,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,21,1.0
+com327,completion,phrase,Every distant letter fades.,is seen,E,I,C,True,True,E,E,E,E,1.0,0.0,1.0,E,E,E,E,0.0,0.0,0.0,True,21,1.0
+com328,completion,phrase,peace,peace,P,P,B,False,False,s,s,S,S,0.0,0.0,0.0,S,g,S,G,0.0,0.0,0.0,True,21,1.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,21,1.0
+com335,completion,phrase,range,range,R,R,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,21,1.0
+com338,completion,phrase,A empty mountain peak.,A empty mountain void,A,A,W,True,False,f,f,F,F,0.0,0.0,0.0,m,m,M,M,0.0,0.0,0.0,True,21,1.0
+com341,completion,phrase,Every dark window *holds*.,yawns,E,Y,W,True,True,E,e,E,E,1.0,0.0,1.0,E,e,E,E,0.0,0.0,0.0,True,21,1.0
+com343,completion,phrase,breeze,afternoon,B,A,G,True,True,A,s,A,S,0.0,0.0,0.0,S,s,S,S,0.0,0.0,0.0,True,21,1.0
+com346,completion,phrase,is heard.,is heard.,I,I,E,False,False,E,e,E,E,0.0,1.0,0.0,E,e,E,E,0.0,1.0,0.0,True,21,1.0
+com347,completion,phrase,Every heavy mountain *bears*.,bears,E,B,S,True,True,E,E,E,E,1.0,0.0,1.0,E,E,E,E,0.0,0.0,0.0,True,21,1.0
+com351,completion,phrase,through,home,T,H,B,True,True,d,d,D,D,0.0,0.0,0.0,D,d,D,D,0.0,0.0,0.0,True,21,1.0
+com361,completion,phrase,afternoon,afternoon,A,A,D,False,False,S,A,S,A,0.0,0.0,1.0,S,S,S,S,0.0,0.0,0.0,True,21,1.0
+com364,completion,phrase,A bright mountain peak,A bright mountain peak,A,A,P,False,False,s,s,S,S,0.0,0.0,0.0,s,m,S,M,0.0,0.0,0.0,True,21,1.0
+com373,completion,phrase,Every long garden path,Every long garden **path**.,E,E,P,True,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,21,1.0
+com375,completion,phrase,block,block,B,B,A,False,False,r,t,R,T,0.0,0.0,0.0,R,r,R,R,0.0,0.0,0.0,True,21,1.0
+com381,completion,phrase,A sudden letter *arrival*.,arrival,A,A,B,True,False,S,s,S,S,0.0,0.0,0.0,S,s,S,S,0.0,0.0,0.0,True,21,1.0
+com393,completion,phrase,follows,follows,F,F,D,False,False,A,A,A,A,0.0,0.0,0.0,S,s,S,S,0.0,0.0,0.0,True,21,1.0
+com403,completion,phrase,holds,holds,H,H,S,False,False,E,e,E,E,0.0,0.0,0.0,E,g,E,G,0.0,0.0,0.0,True,21,1.0
+com415,completion,phrase,The dark letter e,The dark letter X,T,T,S,True,False,d,d,D,D,0.0,0.0,0.0,d,d,D,D,0.0,0.0,0.0,True,21,1.0
+com416,completion,phrase,The busy house *is*.,fills,T,F,H,True,True,t,t,T,T,1.0,0.0,1.0,b,b,B,B,0.0,0.0,0.0,True,21,1.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,21,1.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,21,1.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,21,1.0
+fac437,factual,capital,Kiev,Kyiv,K,K,K,True,False,K,K,K,K,1.0,1.0,1.0,K,k,K,K,1.0,1.0,1.0,True,21,1.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,21,1.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,21,1.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,H,H,H,H,1.0,1.0,1.0,True,21,1.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,21,1.0
+fac462,factual,arithmetic,twelve,twelve,T,T,T,False,False,T,t,T,T,1.0,1.0,1.0,T,t,T,T,1.0,1.0,1.0,True,21,1.0
+fac463,factual,arithmetic,sixteen,sixteen,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,s,s,S,S,1.0,1.0,1.0,True,21,1.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,F,s,F,S,1.0,0.0,0.0,True,21,1.0
+fac474,factual,arithmetic,three,three,T,T,T,False,False,three,t,,T,0.0,1.0,1.0,t,n,T,N,1.0,0.0,0.0,True,21,1.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,21,1.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,f,f,F,F,0.0,0.0,0.0,True,21,1.0
+fac495,factual,opposite,soft,soft,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,f,f,F,F,0.0,0.0,0.0,True,21,1.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,n,n,N,N,1.0,1.0,1.0,True,21,1.0
+cho000,choice,animal,dog,Dog,D,D,D,True,False,c,c,C,C,0.0,0.0,0.0,b,c,B,C,0.0,0.0,0.0,True,21,2.0
+cho002,choice,animal,ant,Ant,A,A,F,True,False,s,s,S,S,0.0,0.0,0.0,a,a,A,A,1.0,0.0,1.0,True,21,2.0
+cho013,choice,animal,Lion,Lion,L,L,L,False,False,z,z,Z,Z,0.0,0.0,0.0,b,a,B,A,0.0,0.0,0.0,True,21,2.0
+cho019,choice,animal,shark,Shark,S,S,D,True,False,s,s,S,S,1.0,0.0,1.0,s,s,S,S,1.0,0.0,1.0,True,21,2.0
+cho027,choice,colour,blue,Blue,B,B,B,True,False,b,b,B,B,1.0,1.0,1.0,R,b,R,B,0.0,1.0,1.0,True,21,2.0
+cho031,choice,colour,red,Red,R,R,R,True,False,r,r,R,R,1.0,1.0,1.0,R,r,R,R,1.0,1.0,1.0,True,21,2.0
+cho033,choice,colour,Red,Orange,R,O,R,True,True,R,r,R,R,1.0,1.0,1.0,r,c,R,C,0.0,0.0,0.0,True,21,2.0
+cho039,choice,colour,Indigo,Indigo,I,I,B,False,False,b,d,B,D,0.0,0.0,0.0,b,b,B,B,0.0,1.0,0.0,True,21,2.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,v,v,V,V,0.0,0.0,0.0,True,21,2.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,21,2.0
+cho058,choice,city,Paris,Washington,P,W,P,True,True,A,A,A,A,0.0,0.0,0.0,b,a,B,A,0.0,0.0,0.0,True,21,2.0
+cho059,choice,city,Nairobi,Cairo,N,C,C,True,True,J,A,J,A,0.0,0.0,0.0,B,a,B,A,0.0,0.0,0.0,True,21,2.0
+cho061,choice,food,cake,Cakes,C,C,C,True,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,21,2.0
+cho062,choice,food,yogurt,Yogurt,Y,Y,S,True,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,21,2.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,b,b,B,B,1.0,1.0,1.0,True,21,2.0
+cho076,choice,food,candy,Candy,C,C,S,True,False,s,s,S,S,0.0,1.0,0.0,C,s,C,S,1.0,1.0,0.0,True,21,2.0
+cho082,choice,country,Sudan,Saudi Arabia,S,S,E,True,False,S,S,S,S,1.0,0.0,1.0,B,B,B,B,0.0,0.0,0.0,True,21,2.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,b,G,B,G,1.0,0.0,0.0,True,21,2.0
+cho093,choice,country,Nepal,Argentina,N,A,N,True,True,M,M,M,M,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,21,2.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,G,G,G,G,0.0,0.0,0.0,True,21,2.0
+cho101,choice,fruit,Orange,Cherry,O,C,P,True,True,p,p,P,P,0.0,1.0,0.0,b,g,B,G,0.0,0.0,0.0,True,21,2.0
+cho106,choice,fruit,mango,Pineapple,M,P,M,True,True,m,m,M,M,1.0,1.0,1.0,B,f,B,F,0.0,0.0,0.0,True,21,2.0
+cho108,choice,fruit,banana,Banana,B,B,B,True,False,b,y,B,Y,1.0,0.0,0.0,B,f,B,F,1.0,0.0,0.0,True,21,2.0
+cho109,choice,fruit,blueberry,Cherry,B,C,G,True,True,s,s,S,S,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,21,2.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,a,f,A,F,0.0,0.0,0.0,True,21,2.0
+cho131,choice,first_name,Evelyn,Evelyn,E,E,B,False,False,E,B,E,B,1.0,1.0,0.0,B,b,B,B,0.0,1.0,0.0,True,21,2.0
+cho135,choice,first_name,James,Evelyn,J,E,A,True,True,A,A,A,A,0.0,1.0,0.0,u,a,U,A,0.0,1.0,0.0,True,21,2.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,21,2.0
+cho142,choice,instrument,Flute,Flute,F,F,F,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,21,2.0
+cho152,choice,instrument,Harp,Marimba,H,M,H,True,True,s,s,S,S,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,21,2.0
+cho153,choice,instrument,Drum,Cymbal,D,C,D,True,True,c,c,C,C,0.0,0.0,0.0,b,g,B,G,0.0,0.0,0.0,True,21,2.0
+cho155,choice,instrument,Drum,Drum,D,D,T,False,False,B,B,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,21,2.0
+cho162,choice,sport,Judo,Boxing,J,B,G,True,True,w,j,W,J,0.0,0.0,1.0,y,y,Y,Y,0.0,0.0,0.0,True,21,2.0
+cho168,choice,sport,football,Baseball,F,B,S,True,True,b,b,B,B,0.0,0.0,0.0,b,b,B,B,1.0,0.0,1.0,True,21,2.0
+cho169,choice,sport,Football,Football,F,F,F,False,False,f,b,F,B,1.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,21,2.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,21,2.0
+cho181,choice,plant,spurge,Sedum,S,S,F,True,False,g,g,G,G,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,21,2.0
+cho186,choice,plant,Pothos,Pothos,P,P,B,False,False,s,p,S,P,0.0,0.0,1.0,s,s,S,S,0.0,0.0,0.0,True,21,2.0
+cho188,choice,plant,cactus,Cactus,C,C,C,True,False,c,c,C,C,1.0,1.0,1.0,c,d,C,D,1.0,0.0,0.0,True,21,2.0
+cho192,choice,plant,rose,Succulent,R,S,B,True,True,g,p,G,P,0.0,0.0,0.0,s,f,S,F,1.0,0.0,0.0,True,21,2.0
+com326,completion,phrase,is,waits,I,W,P,True,True,E,E,E,E,0.0,0.0,0.0,B,b,B,B,0.0,0.0,0.0,True,21,2.0
+com327,completion,phrase,Every distant letter fades.,Yawns,E,Y,C,True,True,E,E,E,E,1.0,0.0,1.0,E,g,E,G,0.0,0.0,0.0,True,21,2.0
+com328,completion,phrase,peace,home,P,H,B,True,True,s,s,S,S,0.0,0.0,0.0,s,g,S,G,0.0,0.0,0.0,True,21,2.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,B,b,B,B,1.0,0.0,1.0,True,21,2.0
+com335,completion,phrase,range,pass,R,P,H,True,True,E,E,E,E,0.0,0.0,0.0,B,b,B,B,0.0,0.0,0.0,True,21,2.0
+com338,completion,phrase,A empty mountain peak.,Home,A,H,W,True,True,f,f,F,F,0.0,0.0,0.0,b,g,B,G,0.0,0.0,0.0,True,21,2.0
+com341,completion,phrase,Every dark window *holds*.,Home,E,H,W,True,True,E,e,E,E,1.0,0.0,1.0,E,g,E,G,0.0,0.0,0.0,True,21,2.0
+com343,completion,phrase,breeze,afternoon,B,A,G,True,True,A,s,A,S,0.0,0.0,0.0,b,g,B,G,0.0,1.0,0.0,True,21,2.0
+com346,completion,phrase,is heard.,is heard.,I,I,E,False,False,E,e,E,E,0.0,1.0,0.0,B,b,B,B,0.0,0.0,0.0,True,21,2.0
+com347,completion,phrase,Every heavy mountain *bears*.,Ends,E,E,S,True,False,E,E,E,E,1.0,0.0,1.0,B,b,B,B,0.0,0.0,0.0,True,21,2.0
+com351,completion,phrase,through,home,T,H,B,True,True,d,d,D,D,0.0,0.0,0.0,b,b,B,B,0.0,1.0,0.0,True,21,2.0
+com361,completion,phrase,afternoon,leaves,A,L,D,True,True,S,A,S,A,0.0,0.0,1.0,S,s,S,S,0.0,0.0,0.0,True,21,2.0
+com364,completion,phrase,A bright mountain peak,home,A,H,P,True,True,s,s,S,S,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,21,2.0
+com373,completion,phrase,Every long garden path,Every long garden **path**.,E,E,P,True,False,E,E,E,E,1.0,0.0,1.0,B,g,B,G,0.0,0.0,0.0,True,21,2.0
+com375,completion,phrase,block,flash,B,F,A,True,True,r,t,R,T,0.0,0.0,0.0,R,g,R,G,0.0,0.0,0.0,True,21,2.0
+com381,completion,phrase,A sudden letter *arrival*.,arrival,A,A,B,True,False,S,s,S,S,0.0,0.0,0.0,S,g,S,G,0.0,0.0,0.0,True,21,2.0
+com393,completion,phrase,follows,descends,F,D,D,True,True,A,A,A,A,0.0,0.0,0.0,b,g,B,G,0.0,0.0,0.0,True,21,2.0
+com403,completion,phrase,holds,Yields.,H,Y,S,True,True,E,e,E,E,0.0,0.0,0.0,E,g,E,G,0.0,0.0,0.0,True,21,2.0
+com415,completion,phrase,The dark letter e,dawn,T,D,S,True,True,d,d,D,D,0.0,0.0,0.0,d,g,D,G,1.0,0.0,0.0,True,21,2.0
+com416,completion,phrase,The busy house *is*.,humors,T,H,H,True,True,t,t,T,T,1.0,0.0,1.0,B,b,B,B,0.0,0.0,0.0,True,21,2.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,B,b,B,B,0.0,0.0,0.0,True,21,2.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,C,c,C,C,0.0,0.0,0.0,True,21,2.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,a,L,A,1.0,0.0,0.0,True,21,2.0
+fac437,factual,capital,Kiev,Kyiv,K,K,K,True,False,K,K,K,K,1.0,1.0,1.0,w,b,W,B,0.0,0.0,0.0,True,21,2.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,c,C,C,1.0,1.0,1.0,True,21,2.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,21,2.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,H,c,H,C,1.0,0.0,0.0,True,21,2.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,c,C,C,1.0,1.0,1.0,True,21,2.0
+fac462,factual,arithmetic,twelve,Twelve,T,T,T,True,False,T,t,T,T,1.0,1.0,1.0,T,S,T,S,1.0,0.0,0.0,True,21,2.0
+fac463,factual,arithmetic,sixteen,sixteen,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,s,S,S,S,1.0,1.0,1.0,True,21,2.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,f,S,F,S,1.0,0.0,0.0,True,21,2.0
+fac474,factual,arithmetic,three,Three,T,T,T,True,False,three,t,,T,0.0,1.0,1.0,t,S,T,S,1.0,0.0,0.0,True,21,2.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,f,L,F,1.0,0.0,0.0,True,21,2.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,f,f,F,F,0.0,0.0,0.0,True,21,2.0
+fac495,factual,opposite,soft,easy,S,E,S,True,True,s,s,S,S,1.0,1.0,1.0,f,f,F,F,0.0,0.0,0.0,True,21,2.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,f,f,F,F,0.0,0.0,0.0,True,21,2.0
+cho000,choice,animal,dog,Dog,D,D,D,True,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,24,1.0
+cho002,choice,animal,ant,Ant,A,A,F,True,False,s,s,S,S,0.0,0.0,0.0,a,a,A,A,1.0,0.0,1.0,True,24,1.0
+cho013,choice,animal,Lion,Lion,L,L,L,False,False,z,z,Z,Z,0.0,0.0,0.0,z,z,Z,Z,0.0,0.0,0.0,True,24,1.0
+cho019,choice,animal,shark,shark,S,S,D,False,False,s,s,S,S,1.0,0.0,1.0,s,s,S,S,1.0,0.0,1.0,True,24,1.0
+cho027,choice,colour,blue,blue,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,R,r,R,R,0.0,0.0,0.0,True,24,1.0
+cho031,choice,colour,red,Red,R,R,R,True,False,r,r,R,R,1.0,1.0,1.0,R,R,R,R,1.0,1.0,1.0,True,24,1.0
+cho033,choice,colour,Red,Red,R,R,R,False,False,R,r,R,R,1.0,1.0,1.0,R,R,R,R,1.0,1.0,1.0,True,24,1.0
+cho039,choice,colour,Indigo,Indigo,I,I,B,False,False,b,d,B,D,0.0,0.0,0.0,B,D,B,D,0.0,0.0,0.0,True,24,1.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,M,M,M,M,0.0,0.0,0.0,True,24,1.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,B,G,B,G,0.0,0.0,0.0,True,24,1.0
+cho058,choice,city,Paris,Paris,P,P,P,False,False,A,A,A,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,24,1.0
+cho059,choice,city,Nairobi,Cairo,N,C,C,True,True,J,A,J,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,24,1.0
+cho061,choice,food,cake,cake,C,C,C,False,False,b,b,B,B,0.0,0.0,0.0,b,B,B,B,0.0,0.0,0.0,True,24,1.0
+cho062,choice,food,yogurt,Yogurt,Y,Y,S,True,False,c,c,C,C,0.0,0.0,0.0,c,C,C,C,0.0,0.0,0.0,True,24,1.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,B,B,B,B,1.0,1.0,1.0,True,24,1.0
+cho076,choice,food,candy,candy,C,C,S,False,False,s,s,S,S,0.0,1.0,0.0,S,S,S,S,0.0,1.0,0.0,True,24,1.0
+cho082,choice,country,Sudan,Saudi Arabia,S,S,E,True,False,S,S,S,S,1.0,0.0,1.0,S,S,S,S,1.0,0.0,1.0,True,24,1.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,24,1.0
+cho093,choice,country,Nepal,Nepal,N,N,N,False,False,M,M,M,M,0.0,0.0,0.0,M,G,M,G,0.0,0.0,0.0,True,24,1.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,R,G,R,G,1.0,0.0,0.0,True,24,1.0
+cho101,choice,fruit,Orange,Cherry,O,C,P,True,True,p,p,P,P,0.0,1.0,0.0,P,G,P,G,0.0,0.0,0.0,True,24,1.0
+cho106,choice,fruit,mango,Pineapple,M,P,M,True,True,m,m,M,M,1.0,1.0,1.0,M,M,M,M,0.0,1.0,0.0,True,24,1.0
+cho108,choice,fruit,banana,banana,B,B,B,False,False,b,y,B,Y,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,24,1.0
+cho109,choice,fruit,blueberry,blueberry,B,B,G,False,False,s,s,S,S,0.0,0.0,0.0,b,b,B,B,1.0,0.0,1.0,True,24,1.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,A,G,A,G,0.0,0.0,0.0,True,24,1.0
+cho131,choice,first_name,Evelyn,Ethan,E,E,B,True,False,E,B,E,B,1.0,1.0,0.0,B,B,B,B,0.0,1.0,0.0,True,24,1.0
+cho135,choice,first_name,James,James,J,J,A,False,False,A,A,A,A,0.0,1.0,0.0,A,A,A,A,0.0,1.0,0.0,True,24,1.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,J,G,J,G,0.0,0.0,0.0,True,24,1.0
+cho142,choice,instrument,Flute,Flute,F,F,F,False,False,b,b,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,24,1.0
+cho152,choice,instrument,Harp,Harmonica,H,H,H,True,False,s,s,S,S,0.0,0.0,0.0,s,c,S,C,0.0,0.0,0.0,True,24,1.0
+cho153,choice,instrument,Drum,Drum,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,C,G,C,G,0.0,0.0,0.0,True,24,1.0
+cho155,choice,instrument,Drum,Drum,D,D,T,False,False,B,B,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,24,1.0
+cho162,choice,sport,Judo,Judo,J,J,G,False,False,w,j,W,J,0.0,0.0,1.0,C,C,C,C,0.0,0.0,0.0,True,24,1.0
+cho168,choice,sport,football,Baseball,F,B,S,True,True,b,b,B,B,0.0,0.0,0.0,b,b,B,B,1.0,0.0,1.0,True,24,1.0
+cho169,choice,sport,Football,Football,F,F,F,False,False,f,b,F,B,1.0,0.0,0.0,F,B,F,B,1.0,0.0,0.0,True,24,1.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,F,B,F,B,1.0,0.0,0.0,True,24,1.0
+cho181,choice,plant,spurge,spurge,S,S,F,False,False,g,g,G,G,0.0,0.0,0.0,g,g,G,G,0.0,0.0,0.0,True,24,1.0
+cho186,choice,plant,Pothos,Pothos,P,P,B,False,False,s,p,S,P,0.0,0.0,1.0,s,s,S,S,0.0,0.0,0.0,True,24,1.0
+cho188,choice,plant,cactus,Cactus,C,C,C,True,False,c,c,C,C,1.0,1.0,1.0,c,c,C,C,1.0,1.0,1.0,True,24,1.0
+cho192,choice,plant,rose,Pothos,R,P,B,True,True,g,p,G,P,0.0,0.0,0.0,s,S,S,S,0.0,0.0,0.0,True,24,1.0
+com326,completion,phrase,is,is,I,I,P,False,False,E,E,E,E,0.0,0.0,0.0,E,G,E,G,0.0,0.0,0.0,True,24,1.0
+com327,completion,phrase,Every distant letter fades.,fades,E,F,C,True,True,E,E,E,E,1.0,0.0,1.0,E,E,E,E,0.0,0.0,0.0,True,24,1.0
+com328,completion,phrase,peace,whispers,P,W,B,True,True,s,s,S,S,0.0,0.0,0.0,S,s,S,S,0.0,0.0,0.0,True,24,1.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,24,1.0
+com335,completion,phrase,range,Every long mountain range,R,E,H,True,True,E,E,E,E,0.0,0.0,0.0,E,E,E,E,1.0,0.0,1.0,True,24,1.0
+com338,completion,phrase,A empty mountain peak.,A empty mountain peak.,A,A,W,False,False,f,f,F,F,0.0,0.0,0.0,f,f,F,F,0.0,0.0,0.0,True,24,1.0
+com341,completion,phrase,Every dark window *holds*.,Every dark window *holds*.,E,E,W,False,False,E,e,E,E,1.0,0.0,1.0,E,e,E,E,1.0,0.0,1.0,True,24,1.0
+com343,completion,phrase,breeze,breeze,B,B,G,False,False,A,s,A,S,0.0,0.0,0.0,R,S,R,S,0.0,0.0,0.0,True,24,1.0
+com346,completion,phrase,is heard.,is heard.,I,I,E,False,False,E,e,E,E,0.0,1.0,0.0,E,E,E,E,0.0,1.0,0.0,True,24,1.0
+com347,completion,phrase,Every heavy mountain *bears*.,Every heavy mountain *bears*.,E,E,S,False,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,24,1.0
+com351,completion,phrase,through,Ahead,T,A,B,True,True,d,d,D,D,0.0,0.0,0.0,D,c,D,C,0.0,0.0,0.0,True,24,1.0
+com361,completion,phrase,afternoon,afternoon,A,A,D,False,False,S,A,S,A,0.0,0.0,1.0,R,S,R,S,0.0,0.0,0.0,True,24,1.0
+com364,completion,phrase,A bright mountain peak,A bright mountain peak,A,A,P,False,False,s,s,S,S,0.0,0.0,0.0,S,c,S,C,0.0,0.0,0.0,True,24,1.0
+com373,completion,phrase,Every long garden path,Every long garden **path**.,E,E,P,True,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,24,1.0
+com375,completion,phrase,block,block,B,B,A,False,False,r,t,R,T,0.0,0.0,0.0,R,r,R,R,0.0,0.0,0.0,True,24,1.0
+com381,completion,phrase,A sudden letter *arrival*.,A sudden letter *arrival*.,A,A,B,False,False,S,s,S,S,0.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,24,1.0
+com393,completion,phrase,follows,follows,F,F,D,False,False,A,A,A,A,0.0,0.0,0.0,S,G,S,G,0.0,0.0,0.0,True,24,1.0
+com403,completion,phrase,holds,holds,H,H,S,False,False,E,e,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,24,1.0
+com415,completion,phrase,The dark letter e,The dark letter X,T,T,S,True,False,d,d,D,D,0.0,0.0,0.0,D,G,D,G,0.0,0.0,0.0,True,24,1.0
+com416,completion,phrase,The busy house *is*.,The busy house *is*.,T,T,H,False,False,t,t,T,T,1.0,0.0,1.0,T,b,T,B,1.0,0.0,0.0,True,24,1.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,24,1.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,24,1.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,24,1.0
+fac437,factual,capital,Kiev,Kiev,K,K,K,False,False,K,K,K,K,1.0,1.0,1.0,K,K,K,K,1.0,1.0,1.0,True,24,1.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,24,1.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,24,1.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,H,H,H,H,1.0,1.0,1.0,True,24,1.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,24,1.0
+fac462,factual,arithmetic,twelve,Twelve,T,T,T,True,False,T,t,T,T,1.0,1.0,1.0,T,T,T,T,1.0,1.0,1.0,True,24,1.0
+fac463,factual,arithmetic,sixteen,sixteen,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,s,S,S,1.0,1.0,1.0,True,24,1.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,F,S,F,S,1.0,0.0,0.0,True,24,1.0
+fac474,factual,arithmetic,three,three,T,T,T,False,False,three,t,,T,0.0,1.0,1.0,Three,n,,N,0.0,0.0,0.0,True,24,1.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,24,1.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,b,b,B,B,0.0,0.0,0.0,True,24,1.0
+fac495,factual,opposite,soft,soft,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,S,S,S,1.0,1.0,1.0,True,24,1.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,24,1.0
+cho000,choice,animal,dog,Dog,D,D,D,True,False,c,c,C,C,0.0,0.0,0.0,C,C,C,C,0.0,0.0,0.0,True,24,2.0
+cho002,choice,animal,ant,Ant,A,A,F,True,False,s,s,S,S,0.0,0.0,0.0,a,b,A,B,1.0,0.0,0.0,True,24,2.0
+cho013,choice,animal,Lion,Lion,L,L,L,False,False,z,z,Z,Z,0.0,0.0,0.0,z,b,Z,B,0.0,0.0,0.0,True,24,2.0
+cho019,choice,animal,shark,Dolphin,S,D,D,True,True,s,s,S,S,1.0,0.0,1.0,d,b,D,B,1.0,0.0,0.0,True,24,2.0
+cho027,choice,colour,blue,Blue,B,B,B,True,False,b,b,B,B,1.0,1.0,1.0,R,B,R,B,0.0,1.0,1.0,True,24,2.0
+cho031,choice,colour,red,Red,R,R,R,True,False,r,r,R,R,1.0,1.0,1.0,R,R,R,R,1.0,1.0,1.0,True,24,2.0
+cho033,choice,colour,Red,Red,R,R,R,False,False,R,r,R,R,1.0,1.0,1.0,R,C,R,C,1.0,0.0,0.0,True,24,2.0
+cho039,choice,colour,Indigo,Indigo,I,I,B,False,False,b,d,B,D,0.0,0.0,0.0,B,B,B,B,0.0,1.0,0.0,True,24,2.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,M,b,M,B,0.0,0.0,0.0,True,24,2.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,24,2.0
+cho058,choice,city,Paris,Paris,P,P,P,False,False,A,A,A,A,0.0,0.0,0.0,B,A,B,A,0.0,0.0,0.0,True,24,2.0
+cho059,choice,city,Nairobi,Cairo,N,C,C,True,True,J,A,J,A,0.0,0.0,0.0,A,b,A,B,0.0,0.0,0.0,True,24,2.0
+cho061,choice,food,cake,Cake,C,C,C,True,False,b,b,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,24,2.0
+cho062,choice,food,yogurt,Yogurt,Y,Y,S,True,False,c,c,C,C,0.0,0.0,0.0,C,C,C,C,0.0,0.0,0.0,True,24,2.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,B,B,B,B,1.0,1.0,1.0,True,24,2.0
+cho076,choice,food,candy,Candy,C,C,S,True,False,s,s,S,S,0.0,1.0,0.0,S,S,S,S,0.0,1.0,0.0,True,24,2.0
+cho082,choice,country,Sudan,Saudi Arabia,S,S,E,True,False,S,S,S,S,1.0,0.0,1.0,B,B,B,B,0.0,0.0,0.0,True,24,2.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,24,2.0
+cho093,choice,country,Nepal,India,N,I,N,True,True,M,M,M,M,0.0,0.0,0.0,M,G,M,G,0.0,0.0,0.0,True,24,2.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,R,G,R,G,1.0,0.0,0.0,True,24,2.0
+cho101,choice,fruit,Orange,Cherry,O,C,P,True,True,p,p,P,P,0.0,1.0,0.0,B,G,B,G,0.0,0.0,0.0,True,24,2.0
+cho106,choice,fruit,mango,Pineapple,M,P,M,True,True,m,m,M,M,1.0,1.0,1.0,M,B,M,B,0.0,0.0,0.0,True,24,2.0
+cho108,choice,fruit,banana,Banana,B,B,B,True,False,b,y,B,Y,1.0,0.0,0.0,B,B,B,B,1.0,1.0,1.0,True,24,2.0
+cho109,choice,fruit,blueberry,Blueberry,B,B,G,True,False,s,s,S,S,0.0,0.0,0.0,b,B,B,B,1.0,0.0,1.0,True,24,2.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,A,G,A,G,0.0,0.0,0.0,True,24,2.0
+cho131,choice,first_name,Evelyn,Ethan,E,E,B,True,False,E,B,E,B,1.0,1.0,0.0,B,B,B,B,0.0,1.0,0.0,True,24,2.0
+cho135,choice,first_name,James,James,J,J,A,False,False,A,A,A,A,0.0,1.0,0.0,A,A,A,A,0.0,1.0,0.0,True,24,2.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,24,2.0
+cho142,choice,instrument,Flute,Flute,F,F,F,False,False,b,b,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,24,2.0
+cho152,choice,instrument,Harp,Harp,H,H,H,False,False,s,s,S,S,0.0,0.0,0.0,b,C,B,C,0.0,0.0,0.0,True,24,2.0
+cho153,choice,instrument,Drum,Drum,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,C,G,C,G,0.0,0.0,0.0,True,24,2.0
+cho155,choice,instrument,Drum,Drum,D,D,T,False,False,B,B,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,24,2.0
+cho162,choice,sport,Judo,Judo,J,J,G,False,False,w,j,W,J,0.0,0.0,1.0,B,B,B,B,0.0,0.0,0.0,True,24,2.0
+cho168,choice,sport,football,Baseball,F,B,S,True,True,b,b,B,B,0.0,0.0,0.0,B,B,B,B,1.0,0.0,1.0,True,24,2.0
+cho169,choice,sport,Football,Football,F,F,F,False,False,f,b,F,B,1.0,0.0,0.0,F,B,F,B,1.0,0.0,0.0,True,24,2.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,24,2.0
+cho181,choice,plant,spurge,spurge,S,S,F,False,False,g,g,G,G,0.0,0.0,0.0,C,C,C,C,0.0,0.0,0.0,True,24,2.0
+cho186,choice,plant,Pothos,Succulent,P,S,B,True,True,s,p,S,P,0.0,0.0,1.0,S,C,S,C,1.0,0.0,0.0,True,24,2.0
+cho188,choice,plant,cactus,Cactus,C,C,C,True,False,c,c,C,C,1.0,1.0,1.0,c,C,C,C,1.0,1.0,1.0,True,24,2.0
+cho192,choice,plant,rose,Sage,R,S,B,True,True,g,p,G,P,0.0,0.0,0.0,S,C,S,C,1.0,0.0,0.0,True,24,2.0
+com326,completion,phrase,is,is,I,I,P,False,False,E,E,E,E,0.0,0.0,0.0,C,C,C,C,0.0,0.0,0.0,True,24,2.0
+com327,completion,phrase,Every distant letter fades.,Fades,E,F,C,True,True,E,E,E,E,1.0,0.0,1.0,E,B,E,B,0.0,0.0,0.0,True,24,2.0
+com328,completion,phrase,peace,whispers,P,W,B,True,True,s,s,S,S,0.0,0.0,0.0,S,B,S,B,0.0,1.0,0.0,True,24,2.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,A,C,A,C,0.0,0.0,0.0,True,24,2.0
+com335,completion,phrase,range,Every long mountain range,R,E,H,True,True,E,E,E,E,0.0,0.0,0.0,C,B,C,B,0.0,0.0,0.0,True,24,2.0
+com338,completion,phrase,A empty mountain peak.,A empty mountain *shadow*.,A,A,W,True,False,f,f,F,F,0.0,0.0,0.0,C,B,C,B,0.0,0.0,0.0,True,24,2.0
+com341,completion,phrase,Every dark window *holds*.,Stares,E,S,W,True,True,E,e,E,E,1.0,0.0,1.0,E,b,E,B,0.0,0.0,0.0,True,24,2.0
+com343,completion,phrase,breeze,sun,B,S,G,True,True,A,s,A,S,0.0,0.0,0.0,R,B,R,B,0.0,0.0,0.0,True,24,2.0
+com346,completion,phrase,is heard.,is heard,I,I,E,True,False,E,e,E,E,0.0,1.0,0.0,B,B,B,B,0.0,0.0,0.0,True,24,2.0
+com347,completion,phrase,Every heavy mountain *bears*.,Every heavy mountain *burden*.,E,E,S,True,False,E,E,E,E,1.0,0.0,1.0,C,C,C,C,0.0,0.0,0.0,True,24,2.0
+com351,completion,phrase,through,Ahead,T,A,B,True,True,d,d,D,D,0.0,0.0,0.0,C,B,C,B,0.0,1.0,0.0,True,24,2.0
+com361,completion,phrase,afternoon,afternoon,A,A,D,False,False,S,A,S,A,0.0,0.0,1.0,F,B,F,B,0.0,0.0,0.0,True,24,2.0
+com364,completion,phrase,A bright mountain peak,A bright mountain peak,A,A,P,False,False,s,s,S,S,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,24,2.0
+com373,completion,phrase,Every long garden path,Every long garden **path**.,E,E,P,True,False,E,E,E,E,1.0,0.0,1.0,E,C,E,C,1.0,0.0,0.0,True,24,2.0
+com375,completion,phrase,block,block,B,B,A,False,False,r,t,R,T,0.0,0.0,0.0,R,B,R,B,0.0,0.0,1.0,True,24,2.0
+com381,completion,phrase,A sudden letter *arrival*.,A sudden letter drop,A,A,B,True,False,S,s,S,S,0.0,0.0,0.0,S,B,S,B,0.0,1.0,0.0,True,24,2.0
+com393,completion,phrase,follows,follows,F,F,D,False,False,A,A,A,A,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,24,2.0
+com403,completion,phrase,holds,Awakes,H,A,S,True,True,E,e,E,E,0.0,0.0,0.0,E,B,E,B,0.0,0.0,0.0,True,24,2.0
+com415,completion,phrase,The dark letter e,The dark letter X,T,T,S,True,False,d,d,D,D,0.0,0.0,0.0,C,B,C,B,0.0,0.0,0.0,True,24,2.0
+com416,completion,phrase,The busy house *is*.,The busy house lives.,T,T,H,True,False,t,t,T,T,1.0,0.0,1.0,B,b,B,B,0.0,0.0,0.0,True,24,2.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,M,B,M,B,1.0,0.0,0.0,True,24,2.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,N,R,N,R,1.0,0.0,0.0,True,24,2.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,24,2.0
+fac437,factual,capital,Kiev,Kiev,K,K,K,False,False,K,K,K,K,1.0,1.0,1.0,K,b,K,B,1.0,0.0,0.0,True,24,2.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,24,2.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,24,2.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,H,G,H,G,1.0,0.0,0.0,True,24,2.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,24,2.0
+fac462,factual,arithmetic,twelve,Twelve,T,T,T,True,False,T,t,T,T,1.0,1.0,1.0,C,B,C,B,0.0,0.0,0.0,True,24,2.0
+fac463,factual,arithmetic,sixteen,Sixteen,S,S,S,True,False,s,s,S,S,1.0,1.0,1.0,S,S,S,S,1.0,1.0,1.0,True,24,2.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,E,S,E,S,0.0,0.0,0.0,True,24,2.0
+fac474,factual,arithmetic,three,Three,T,T,T,True,False,three,t,,T,0.0,1.0,1.0,T,N,T,N,1.0,0.0,0.0,True,24,2.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,24,2.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,B,B,B,B,0.0,0.0,0.0,True,24,2.0
+fac495,factual,opposite,soft,soft,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,F,S,F,1.0,0.0,0.0,True,24,2.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,N,B,N,B,1.0,0.0,0.0,True,24,2.0
+cho000,choice,animal,dog,dog,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,27,1.0
+cho002,choice,animal,ant,ant,A,A,F,False,False,s,s,S,S,0.0,0.0,0.0,a,a,A,A,1.0,0.0,1.0,True,27,1.0
+cho013,choice,animal,Lion,Lion,L,L,L,False,False,z,z,Z,Z,0.0,0.0,0.0,z,z,Z,Z,0.0,0.0,0.0,True,27,1.0
+cho019,choice,animal,shark,shark,S,S,D,False,False,s,s,S,S,1.0,0.0,1.0,s,s,S,S,1.0,0.0,1.0,True,27,1.0
+cho027,choice,colour,blue,blue,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,B,b,B,B,1.0,1.0,1.0,True,27,1.0
+cho031,choice,colour,red,Red,R,R,R,True,False,r,r,R,R,1.0,1.0,1.0,R,r,R,R,1.0,1.0,1.0,True,27,1.0
+cho033,choice,colour,Red,Red,R,R,R,False,False,R,r,R,R,1.0,1.0,1.0,R,R,R,R,1.0,1.0,1.0,True,27,1.0
+cho039,choice,colour,Indigo,Indigo,I,I,B,False,False,b,d,B,D,0.0,0.0,0.0,B,B,B,B,0.0,1.0,0.0,True,27,1.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,M,M,M,M,0.0,0.0,0.0,True,27,1.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,B,G,B,G,0.0,0.0,0.0,True,27,1.0
+cho058,choice,city,Paris,Paris,P,P,P,False,False,A,A,A,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,27,1.0
+cho059,choice,city,Nairobi,Cairo,N,C,C,True,True,J,A,J,A,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,27,1.0
+cho061,choice,food,cake,cake,C,C,C,False,False,b,b,B,B,0.0,0.0,0.0,b,B,B,B,0.0,0.0,0.0,True,27,1.0
+cho062,choice,food,yogurt,yogurt,Y,Y,S,False,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,27,1.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,B,B,B,B,1.0,1.0,1.0,True,27,1.0
+cho076,choice,food,candy,candy,C,C,S,False,False,s,s,S,S,0.0,1.0,0.0,S,S,S,S,0.0,1.0,0.0,True,27,1.0
+cho082,choice,country,Sudan,Sahara,S,S,E,True,False,S,S,S,S,1.0,0.0,1.0,S,G,S,G,1.0,0.0,0.0,True,27,1.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,27,1.0
+cho093,choice,country,Nepal,Nepal,N,N,N,False,False,M,M,M,M,0.0,0.0,0.0,M,G,M,G,0.0,0.0,0.0,True,27,1.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,R,G,R,G,1.0,0.0,0.0,True,27,1.0
+cho101,choice,fruit,Orange,Cherry,O,C,P,True,True,p,p,P,P,0.0,1.0,0.0,P,G,P,G,0.0,0.0,0.0,True,27,1.0
+cho106,choice,fruit,mango,mango,M,M,M,False,False,m,m,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,27,1.0
+cho108,choice,fruit,banana,banana,B,B,B,False,False,b,y,B,Y,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,27,1.0
+cho109,choice,fruit,blueberry,blueberry,B,B,G,False,False,s,s,S,S,0.0,0.0,0.0,b,b,B,B,1.0,0.0,1.0,True,27,1.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,A,G,A,G,0.0,0.0,0.0,True,27,1.0
+cho131,choice,first_name,Evelyn,Ethan,E,E,B,True,False,E,B,E,B,1.0,1.0,0.0,B,B,B,B,0.0,1.0,0.0,True,27,1.0
+cho135,choice,first_name,James,James,J,J,A,False,False,A,A,A,A,0.0,1.0,0.0,A,A,A,A,0.0,1.0,0.0,True,27,1.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,A,G,A,G,0.0,0.0,0.0,True,27,1.0
+cho142,choice,instrument,Flute,Flute,F,F,F,False,False,b,b,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,27,1.0
+cho152,choice,instrument,Harp,Harp,H,H,H,False,False,s,s,S,S,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,27,1.0
+cho153,choice,instrument,Drum,Drum,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,C,C,C,C,0.0,0.0,0.0,True,27,1.0
+cho155,choice,instrument,Drum,Trombone,D,T,T,True,True,B,B,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,27,1.0
+cho162,choice,sport,Judo,Judo,J,J,G,False,False,w,j,W,J,0.0,0.0,1.0,W,C,W,C,0.0,0.0,0.0,True,27,1.0
+cho168,choice,sport,football,baseball,F,B,S,True,True,b,b,B,B,0.0,0.0,0.0,b,b,B,B,1.0,0.0,1.0,True,27,1.0
+cho169,choice,sport,Football,Football,F,F,F,False,False,f,b,F,B,1.0,0.0,0.0,F,B,F,B,1.0,0.0,0.0,True,27,1.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,F,B,F,B,1.0,0.0,0.0,True,27,1.0
+cho181,choice,plant,spurge,spurge,S,S,F,False,False,g,g,G,G,0.0,0.0,0.0,g,g,G,G,0.0,0.0,0.0,True,27,1.0
+cho186,choice,plant,Pothos,Pothos,P,P,B,False,False,s,p,S,P,0.0,0.0,1.0,s,s,S,S,0.0,0.0,0.0,True,27,1.0
+cho188,choice,plant,cactus,cactus,C,C,C,False,False,c,c,C,C,1.0,1.0,1.0,c,c,C,C,1.0,1.0,1.0,True,27,1.0
+cho192,choice,plant,rose,Pothos,R,P,B,True,True,g,p,G,P,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,27,1.0
+com326,completion,phrase,is,awaits,I,A,P,True,True,E,E,E,E,0.0,0.0,0.0,E,G,E,G,0.0,0.0,0.0,True,27,1.0
+com327,completion,phrase,Every distant letter fades.,is,E,I,C,True,True,E,E,E,E,1.0,0.0,1.0,E,G,E,G,0.0,0.0,0.0,True,27,1.0
+com328,completion,phrase,peace,whispers,P,W,B,True,True,s,s,S,S,0.0,0.0,0.0,S,s,S,S,0.0,0.0,0.0,True,27,1.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,27,1.0
+com335,completion,phrase,range,range,R,R,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,27,1.0
+com338,completion,phrase,A empty mountain peak.,A empty mountain **shadow**.,A,A,W,True,False,f,f,F,F,0.0,0.0,0.0,f,f,F,F,0.0,0.0,0.0,True,27,1.0
+com341,completion,phrase,Every dark window *holds*.,holds,E,H,W,True,True,E,e,E,E,1.0,0.0,1.0,E,e,E,E,0.0,0.0,0.0,True,27,1.0
+com343,completion,phrase,breeze,sunrise,B,S,G,True,True,A,s,A,S,0.0,0.0,0.0,S,S,S,S,1.0,0.0,1.0,True,27,1.0
+com346,completion,phrase,is heard.,is heard.,I,I,E,False,False,E,e,E,E,0.0,1.0,0.0,E,G,E,G,0.0,0.0,0.0,True,27,1.0
+com347,completion,phrase,Every heavy mountain *bears*.,Every heavy mountain *burden*.,E,E,S,True,False,E,E,E,E,1.0,0.0,1.0,E,G,E,G,1.0,0.0,0.0,True,27,1.0
+com351,completion,phrase,through,through,T,T,B,False,False,d,d,D,D,0.0,0.0,0.0,D,G,D,G,0.0,0.0,0.0,True,27,1.0
+com361,completion,phrase,afternoon,afternoon,A,A,D,False,False,S,A,S,A,0.0,0.0,1.0,S,G,S,G,0.0,0.0,0.0,True,27,1.0
+com364,completion,phrase,A bright mountain peak,A bright mountain peak,A,A,P,False,False,s,s,S,S,0.0,0.0,0.0,s,G,S,G,0.0,0.0,0.0,True,27,1.0
+com373,completion,phrase,Every long garden path,Every long garden **path**.,E,E,P,True,False,E,E,E,E,1.0,0.0,1.0,E,G,E,G,1.0,0.0,0.0,True,27,1.0
+com375,completion,phrase,block,block,B,B,A,False,False,r,t,R,T,0.0,0.0,0.0,R,G,R,G,0.0,0.0,0.0,True,27,1.0
+com381,completion,phrase,A sudden letter *arrival*.,A sudden letter *arrival*.,A,A,B,False,False,S,s,S,S,0.0,0.0,0.0,S,G,S,G,0.0,0.0,0.0,True,27,1.0
+com393,completion,phrase,follows,follows,F,F,D,False,False,A,A,A,A,0.0,0.0,0.0,S,G,S,G,0.0,0.0,0.0,True,27,1.0
+com403,completion,phrase,holds,holds,H,H,S,False,False,E,e,E,E,0.0,0.0,0.0,E,G,E,G,0.0,0.0,0.0,True,27,1.0
+com415,completion,phrase,The dark letter e,The dark letter D,T,T,S,True,False,d,d,D,D,0.0,0.0,0.0,D,G,D,G,0.0,0.0,0.0,True,27,1.0
+com416,completion,phrase,The busy house *is*.,The busy house *is*.,T,T,H,False,False,t,t,T,T,1.0,0.0,1.0,T,g,T,G,1.0,0.0,0.0,True,27,1.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,27,1.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,27,1.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,27,1.0
+fac437,factual,capital,Kiev,Kiev,K,K,K,False,False,K,K,K,K,1.0,1.0,1.0,K,K,K,K,1.0,1.0,1.0,True,27,1.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,27,1.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,27,1.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,H,H,H,H,1.0,1.0,1.0,True,27,1.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,27,1.0
+fac462,factual,arithmetic,twelve,twelve,T,T,T,False,False,T,t,T,T,1.0,1.0,1.0,T,T,T,T,1.0,1.0,1.0,True,27,1.0
+fac463,factual,arithmetic,sixteen,sixteen,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,s,S,S,1.0,1.0,1.0,True,27,1.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,F,n,F,N,1.0,0.0,0.0,True,27,1.0
+fac474,factual,arithmetic,three,three,T,T,T,False,False,three,t,,T,0.0,1.0,1.0,Three,n,,N,0.0,0.0,0.0,True,27,1.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,27,1.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,E,E,E,E,1.0,1.0,1.0,True,27,1.0
+fac495,factual,opposite,soft,soft,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,S,S,S,1.0,1.0,1.0,True,27,1.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,27,1.0
+cho000,choice,animal,dog,Dog,D,D,D,True,False,c,c,C,C,0.0,0.0,0.0,D,C,D,C,1.0,0.0,0.0,True,27,2.0
+cho002,choice,animal,ant,ant,A,A,F,False,False,s,s,S,S,0.0,0.0,0.0,a,B,A,B,1.0,0.0,0.0,True,27,2.0
+cho013,choice,animal,Lion,Lion,L,L,L,False,False,z,z,Z,Z,0.0,0.0,0.0,z,G,Z,G,0.0,0.0,0.0,True,27,2.0
+cho019,choice,animal,shark,shark,S,S,D,False,False,s,s,S,S,1.0,0.0,1.0,s,S,S,S,1.0,0.0,1.0,True,27,2.0
+cho027,choice,colour,blue,Blue,B,B,B,True,False,b,b,B,B,1.0,1.0,1.0,B,B,B,B,1.0,1.0,1.0,True,27,2.0
+cho031,choice,colour,red,Red,R,R,R,True,False,r,r,R,R,1.0,1.0,1.0,R,B,R,B,1.0,0.0,0.0,True,27,2.0
+cho033,choice,colour,Red,Red,R,R,R,False,False,R,r,R,R,1.0,1.0,1.0,R,R,R,R,1.0,1.0,1.0,True,27,2.0
+cho039,choice,colour,Indigo,Indigo,I,I,B,False,False,b,d,B,D,0.0,0.0,0.0,N,N,N,N,0.0,0.0,0.0,True,27,2.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,M,B,M,B,0.0,0.0,0.0,True,27,2.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,B,G,B,G,0.0,0.0,0.0,True,27,2.0
+cho058,choice,city,Paris,Paris,P,P,P,False,False,A,A,A,A,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,27,2.0
+cho059,choice,city,Nairobi,Cairo,N,C,C,True,True,J,A,J,A,0.0,0.0,0.0,A,B,A,B,0.0,0.0,0.0,True,27,2.0
+cho061,choice,food,cake,cake,C,C,C,False,False,b,b,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,27,2.0
+cho062,choice,food,yogurt,salad,Y,S,S,True,True,c,c,C,C,0.0,0.0,0.0,C,C,C,C,0.0,0.0,0.0,True,27,2.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,B,B,B,B,1.0,1.0,1.0,True,27,2.0
+cho076,choice,food,candy,cake,C,C,S,True,False,s,s,S,S,0.0,1.0,0.0,S,S,S,S,0.0,1.0,0.0,True,27,2.0
+cho082,choice,country,Sudan,Sahara,S,S,E,True,False,S,S,S,S,1.0,0.0,1.0,A,G,A,G,0.0,0.0,0.0,True,27,2.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,27,2.0
+cho093,choice,country,Nepal,Nepal,N,N,N,False,False,M,M,M,M,0.0,0.0,0.0,M,G,M,G,0.0,0.0,0.0,True,27,2.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,R,G,R,G,1.0,0.0,0.0,True,27,2.0
+cho101,choice,fruit,Orange,Cherry,O,C,P,True,True,p,p,P,P,0.0,1.0,0.0,P,B,P,B,0.0,0.0,0.0,True,27,2.0
+cho106,choice,fruit,mango,Pineapple,M,P,M,True,True,m,m,M,M,1.0,1.0,1.0,M,M,M,M,0.0,1.0,0.0,True,27,2.0
+cho108,choice,fruit,banana,banana,B,B,B,False,False,b,y,B,Y,1.0,0.0,0.0,B,B,B,B,1.0,1.0,1.0,True,27,2.0
+cho109,choice,fruit,blueberry,blueberry,B,B,G,False,False,s,s,S,S,0.0,0.0,0.0,b,B,B,B,1.0,0.0,1.0,True,27,2.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,A,G,A,G,0.0,0.0,0.0,True,27,2.0
+cho131,choice,first_name,Evelyn,Ethan,E,E,B,True,False,E,B,E,B,1.0,1.0,0.0,B,B,B,B,0.0,1.0,0.0,True,27,2.0
+cho135,choice,first_name,James,Emma,J,E,A,True,True,A,A,A,A,0.0,1.0,0.0,A,A,A,A,0.0,1.0,0.0,True,27,2.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,27,2.0
+cho142,choice,instrument,Flute,Flute,F,F,F,False,False,b,b,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,27,2.0
+cho152,choice,instrument,Harp,Marimba,H,M,H,True,True,s,s,S,S,0.0,0.0,0.0,C,B,C,B,0.0,0.0,0.0,True,27,2.0
+cho153,choice,instrument,Drum,Timpani,D,T,D,True,True,c,c,C,C,0.0,0.0,0.0,C,C,C,C,0.0,0.0,0.0,True,27,2.0
+cho155,choice,instrument,Drum,Trombone,D,T,T,True,True,B,B,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,27,2.0
+cho162,choice,sport,Judo,Martial arts,J,M,G,True,True,w,j,W,J,0.0,0.0,1.0,W,W,W,W,0.0,0.0,0.0,True,27,2.0
+cho168,choice,sport,football,Baseball,F,B,S,True,True,b,b,B,B,0.0,0.0,0.0,T,B,T,B,0.0,0.0,1.0,True,27,2.0
+cho169,choice,sport,Football,Football,F,F,F,False,False,f,b,F,B,1.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,27,2.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,27,2.0
+cho181,choice,plant,spurge,spurge,S,S,F,False,False,g,g,G,G,0.0,0.0,0.0,b,G,B,G,0.0,0.0,0.0,True,27,2.0
+cho186,choice,plant,Pothos,Succulent,P,S,B,True,True,s,p,S,P,0.0,0.0,1.0,S,S,S,S,1.0,0.0,1.0,True,27,2.0
+cho188,choice,plant,cactus,Cactus,C,C,C,True,False,c,c,C,C,1.0,1.0,1.0,A,C,A,C,0.0,1.0,1.0,True,27,2.0
+cho192,choice,plant,rose,Tomato,R,T,B,True,True,g,p,G,P,0.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,27,2.0
+com326,completion,phrase,is,awaits,I,A,P,True,True,E,E,E,E,0.0,0.0,0.0,E,C,E,C,0.0,0.0,0.0,True,27,2.0
+com327,completion,phrase,Every distant letter fades.,seems,E,S,C,True,True,E,E,E,E,1.0,0.0,1.0,E,B,E,B,0.0,0.0,0.0,True,27,2.0
+com328,completion,phrase,peace,whispers,P,W,B,True,True,s,s,S,S,0.0,0.0,0.0,S,B,S,B,0.0,1.0,0.0,True,27,2.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,A,C,A,C,0.0,0.0,0.0,True,27,2.0
+com335,completion,phrase,range,Every long mountain pass,R,E,H,True,True,E,E,E,E,0.0,0.0,0.0,E,B,E,B,1.0,0.0,0.0,True,27,2.0
+com338,completion,phrase,A empty mountain peak.,A empty mountain **shadow**.,A,A,W,True,False,f,f,F,F,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,27,2.0
+com341,completion,phrase,Every dark window *holds*.,stares,E,S,W,True,True,E,e,E,E,1.0,0.0,1.0,E,B,E,B,0.0,0.0,0.0,True,27,2.0
+com343,completion,phrase,breeze,sun,B,S,G,True,True,A,s,A,S,0.0,0.0,0.0,S,B,S,B,1.0,0.0,0.0,True,27,2.0
+com346,completion,phrase,is heard.,is heard.,I,I,E,False,False,E,e,E,E,0.0,1.0,0.0,A,B,A,B,0.0,0.0,0.0,True,27,2.0
+com347,completion,phrase,Every heavy mountain *bears*.,Every heavy mountain **tops**.,E,E,S,True,False,E,E,E,E,1.0,0.0,1.0,B,B,B,B,0.0,0.0,0.0,True,27,2.0
+com351,completion,phrase,through,Awards,T,A,B,True,True,d,d,D,D,0.0,0.0,0.0,F,B,F,B,0.0,1.0,0.0,True,27,2.0
+com361,completion,phrase,afternoon,afternoon,A,A,D,False,False,S,A,S,A,0.0,0.0,1.0,N,B,N,B,0.0,0.0,0.0,True,27,2.0
+com364,completion,phrase,A bright mountain peak,A bright mountain peak,A,A,P,False,False,s,s,S,S,0.0,0.0,0.0,S,B,S,B,0.0,0.0,0.0,True,27,2.0
+com373,completion,phrase,Every long garden path,Every long garden **path**.,E,E,P,True,False,E,E,E,E,1.0,0.0,1.0,E,B,E,B,1.0,0.0,0.0,True,27,2.0
+com375,completion,phrase,block,block,B,B,A,False,False,r,t,R,T,0.0,0.0,0.0,C,B,C,B,0.0,0.0,1.0,True,27,2.0
+com381,completion,phrase,A sudden letter *arrival*.,A sudden letter *arrival*.,A,A,B,False,False,S,s,S,S,0.0,0.0,0.0,S,B,S,B,0.0,1.0,0.0,True,27,2.0
+com393,completion,phrase,follows,follows,F,F,D,False,False,A,A,A,A,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,27,2.0
+com403,completion,phrase,holds,holds,H,H,S,False,False,E,e,E,E,0.0,0.0,0.0,E,B,E,B,0.0,0.0,0.0,True,27,2.0
+com415,completion,phrase,The dark letter e,The dark letter D,T,T,S,True,False,d,d,D,D,0.0,0.0,0.0,D,B,D,B,0.0,0.0,0.0,True,27,2.0
+com416,completion,phrase,The busy house *is*.,The busy house **holds**.,T,T,H,True,False,t,t,T,T,1.0,0.0,1.0,S,B,S,B,0.0,0.0,0.0,True,27,2.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,M,B,M,B,1.0,0.0,0.0,True,27,2.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,N,R,N,R,1.0,0.0,0.0,True,27,2.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,27,2.0
+fac437,factual,capital,Kiev,Kiev,K,K,K,False,False,K,K,K,K,1.0,1.0,1.0,K,K,K,K,1.0,1.0,1.0,True,27,2.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,27,2.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,27,2.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,H,H,H,H,1.0,1.0,1.0,True,27,2.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,27,2.0
+fac462,factual,arithmetic,twelve,Twelve,T,T,T,True,False,T,t,T,T,1.0,1.0,1.0,Twelve,T,,T,0.0,1.0,1.0,True,27,2.0
+fac463,factual,arithmetic,sixteen,Sixteen,S,S,S,True,False,s,s,S,S,1.0,1.0,1.0,S,S,S,S,1.0,1.0,1.0,True,27,2.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,F,N,F,N,1.0,0.0,0.0,True,27,2.0
+fac474,factual,arithmetic,three,Three,T,T,T,True,False,three,t,,T,0.0,1.0,1.0,Three,Nine,,,0.0,0.0,0.0,True,27,2.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,27,2.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,B,B,B,B,0.0,0.0,0.0,True,27,2.0
+fac495,factual,opposite,soft,soft,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,S,S,S,1.0,1.0,1.0,True,27,2.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,27,2.0
+cho000,choice,animal,dog,dog,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,30,1.0
+cho002,choice,animal,ant,ant,A,A,F,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,30,1.0
+cho013,choice,animal,Lion,Lion,L,L,L,False,False,z,z,Z,Z,0.0,0.0,0.0,z,z,Z,Z,0.0,0.0,0.0,True,30,1.0
+cho019,choice,animal,shark,shark,S,S,D,False,False,s,s,S,S,1.0,0.0,1.0,s,s,S,S,1.0,0.0,1.0,True,30,1.0
+cho027,choice,colour,blue,blue,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,b,b,B,B,1.0,1.0,1.0,True,30,1.0
+cho031,choice,colour,red,red,R,R,R,False,False,r,r,R,R,1.0,1.0,1.0,R,r,R,R,1.0,1.0,1.0,True,30,1.0
+cho033,choice,colour,Red,Red,R,R,R,False,False,R,r,R,R,1.0,1.0,1.0,R,R,R,R,1.0,1.0,1.0,True,30,1.0
+cho039,choice,colour,Indigo,Indigo,I,I,B,False,False,b,d,B,D,0.0,0.0,0.0,B,d,B,D,0.0,0.0,0.0,True,30,1.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,M,B,M,B,0.0,0.0,0.0,True,30,1.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,30,1.0
+cho058,choice,city,Paris,Paris,P,P,P,False,False,A,A,A,A,0.0,0.0,0.0,B,A,B,A,0.0,0.0,0.0,True,30,1.0
+cho059,choice,city,Nairobi,Nairobi,N,N,C,False,False,J,A,J,A,0.0,0.0,0.0,J,A,J,A,0.0,0.0,0.0,True,30,1.0
+cho061,choice,food,cake,cake,C,C,C,False,False,b,b,B,B,0.0,0.0,0.0,b,B,B,B,0.0,0.0,0.0,True,30,1.0
+cho062,choice,food,yogurt,yogurt,Y,Y,S,False,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,30,1.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,b,b,B,B,1.0,1.0,1.0,True,30,1.0
+cho076,choice,food,candy,candy,C,C,S,False,False,s,s,S,S,0.0,1.0,0.0,S,S,S,S,0.0,1.0,0.0,True,30,1.0
+cho082,choice,country,Sudan,Sudan,S,S,E,False,False,S,S,S,S,1.0,0.0,1.0,S,S,S,S,1.0,0.0,1.0,True,30,1.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,30,1.0
+cho093,choice,country,Nepal,Nepal,N,N,N,False,False,M,M,M,M,0.0,0.0,0.0,M,M,M,M,0.0,0.0,0.0,True,30,1.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,R,G,R,G,1.0,0.0,0.0,True,30,1.0
+cho101,choice,fruit,Orange,Orange,O,O,P,False,False,p,p,P,P,0.0,1.0,0.0,p,p,P,P,0.0,1.0,0.0,True,30,1.0
+cho106,choice,fruit,mango,mango,M,M,M,False,False,m,m,M,M,1.0,1.0,1.0,m,m,M,M,1.0,1.0,1.0,True,30,1.0
+cho108,choice,fruit,banana,banana,B,B,B,False,False,b,y,B,Y,1.0,0.0,0.0,B,Y,B,Y,1.0,0.0,0.0,True,30,1.0
+cho109,choice,fruit,blueberry,blueberry,B,B,G,False,False,s,s,S,S,0.0,0.0,0.0,b,s,B,S,1.0,0.0,0.0,True,30,1.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,30,1.0
+cho131,choice,first_name,Evelyn,Evelyn,E,E,B,False,False,E,B,E,B,1.0,1.0,0.0,E,B,E,B,1.0,1.0,0.0,True,30,1.0
+cho135,choice,first_name,James,James,J,J,A,False,False,A,A,A,A,0.0,1.0,0.0,A,A,A,A,0.0,1.0,0.0,True,30,1.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,J,J,J,J,0.0,0.0,0.0,True,30,1.0
+cho142,choice,instrument,Flute,Flute,F,F,F,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,30,1.0
+cho152,choice,instrument,Harp,Harp,H,H,H,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,30,1.0
+cho153,choice,instrument,Drum,Drum,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,C,c,C,C,0.0,0.0,0.0,True,30,1.0
+cho155,choice,instrument,Drum,Drum,D,D,T,False,False,B,B,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,30,1.0
+cho162,choice,sport,Judo,Judo,J,J,G,False,False,w,j,W,J,0.0,0.0,1.0,C,j,C,J,0.0,0.0,1.0,True,30,1.0
+cho168,choice,sport,football,football,F,F,S,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,30,1.0
+cho169,choice,sport,Football,Football,F,F,F,False,False,f,b,F,B,1.0,0.0,0.0,F,B,F,B,1.0,0.0,0.0,True,30,1.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,F,S,F,S,1.0,0.0,0.0,True,30,1.0
+cho181,choice,plant,spurge,spurge,S,S,F,False,False,g,g,G,G,0.0,0.0,0.0,g,g,G,G,0.0,0.0,0.0,True,30,1.0
+cho186,choice,plant,Pothos,Pothos,P,P,B,False,False,s,p,S,P,0.0,0.0,1.0,s,s,S,S,0.0,0.0,0.0,True,30,1.0
+cho188,choice,plant,cactus,cactus,C,C,C,False,False,c,c,C,C,1.0,1.0,1.0,c,c,C,C,1.0,1.0,1.0,True,30,1.0
+cho192,choice,plant,rose,rose,R,R,B,False,False,g,p,G,P,0.0,0.0,0.0,p,p,P,P,0.0,0.0,0.0,True,30,1.0
+com326,completion,phrase,is,is,I,I,P,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,30,1.0
+com327,completion,phrase,Every distant letter fades.,Every distant letter fades.,E,E,C,False,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,30,1.0
+com328,completion,phrase,peace,peace,P,P,B,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,30,1.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,30,1.0
+com335,completion,phrase,range,range,R,R,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,30,1.0
+com338,completion,phrase,A empty mountain peak.,A empty mountain peak.,A,A,W,False,False,f,f,F,F,0.0,0.0,0.0,E,c,E,C,0.0,0.0,0.0,True,30,1.0
+com341,completion,phrase,Every dark window *holds*.,Every dark window *holds*.,E,E,W,False,False,E,e,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,30,1.0
+com343,completion,phrase,breeze,breeze,B,B,G,False,False,A,s,A,S,0.0,0.0,0.0,S,s,S,S,0.0,0.0,0.0,True,30,1.0
+com346,completion,phrase,is heard.,is heard.,I,I,E,False,False,E,e,E,E,0.0,1.0,0.0,E,E,E,E,0.0,1.0,0.0,True,30,1.0
+com347,completion,phrase,Every heavy mountain *bears*.,Every heavy mountain *bears*.,E,E,S,False,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,30,1.0
+com351,completion,phrase,through,through,T,T,B,False,False,d,d,D,D,0.0,0.0,0.0,D,D,D,D,0.0,0.0,0.0,True,30,1.0
+com361,completion,phrase,afternoon,afternoon,A,A,D,False,False,S,A,S,A,0.0,0.0,1.0,S,S,S,S,0.0,0.0,0.0,True,30,1.0
+com364,completion,phrase,A bright mountain peak,A bright mountain peak,A,A,P,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,30,1.0
+com373,completion,phrase,Every long garden path,Every long garden path,E,E,P,False,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,30,1.0
+com375,completion,phrase,block,block,B,B,A,False,False,r,t,R,T,0.0,0.0,0.0,R,s,R,S,0.0,0.0,0.0,True,30,1.0
+com381,completion,phrase,A sudden letter *arrival*.,A sudden letter *arrival*.,A,A,B,False,False,S,s,S,S,0.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,30,1.0
+com393,completion,phrase,follows,follows,F,F,D,False,False,A,A,A,A,0.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,30,1.0
+com403,completion,phrase,holds,holds,H,H,S,False,False,E,e,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,30,1.0
+com415,completion,phrase,The dark letter e,The dark letter e.,T,T,S,True,False,d,d,D,D,0.0,0.0,0.0,d,d,D,D,0.0,0.0,0.0,True,30,1.0
+com416,completion,phrase,The busy house *is*.,The busy house *is*.,T,T,H,False,False,t,t,T,T,1.0,0.0,1.0,s,s,S,S,0.0,0.0,0.0,True,30,1.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,30,1.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,30,1.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,30,1.0
+fac437,factual,capital,Kiev,Kiev,K,K,K,False,False,K,K,K,K,1.0,1.0,1.0,K,K,K,K,1.0,1.0,1.0,True,30,1.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,30,1.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,30,1.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,H,H,H,H,1.0,1.0,1.0,True,30,1.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,30,1.0
+fac462,factual,arithmetic,twelve,twelve,T,T,T,False,False,T,t,T,T,1.0,1.0,1.0,T,T,T,T,1.0,1.0,1.0,True,30,1.0
+fac463,factual,arithmetic,sixteen,sixteen,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,s,S,S,1.0,1.0,1.0,True,30,1.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,F,S,F,S,1.0,0.0,0.0,True,30,1.0
+fac474,factual,arithmetic,three,three,T,T,T,False,False,three,t,,T,0.0,1.0,1.0,three,n,,N,0.0,0.0,0.0,True,30,1.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,30,1.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,E,E,E,E,1.0,1.0,1.0,True,30,1.0
+fac495,factual,opposite,soft,soft,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,S,S,S,1.0,1.0,1.0,True,30,1.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,n,N,N,N,1.0,1.0,1.0,True,30,1.0
+cho000,choice,animal,dog,dog,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,D,C,D,C,1.0,0.0,0.0,True,30,2.0
+cho002,choice,animal,ant,ant,A,A,F,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,30,2.0
+cho013,choice,animal,Lion,lion,L,L,L,True,False,z,z,Z,Z,0.0,0.0,0.0,z,Z,Z,Z,0.0,0.0,0.0,True,30,2.0
+cho019,choice,animal,shark,shark,S,S,D,False,False,s,s,S,S,1.0,0.0,1.0,s,s,S,S,1.0,0.0,1.0,True,30,2.0
+cho027,choice,colour,blue,blue,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,B,B,B,B,1.0,1.0,1.0,True,30,2.0
+cho031,choice,colour,red,red,R,R,R,False,False,r,r,R,R,1.0,1.0,1.0,R,R,R,R,1.0,1.0,1.0,True,30,2.0
+cho033,choice,colour,Red,Red,R,R,R,False,False,R,r,R,R,1.0,1.0,1.0,R,R,R,R,1.0,1.0,1.0,True,30,2.0
+cho039,choice,colour,Indigo,Indigo,I,I,B,False,False,b,d,B,D,0.0,0.0,0.0,B,B,B,B,0.0,1.0,0.0,True,30,2.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,30,2.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,30,2.0
+cho058,choice,city,Paris,Paris,P,P,P,False,False,A,A,A,A,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,30,2.0
+cho059,choice,city,Nairobi,Nairobi,N,N,C,False,False,J,A,J,A,0.0,0.0,0.0,J,A,J,A,0.0,0.0,0.0,True,30,2.0
+cho061,choice,food,cake,cake,C,C,C,False,False,b,b,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,30,2.0
+cho062,choice,food,yogurt,yogurt,Y,Y,S,False,False,c,c,C,C,0.0,0.0,0.0,c,C,C,C,0.0,0.0,0.0,True,30,2.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,B,B,B,B,1.0,1.0,1.0,True,30,2.0
+cho076,choice,food,candy,candy,C,C,S,False,False,s,s,S,S,0.0,1.0,0.0,S,S,S,S,0.0,1.0,0.0,True,30,2.0
+cho082,choice,country,Sudan,Saudi Arabia,S,S,E,True,False,S,S,S,S,1.0,0.0,1.0,S,S,S,S,1.0,0.0,1.0,True,30,2.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,30,2.0
+cho093,choice,country,Nepal,Nepal,N,N,N,False,False,M,M,M,M,0.0,0.0,0.0,M,M,M,M,0.0,0.0,0.0,True,30,2.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,R,B,R,B,1.0,0.0,0.0,True,30,2.0
+cho101,choice,fruit,Orange,Orange,O,O,P,False,False,p,p,P,P,0.0,1.0,0.0,P,P,P,P,0.0,1.0,0.0,True,30,2.0
+cho106,choice,fruit,mango,mango,M,M,M,False,False,m,m,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,30,2.0
+cho108,choice,fruit,banana,banana,B,B,B,False,False,b,y,B,Y,1.0,0.0,0.0,B,Y,B,Y,1.0,0.0,0.0,True,30,2.0
+cho109,choice,fruit,blueberry,blueberry,B,B,G,False,False,s,s,S,S,0.0,0.0,0.0,b,s,B,S,1.0,0.0,0.0,True,30,2.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,30,2.0
+cho131,choice,first_name,Evelyn,Ethan,E,E,B,True,False,E,B,E,B,1.0,1.0,0.0,E,B,E,B,1.0,1.0,0.0,True,30,2.0
+cho135,choice,first_name,James,James,J,J,A,False,False,A,A,A,A,0.0,1.0,0.0,A,A,A,A,0.0,1.0,0.0,True,30,2.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,J,S,J,S,0.0,0.0,1.0,True,30,2.0
+cho142,choice,instrument,Flute,flute,F,F,F,True,False,b,b,B,B,0.0,0.0,0.0,b,B,B,B,0.0,0.0,0.0,True,30,2.0
+cho152,choice,instrument,Harp,harp,H,H,H,True,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,30,2.0
+cho153,choice,instrument,Drum,Drum,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,C,B,C,B,0.0,0.0,0.0,True,30,2.0
+cho155,choice,instrument,Drum,drum,D,D,T,True,False,B,B,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,30,2.0
+cho162,choice,sport,Judo,Judo,J,J,G,False,False,w,j,W,J,0.0,0.0,1.0,C,C,C,C,0.0,0.0,0.0,True,30,2.0
+cho168,choice,sport,football,football,F,F,S,False,False,b,b,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,30,2.0
+cho169,choice,sport,Football,Football,F,F,F,False,False,f,b,F,B,1.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,30,2.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,30,2.0
+cho181,choice,plant,spurge,spurge,S,S,F,False,False,g,g,G,G,0.0,0.0,0.0,s,G,S,G,1.0,0.0,0.0,True,30,2.0
+cho186,choice,plant,Pothos,snake plant,P,S,B,True,True,s,p,S,P,0.0,0.0,1.0,s,s,S,S,1.0,0.0,1.0,True,30,2.0
+cho188,choice,plant,cactus,cactus,C,C,C,False,False,c,c,C,C,1.0,1.0,1.0,c,S,C,S,1.0,0.0,0.0,True,30,2.0
+cho192,choice,plant,rose,rose,R,R,B,False,False,g,p,G,P,0.0,0.0,0.0,s,S,S,S,0.0,0.0,0.0,True,30,2.0
+com326,completion,phrase,is,is,I,I,P,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,30,2.0
+com327,completion,phrase,Every distant letter fades.,Every distant letter fades.,E,E,C,False,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,30,2.0
+com328,completion,phrase,peace,peace,P,P,B,False,False,s,s,S,S,0.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,30,2.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,30,2.0
+com335,completion,phrase,range,range,R,R,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,30,2.0
+com338,completion,phrase,A empty mountain peak.,A empty mountain peak.,A,A,W,False,False,f,f,F,F,0.0,0.0,0.0,E,B,E,B,0.0,0.0,0.0,True,30,2.0
+com341,completion,phrase,Every dark window *holds*.,Every dark window *holds*.,E,E,W,False,False,E,e,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,30,2.0
+com343,completion,phrase,breeze,breeze,B,B,G,False,False,A,s,A,S,0.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,30,2.0
+com346,completion,phrase,is heard.,is heard.,I,I,E,False,False,E,e,E,E,0.0,1.0,0.0,E,E,E,E,0.0,1.0,0.0,True,30,2.0
+com347,completion,phrase,Every heavy mountain *bears*.,Every heavy mountain *bears*.,E,E,S,False,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,30,2.0
+com351,completion,phrase,through,through,T,T,B,False,False,d,d,D,D,0.0,0.0,0.0,D,S,D,S,0.0,0.0,0.0,True,30,2.0
+com361,completion,phrase,afternoon,afternoon,A,A,D,False,False,S,A,S,A,0.0,0.0,1.0,S,S,S,S,0.0,0.0,0.0,True,30,2.0
+com364,completion,phrase,A bright mountain peak,A bright mountain peak,A,A,P,False,False,s,s,S,S,0.0,0.0,0.0,S,B,S,B,0.0,0.0,0.0,True,30,2.0
+com373,completion,phrase,Every long garden path,Every long garden path,E,E,P,False,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,30,2.0
+com375,completion,phrase,block,block,B,B,A,False,False,r,t,R,T,0.0,0.0,0.0,R,B,R,B,0.0,0.0,1.0,True,30,2.0
+com381,completion,phrase,A sudden letter *arrival*.,A sudden letter *arrival*.,A,A,B,False,False,S,s,S,S,0.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,30,2.0
+com393,completion,phrase,follows,follows,F,F,D,False,False,A,A,A,A,0.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,30,2.0
+com403,completion,phrase,holds,holds,H,H,S,False,False,E,e,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,30,2.0
+com415,completion,phrase,The dark letter e,The dark letter e,T,T,S,False,False,d,d,D,D,0.0,0.0,0.0,D,D,D,D,0.0,0.0,0.0,True,30,2.0
+com416,completion,phrase,The busy house *is*.,The busy house *is*.,T,T,H,False,False,t,t,T,T,1.0,0.0,1.0,S,B,S,B,0.0,0.0,0.0,True,30,2.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,30,2.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,30,2.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,30,2.0
+fac437,factual,capital,Kiev,Kiev,K,K,K,False,False,K,K,K,K,1.0,1.0,1.0,K,K,K,K,1.0,1.0,1.0,True,30,2.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,30,2.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,30,2.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,H,H,H,H,1.0,1.0,1.0,True,30,2.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,Cl,C,,1.0,0.0,0.0,True,30,2.0
+fac462,factual,arithmetic,twelve,twelve,T,T,T,False,False,T,t,T,T,1.0,1.0,1.0,T,T,T,T,1.0,1.0,1.0,True,30,2.0
+fac463,factual,arithmetic,sixteen,sixteen,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,S,S,S,1.0,1.0,1.0,True,30,2.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,F,N,F,N,1.0,0.0,0.0,True,30,2.0
+fac474,factual,arithmetic,three,three,T,T,T,False,False,three,t,,T,0.0,1.0,1.0,Three,Three,,,0.0,0.0,0.0,True,30,2.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,30,2.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,E,B,E,B,1.0,0.0,0.0,True,30,2.0
+fac495,factual,opposite,soft,soft,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,S,S,S,1.0,1.0,1.0,True,30,2.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,30,2.0
+cho000,choice,animal,dog,dog,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,33,1.0
+cho002,choice,animal,ant,ant,A,A,F,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,33,1.0
+cho013,choice,animal,Lion,Lion,L,L,L,False,False,z,z,Z,Z,0.0,0.0,0.0,z,A,Z,A,0.0,0.0,0.0,True,33,1.0
+cho019,choice,animal,shark,shark,S,S,D,False,False,s,s,S,S,1.0,0.0,1.0,s,s,S,S,1.0,0.0,1.0,True,33,1.0
+cho027,choice,colour,blue,blue,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,B,b,B,B,1.0,1.0,1.0,True,33,1.0
+cho031,choice,colour,red,red,R,R,R,False,False,r,r,R,R,1.0,1.0,1.0,R,R,R,R,1.0,1.0,1.0,True,33,1.0
+cho033,choice,colour,Red,Red,R,R,R,False,False,R,r,R,R,1.0,1.0,1.0,R,R,R,R,1.0,1.0,1.0,True,33,1.0
+cho039,choice,colour,Indigo,Indigo,I,I,B,False,False,b,d,B,D,0.0,0.0,0.0,B,D,B,D,0.0,0.0,0.0,True,33,1.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,L,L,L,L,0.0,0.0,0.0,True,33,1.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,33,1.0
+cho058,choice,city,Paris,Paris,P,P,P,False,False,A,A,A,A,0.0,0.0,0.0,B,A,B,A,0.0,0.0,0.0,True,33,1.0
+cho059,choice,city,Nairobi,Nairobi,N,N,C,False,False,J,A,J,A,0.0,0.0,0.0,J,J,J,J,0.0,0.0,0.0,True,33,1.0
+cho061,choice,food,cake,cake,C,C,C,False,False,b,b,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,33,1.0
+cho062,choice,food,yogurt,yogurt,Y,Y,S,False,False,c,c,C,C,0.0,0.0,0.0,c,c,C,C,0.0,0.0,0.0,True,33,1.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,b,b,B,B,1.0,1.0,1.0,True,33,1.0
+cho076,choice,food,candy,candy,C,C,S,False,False,s,s,S,S,0.0,1.0,0.0,S,S,S,S,0.0,1.0,0.0,True,33,1.0
+cho082,choice,country,Sudan,Saudi Arabia,S,S,E,True,False,S,S,S,S,1.0,0.0,1.0,S,S,S,S,1.0,0.0,1.0,True,33,1.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,33,1.0
+cho093,choice,country,Nepal,Nepal,N,N,N,False,False,M,M,M,M,0.0,0.0,0.0,M,M,M,M,0.0,0.0,0.0,True,33,1.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,R,G,R,G,1.0,0.0,0.0,True,33,1.0
+cho101,choice,fruit,Orange,Orange,O,O,P,False,False,p,p,P,P,0.0,1.0,0.0,p,p,P,P,0.0,1.0,0.0,True,33,1.0
+cho106,choice,fruit,mango,mango,M,M,M,False,False,m,m,M,M,1.0,1.0,1.0,m,m,M,M,1.0,1.0,1.0,True,33,1.0
+cho108,choice,fruit,banana,banana,B,B,B,False,False,b,y,B,Y,1.0,0.0,0.0,b,Y,B,Y,1.0,0.0,0.0,True,33,1.0
+cho109,choice,fruit,blueberry,blueberry,B,B,G,False,False,s,s,S,S,0.0,0.0,0.0,b,s,B,S,1.0,0.0,0.0,True,33,1.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,A,A,A,A,0.0,0.0,0.0,True,33,1.0
+cho131,choice,first_name,Evelyn,Evelyn,E,E,B,False,False,E,B,E,B,1.0,1.0,0.0,E,B,E,B,1.0,1.0,0.0,True,33,1.0
+cho135,choice,first_name,James,James,J,J,A,False,False,A,A,A,A,0.0,1.0,0.0,A,A,A,A,0.0,1.0,0.0,True,33,1.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,J,J,J,J,0.0,0.0,0.0,True,33,1.0
+cho142,choice,instrument,Flute,Flute,F,F,F,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,33,1.0
+cho152,choice,instrument,Harp,Harp,H,H,H,False,False,s,s,S,S,0.0,0.0,0.0,s,s,S,S,0.0,0.0,0.0,True,33,1.0
+cho153,choice,instrument,Drum,Drum,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,c,b,C,B,0.0,0.0,0.0,True,33,1.0
+cho155,choice,instrument,Drum,Drum,D,D,T,False,False,B,B,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,33,1.0
+cho162,choice,sport,Judo,Judo,J,J,G,False,False,w,j,W,J,0.0,0.0,1.0,C,C,C,C,0.0,0.0,0.0,True,33,1.0
+cho168,choice,sport,football,football,F,F,S,False,False,b,b,B,B,0.0,0.0,0.0,b,b,B,B,0.0,0.0,0.0,True,33,1.0
+cho169,choice,sport,Football,Football,F,F,F,False,False,f,b,F,B,1.0,0.0,0.0,F,B,F,B,1.0,0.0,0.0,True,33,1.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,33,1.0
+cho181,choice,plant,spurge,spurge,S,S,F,False,False,g,g,G,G,0.0,0.0,0.0,g,g,G,G,0.0,0.0,0.0,True,33,1.0
+cho186,choice,plant,Pothos,Pothos,P,P,B,False,False,s,p,S,P,0.0,0.0,1.0,p,p,P,P,1.0,0.0,1.0,True,33,1.0
+cho188,choice,plant,cactus,cactus,C,C,C,False,False,c,c,C,C,1.0,1.0,1.0,c,c,C,C,1.0,1.0,1.0,True,33,1.0
+cho192,choice,plant,rose,rose,R,R,B,False,False,g,p,G,P,0.0,0.0,0.0,p,p,P,P,0.0,0.0,0.0,True,33,1.0
+com326,completion,phrase,is,is,I,I,P,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,33,1.0
+com327,completion,phrase,Every distant letter fades.,Every distant letter fades.,E,E,C,False,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,33,1.0
+com328,completion,phrase,peace,peace,P,P,B,False,False,s,s,S,S,0.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,33,1.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,33,1.0
+com335,completion,phrase,range,range,R,R,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,33,1.0
+com338,completion,phrase,A empty mountain peak.,A empty mountain peak.,A,A,W,False,False,f,f,F,F,0.0,0.0,0.0,E,A,E,A,0.0,0.0,1.0,True,33,1.0
+com341,completion,phrase,Every dark window *holds*.,holds,E,H,W,True,True,E,e,E,E,1.0,0.0,1.0,E,E,E,E,0.0,0.0,0.0,True,33,1.0
+com343,completion,phrase,breeze,breeze,B,B,G,False,False,A,s,A,S,0.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,33,1.0
+com346,completion,phrase,is heard.,is heard.,I,I,E,False,False,E,e,E,E,0.0,1.0,0.0,E,E,E,E,0.0,1.0,0.0,True,33,1.0
+com347,completion,phrase,Every heavy mountain *bears*.,Every heavy mountain *bears*.,E,E,S,False,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,33,1.0
+com351,completion,phrase,through,through,T,T,B,False,False,d,d,D,D,0.0,0.0,0.0,D,D,D,D,0.0,0.0,0.0,True,33,1.0
+com361,completion,phrase,afternoon,afternoon,A,A,D,False,False,S,A,S,A,0.0,0.0,1.0,S,S,S,S,0.0,0.0,0.0,True,33,1.0
+com364,completion,phrase,A bright mountain peak,A bright mountain peak,A,A,P,False,False,s,s,S,S,0.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,33,1.0
+com373,completion,phrase,Every long garden path,Every long garden path,E,E,P,False,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,33,1.0
+com375,completion,phrase,block,block,B,B,A,False,False,r,t,R,T,0.0,0.0,0.0,R,S,R,S,0.0,0.0,0.0,True,33,1.0
+com381,completion,phrase,A sudden letter *arrival*.,A sudden letter *arrival*.,A,A,B,False,False,S,s,S,S,0.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,33,1.0
+com393,completion,phrase,follows,follows,F,F,D,False,False,A,A,A,A,0.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,33,1.0
+com403,completion,phrase,holds,holds,H,H,S,False,False,E,e,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,33,1.0
+com415,completion,phrase,The dark letter e,The dark letter e,T,T,S,False,False,d,d,D,D,0.0,0.0,0.0,D,D,D,D,0.0,0.0,0.0,True,33,1.0
+com416,completion,phrase,The busy house *is*.,The busy house *is*.,T,T,H,False,False,t,t,T,T,1.0,0.0,1.0,T,T,T,T,1.0,0.0,1.0,True,33,1.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,33,1.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,33,1.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,33,1.0
+fac437,factual,capital,Kiev,Kiev,K,K,K,False,False,K,K,K,K,1.0,1.0,1.0,K,K,K,K,1.0,1.0,1.0,True,33,1.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,33,1.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,33,1.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,H,H,H,H,1.0,1.0,1.0,True,33,1.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,33,1.0
+fac462,factual,arithmetic,twelve,twelve,T,T,T,False,False,T,t,T,T,1.0,1.0,1.0,T,T,T,T,1.0,1.0,1.0,True,33,1.0
+fac463,factual,arithmetic,sixteen,sixteen,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,s,S,S,1.0,1.0,1.0,True,33,1.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,F,S,F,S,1.0,0.0,0.0,True,33,1.0
+fac474,factual,arithmetic,three,three,T,T,T,False,False,three,t,,T,0.0,1.0,1.0,three,three,,,0.0,0.0,0.0,True,33,1.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,33,1.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,E,E,E,E,1.0,1.0,1.0,True,33,1.0
+fac495,factual,opposite,soft,soft,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,S,S,S,1.0,1.0,1.0,True,33,1.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,33,1.0
+cho000,choice,animal,dog,dog,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,D,D,D,D,1.0,1.0,1.0,True,33,2.0
+cho002,choice,animal,ant,ant,A,A,F,False,False,s,s,S,S,0.0,0.0,0.0,s,S,S,S,0.0,0.0,0.0,True,33,2.0
+cho013,choice,animal,Lion,lion,L,L,L,True,False,z,z,Z,Z,0.0,0.0,0.0,Z,A,Z,A,0.0,0.0,0.0,True,33,2.0
+cho019,choice,animal,shark,shark,S,S,D,False,False,s,s,S,S,1.0,0.0,1.0,s,S,S,S,1.0,0.0,1.0,True,33,2.0
+cho027,choice,colour,blue,blue,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,B,B,B,B,1.0,1.0,1.0,True,33,2.0
+cho031,choice,colour,red,red,R,R,R,False,False,r,r,R,R,1.0,1.0,1.0,R,B,R,B,1.0,0.0,0.0,True,33,2.0
+cho033,choice,colour,Red,Red,R,R,R,False,False,R,r,R,R,1.0,1.0,1.0,R,R,R,R,1.0,1.0,1.0,True,33,2.0
+cho039,choice,colour,Indigo,Indigo,I,I,B,False,False,b,d,B,D,0.0,0.0,0.0,B,B,B,B,0.0,1.0,0.0,True,33,2.0
+cho041,choice,city,Paris,Paris,P,P,P,False,False,L,L,L,L,0.0,0.0,0.0,L,L,L,L,0.0,0.0,0.0,True,33,2.0
+cho057,choice,city,Rome,Rome,R,R,R,False,False,B,C,B,C,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,33,2.0
+cho058,choice,city,Paris,Paris,P,P,P,False,False,A,A,A,A,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,33,2.0
+cho059,choice,city,Nairobi,Nairobi,N,N,C,False,False,J,A,J,A,0.0,0.0,0.0,J,A,J,A,0.0,0.0,0.0,True,33,2.0
+cho061,choice,food,cake,cake,C,C,C,False,False,b,b,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,33,2.0
+cho062,choice,food,yogurt,yogurt,Y,Y,S,False,False,c,c,C,C,0.0,0.0,0.0,c,C,C,C,0.0,0.0,0.0,True,33,2.0
+cho072,choice,food,Bread,Bread,B,B,B,False,False,b,b,B,B,1.0,1.0,1.0,B,B,B,B,1.0,1.0,1.0,True,33,2.0
+cho076,choice,food,candy,candy,C,C,S,False,False,s,s,S,S,0.0,1.0,0.0,S,S,S,S,0.0,1.0,0.0,True,33,2.0
+cho082,choice,country,Sudan,Saudi Arabia,S,S,E,True,False,S,S,S,S,1.0,0.0,1.0,S,S,S,S,1.0,0.0,1.0,True,33,2.0
+cho083,choice,country,Brazil,Brazil,B,B,B,False,False,B,G,B,G,1.0,0.0,0.0,B,G,B,G,1.0,0.0,0.0,True,33,2.0
+cho093,choice,country,Nepal,Nepal,N,N,N,False,False,M,M,M,M,0.0,0.0,0.0,M,M,M,M,0.0,0.0,0.0,True,33,2.0
+cho094,choice,country,Russia,Russia,R,R,R,False,False,R,G,R,G,1.0,0.0,0.0,R,B,R,B,1.0,0.0,0.0,True,33,2.0
+cho101,choice,fruit,Orange,Orange,O,O,P,False,False,p,p,P,P,0.0,1.0,0.0,P,B,P,B,0.0,0.0,0.0,True,33,2.0
+cho106,choice,fruit,mango,mango,M,M,M,False,False,m,m,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,33,2.0
+cho108,choice,fruit,banana,banana,B,B,B,False,False,b,y,B,Y,1.0,0.0,0.0,B,Y,B,Y,1.0,0.0,0.0,True,33,2.0
+cho109,choice,fruit,blueberry,blueberry,B,B,G,False,False,s,s,S,S,0.0,0.0,0.0,b,B,B,B,1.0,0.0,1.0,True,33,2.0
+cho125,choice,first_name,Emma,Emma,E,E,O,False,False,A,G,A,G,0.0,0.0,0.0,A,G,A,G,0.0,0.0,0.0,True,33,2.0
+cho131,choice,first_name,Evelyn,Evelyn,E,E,B,False,False,E,B,E,B,1.0,1.0,0.0,E,B,E,B,1.0,1.0,0.0,True,33,2.0
+cho135,choice,first_name,James,James,J,J,A,False,False,A,A,A,A,0.0,1.0,0.0,A,A,A,A,0.0,1.0,0.0,True,33,2.0
+cho138,choice,first_name,Sam,Sam,S,S,M,False,False,j,j,J,J,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,33,2.0
+cho142,choice,instrument,Flute,flute,F,F,F,True,False,b,b,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,33,2.0
+cho152,choice,instrument,Harp,harp,H,H,H,True,False,s,s,S,S,0.0,0.0,0.0,s,S,S,S,0.0,0.0,0.0,True,33,2.0
+cho153,choice,instrument,Drum,Drum,D,D,D,False,False,c,c,C,C,0.0,0.0,0.0,C,B,C,B,0.0,0.0,0.0,True,33,2.0
+cho155,choice,instrument,Drum,drum,D,D,T,True,False,B,B,B,B,0.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,33,2.0
+cho162,choice,sport,Judo,Judo,J,J,G,False,False,w,j,W,J,0.0,0.0,1.0,C,C,C,C,0.0,0.0,0.0,True,33,2.0
+cho168,choice,sport,football,football,F,F,S,False,False,b,b,B,B,0.0,0.0,0.0,B,S,B,S,0.0,1.0,0.0,True,33,2.0
+cho169,choice,sport,Football,Football,F,F,F,False,False,f,b,F,B,1.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,33,2.0
+cho170,choice,sport,Football,Football,F,F,F,False,False,F,S,F,S,1.0,0.0,0.0,B,B,B,B,0.0,0.0,0.0,True,33,2.0
+cho181,choice,plant,spurge,spurge,S,S,F,False,False,g,g,G,G,0.0,0.0,0.0,g,G,G,G,0.0,0.0,0.0,True,33,2.0
+cho186,choice,plant,Pothos,snake plant,P,S,B,True,True,s,p,S,P,0.0,0.0,1.0,P,P,P,P,0.0,0.0,0.0,True,33,2.0
+cho188,choice,plant,cactus,cactus,C,C,C,False,False,c,c,C,C,1.0,1.0,1.0,C,S,C,S,1.0,0.0,0.0,True,33,2.0
+cho192,choice,plant,rose,rose,R,R,B,False,False,g,p,G,P,0.0,0.0,0.0,P,P,P,P,0.0,0.0,0.0,True,33,2.0
+com326,completion,phrase,is,looms,I,L,P,True,True,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,33,2.0
+com327,completion,phrase,Every distant letter fades.,Every distant letter fades.,E,E,C,False,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,33,2.0
+com328,completion,phrase,peace,peace,P,P,B,False,False,s,s,S,S,0.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,33,2.0
+com334,completion,phrase,begins,begins,B,B,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,33,2.0
+com335,completion,phrase,range,range,R,R,H,False,False,E,E,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,33,2.0
+com338,completion,phrase,A empty mountain peak.,A empty mountain peak.,A,A,W,False,False,f,f,F,F,0.0,0.0,0.0,E,B,E,B,0.0,0.0,0.0,True,33,2.0
+com341,completion,phrase,Every dark window *holds*.,holds,E,H,W,True,True,E,e,E,E,1.0,0.0,1.0,E,E,E,E,0.0,0.0,0.0,True,33,2.0
+com343,completion,phrase,breeze,breeze,B,B,G,False,False,A,s,A,S,0.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,33,2.0
+com346,completion,phrase,is heard.,is heard.,I,I,E,False,False,E,e,E,E,0.0,1.0,0.0,E,E,E,E,0.0,1.0,0.0,True,33,2.0
+com347,completion,phrase,Every heavy mountain *bears*.,Every heavy mountain *bears*.,E,E,S,False,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,33,2.0
+com351,completion,phrase,through,through,T,T,B,False,False,d,d,D,D,0.0,0.0,0.0,D,D,D,D,0.0,0.0,0.0,True,33,2.0
+com361,completion,phrase,afternoon,afternoon,A,A,D,False,False,S,A,S,A,0.0,0.0,1.0,S,S,S,S,0.0,0.0,0.0,True,33,2.0
+com364,completion,phrase,A bright mountain peak,A bright mountain peak,A,A,P,False,False,s,s,S,S,0.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,33,2.0
+com373,completion,phrase,Every long garden path,Every long garden path,E,E,P,False,False,E,E,E,E,1.0,0.0,1.0,E,E,E,E,1.0,0.0,1.0,True,33,2.0
+com375,completion,phrase,block,block,B,B,A,False,False,r,t,R,T,0.0,0.0,0.0,R,S,R,S,0.0,0.0,0.0,True,33,2.0
+com381,completion,phrase,A sudden letter *arrival*.,A sudden letter *arrival*.,A,A,B,False,False,S,s,S,S,0.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,33,2.0
+com393,completion,phrase,follows,follows,F,F,D,False,False,A,A,A,A,0.0,0.0,0.0,S,S,S,S,0.0,0.0,0.0,True,33,2.0
+com403,completion,phrase,holds,holds,H,H,S,False,False,E,e,E,E,0.0,0.0,0.0,E,E,E,E,0.0,0.0,0.0,True,33,2.0
+com415,completion,phrase,The dark letter e,The dark letter e,T,T,S,False,False,d,d,D,D,0.0,0.0,0.0,D,G,D,G,0.0,0.0,0.0,True,33,2.0
+com416,completion,phrase,The busy house *is*.,The busy house *is*.,T,T,H,False,False,t,t,T,T,1.0,0.0,1.0,H,B,H,B,0.0,0.0,0.0,True,33,2.0
+fac424,factual,capital,Madrid,Madrid,M,M,M,False,False,M,M,M,M,1.0,1.0,1.0,M,M,M,M,1.0,1.0,1.0,True,33,2.0
+fac429,factual,capital,Nairobi,Nairobi,N,N,N,False,False,N,N,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,33,2.0
+fac434,factual,capital,Lisbon,Lisbon,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,33,2.0
+fac437,factual,capital,Kiev,Kiev,K,K,K,False,False,K,K,K,K,1.0,1.0,1.0,K,K,K,K,1.0,1.0,1.0,True,33,2.0
+fac448,factual,chem_symbol,Cu,Cu,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,33,2.0
+fac449,factual,chem_symbol,Pb,Pb,P,P,P,False,False,P,P,P,P,1.0,1.0,1.0,P,P,P,P,1.0,1.0,1.0,True,33,2.0
+fac450,factual,chem_symbol,He,He,H,H,H,False,False,H,H,H,H,1.0,1.0,1.0,H,H,H,H,1.0,1.0,1.0,True,33,2.0
+fac458,factual,chem_symbol,Cl,Cl,C,C,C,False,False,C,C,C,C,1.0,1.0,1.0,C,C,C,C,1.0,1.0,1.0,True,33,2.0
+fac462,factual,arithmetic,twelve,twelve,T,T,T,False,False,T,t,T,T,1.0,1.0,1.0,T,T,T,T,1.0,1.0,1.0,True,33,2.0
+fac463,factual,arithmetic,sixteen,sixteen,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,S,S,S,1.0,1.0,1.0,True,33,2.0
+fac469,factual,arithmetic,fifteen,fifteen,F,F,F,False,False,F,s,F,S,1.0,0.0,0.0,F,S,F,S,1.0,0.0,0.0,True,33,2.0
+fac474,factual,arithmetic,three,three,T,T,T,False,False,three,t,,T,0.0,1.0,1.0,three,N,,N,0.0,0.0,0.0,True,33,2.0
+fac487,factual,opposite,late,late,L,L,L,False,False,L,L,L,L,1.0,1.0,1.0,L,L,L,L,1.0,1.0,1.0,True,33,2.0
+fac491,factual,opposite,empty,empty,E,E,E,False,False,e,e,E,E,1.0,1.0,1.0,E,E,E,E,1.0,1.0,1.0,True,33,2.0
+fac495,factual,opposite,soft,soft,S,S,S,False,False,s,s,S,S,1.0,1.0,1.0,S,S,S,S,1.0,1.0,1.0,True,33,2.0
+fac498,factual,opposite,night,night,N,N,N,False,False,n,n,N,N,1.0,1.0,1.0,N,N,N,N,1.0,1.0,1.0,True,33,2.0

@@ -1,0 +1,232 @@
+{
+  "split": "test",
+  "layer": 12,
+  "alpha": 2.0,
+  "n_items": 190,
+  "format_wording": "W1",
+  "models": {
+    "A": "Qwen3-4B-Instruct-2507",
+    "B": "Gemma-4-E4B-it"
+  },
+  "batch_size": 1,
+  "B": {
+    "load_s": 10.1,
+    "gen_s": 39.9,
+    "n_generations": 380,
+    "vram_peak_gb": 15.92
+  },
+  "A_vram_peak_gb": 9.97,
+  "conditions": {
+    "baseline": {
+      "gen_s": 58.3,
+      "n_generations": 950,
+      "mean_abs_proj_gen": 5.761098709719433,
+      "n_positions_gen": 61218,
+      "perplexity": {
+        "windows": 40,
+        "window_tokens": 256,
+        "scored_tokens": 10200,
+        "mean_nll": 2.630921894148284,
+        "ppl": 13.886565946810409,
+        "start": "first line of Chapter I, after the Gutenberg header"
+      },
+      "mean_abs_proj_ppl": 2.4385593902581606
+    },
+    "d_L": {
+      "gen_s": 58.1,
+      "n_generations": 950,
+      "mean_abs_proj_gen": 5.761123711802156,
+      "n_positions_gen": 61210,
+      "perplexity": {
+        "windows": 40,
+        "window_tokens": 256,
+        "scored_tokens": 10200,
+        "mean_nll": 2.6372818771063113,
+        "ppl": 13.975165717442993,
+        "start": "first line of Chapter I, after the Gutenberg header"
+      },
+      "mean_abs_proj_ppl": 2.4385593902581606
+    },
+    "d_you": {
+      "gen_s": 36.7,
+      "n_generations": 570,
+      "mean_abs_proj_gen": 2.1435214884570213,
+      "n_positions_gen": 34892,
+      "perplexity": {
+        "windows": 40,
+        "window_tokens": 256,
+        "scored_tokens": 10200,
+        "mean_nll": 2.6282687078737745,
+        "ppl": 13.849771133970897,
+        "start": "first line of Chapter I, after the Gutenberg header"
+      },
+      "mean_abs_proj_ppl": 1.2051516090978112
+    },
+    "d_Lp": {
+      "gen_s": 35.9,
+      "n_generations": 570,
+      "mean_abs_proj_gen": 8.492088390268245,
+      "n_positions_gen": 34874,
+      "perplexity": {
+        "windows": 40,
+        "window_tokens": 256,
+        "scored_tokens": 10200,
+        "mean_nll": 2.690668394799326,
+        "ppl": 14.74152578744639,
+        "start": "first line of Chapter I, after the Gutenberg header"
+      },
+      "mean_abs_proj_ppl": 2.346394988670363
+    },
+    "random_1": {
+      "gen_s": 37.1,
+      "n_generations": 570,
+      "mean_abs_proj_gen": 1.109591154203834,
+      "n_positions_gen": 34896,
+      "perplexity": {
+        "windows": 40,
+        "window_tokens": 256,
+        "scored_tokens": 10200,
+        "mean_nll": 2.6277200137867647,
+        "ppl": 13.842173930904053,
+        "start": "first line of Chapter I, after the Gutenberg header"
+      },
+      "mean_abs_proj_ppl": 0.6932495157096128
+    },
+    "random_2": {
+      "gen_s": 38.9,
+      "n_generations": 570,
+      "mean_abs_proj_gen": 2.8864784971915314,
+      "n_positions_gen": 34913,
+      "perplexity": {
+        "windows": 40,
+        "window_tokens": 256,
+        "scored_tokens": 10200,
+        "mean_nll": 2.640947816138174,
+        "ppl": 14.026491844668453,
+        "start": "first line of Chapter I, after the Gutenberg header"
+      },
+      "mean_abs_proj_ppl": 1.0583798216473952
+    },
+    "random_3": {
+      "gen_s": 38.9,
+      "n_generations": 570,
+      "mean_abs_proj_gen": 1.7207363393173465,
+      "n_positions_gen": 34900,
+      "perplexity": {
+        "windows": 40,
+        "window_tokens": 256,
+        "scored_tokens": 10200,
+        "mean_nll": 2.634900692210478,
+        "ppl": 13.941927852375985,
+        "start": "first line of Chapter I, after the Gutenberg header"
+      },
+      "mean_abs_proj_ppl": 0.7731668965181597
+    },
+    "random_4": {
+      "gen_s": 38.1,
+      "n_generations": 570,
+      "mean_abs_proj_gen": 0.9696719399529677,
+      "n_positions_gen": 34897,
+      "perplexity": {
+        "windows": 40,
+        "window_tokens": 256,
+        "scored_tokens": 10200,
+        "mean_nll": 2.632031513288909,
+        "ppl": 13.901983298294802,
+        "start": "first line of Chapter I, after the Gutenberg header"
+      },
+      "mean_abs_proj_ppl": 0.8575648512207408
+    },
+    "random_5": {
+      "gen_s": 37.9,
+      "n_generations": 570,
+      "mean_abs_proj_gen": 6.484236518272304,
+      "n_positions_gen": 34902,
+      "perplexity": {
+        "windows": 40,
+        "window_tokens": 256,
+        "scored_tokens": 10200,
+        "mean_nll": 2.6607342409620096,
+        "ppl": 14.30678987431663,
+        "start": "first line of Chapter I, after the Gutenberg header"
+      },
+      "mean_abs_proj_ppl": 1.7607989943178837
+    },
+    "random_6": {
+      "gen_s": 37.7,
+      "n_generations": 570,
+      "mean_abs_proj_gen": 1.8035707914746573,
+      "n_positions_gen": 34891,
+      "perplexity": {
+        "windows": 40,
+        "window_tokens": 256,
+        "scored_tokens": 10200,
+        "mean_nll": 2.6297834329044116,
+        "ppl": 13.870765625402825,
+        "start": "first line of Chapter I, after the Gutenberg header"
+      },
+      "mean_abs_proj_ppl": 1.3186325050548475
+    },
+    "random_7": {
+      "gen_s": 38.5,
+      "n_generations": 570,
+      "mean_abs_proj_gen": 1.3494216733020945,
+      "n_positions_gen": 34904,
+      "perplexity": {
+        "windows": 40,
+        "window_tokens": 256,
+        "scored_tokens": 10200,
+        "mean_nll": 2.6320208381204044,
+        "ppl": 13.901834893072671,
+        "start": "first line of Chapter I, after the Gutenberg header"
+      },
+      "mean_abs_proj_ppl": 0.677841226284363
+    },
+    "random_8": {
+      "gen_s": 37.7,
+      "n_generations": 570,
+      "mean_abs_proj_gen": 1.5885130138599,
+      "n_positions_gen": 34907,
+      "perplexity": {
+        "windows": 40,
+        "window_tokens": 256,
+        "scored_tokens": 10200,
+        "mean_nll": 2.636635550704657,
+        "ppl": 13.966136117221158,
+        "start": "first line of Chapter I, after the Gutenberg header"
+      },
+      "mean_abs_proj_ppl": 1.0851753891642146
+    },
+    "random_9": {
+      "gen_s": 37.6,
+      "n_generations": 570,
+      "mean_abs_proj_gen": 2.7718773299813813,
+      "n_positions_gen": 34899,
+      "perplexity": {
+        "windows": 40,
+        "window_tokens": 256,
+        "scored_tokens": 10200,
+        "mean_nll": 2.6328390203737744,
+        "ppl": 13.913213782039195,
+        "start": "first line of Chapter I, after the Gutenberg header"
+      },
+      "mean_abs_proj_ppl": 0.9323502821298462
+    },
+    "random_10": {
+      "gen_s": 37.5,
+      "n_generations": 570,
+      "mean_abs_proj_gen": 1.0168359166078564,
+      "n_positions_gen": 34902,
+      "perplexity": {
+        "windows": 40,
+        "window_tokens": 256,
+        "scored_tokens": 10200,
+        "mean_nll": 2.6316981895297182,
+        "ppl": 13.897350209163845,
+        "start": "first line of Chapter I, after the Gutenberg header"
+      },
+      "mean_abs_proj_ppl": 0.667357820687721
+    }
+  },
+  "wall_clock_s": 638.9
+}

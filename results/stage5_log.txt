@@ -1,0 +1,121 @@
+Stage 5 on 190 TEST first_letter items at L=12, alpha=2.0
+Loading weights:   0%|          | 0/2076 [00:00<?, ?it/s]Loading weights:  13%|#3        | 272/2076 [00:00<00:00, 2698.66it/s]Loading weights:  28%|##7       | 578/2076 [00:00<00:00, 2910.01it/s]Loading weights:  42%|####1     | 870/2076 [00:04<00:07, 162.90it/s] Loading weights:  50%|####9     | 1032/2076 [00:04<00:06, 173.21it/s]Loading weights:  57%|#####7    | 1185/2076 [00:04<00:03, 225.89it/s]Loading weights: 100%|##########| 2076/2076 [00:04<00:00, 423.89it/s]
+[B] 380 generations in 39.9s
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   2%|2         | 9/398 [00:00<00:06, 62.59it/s]Loading weights:   4%|4         | 17/398 [00:00<00:06, 58.64it/s]Loading weights:   9%|8         | 35/398 [00:00<00:04, 86.77it/s]Loading weights:  11%|#1        | 44/398 [00:00<00:04, 81.06it/s]Loading weights:  13%|#3        | 52/398 [00:00<00:06, 55.12it/s]Loading weights:  16%|#6        | 65/398 [00:00<00:04, 67.18it/s]Loading weights:  18%|#8        | 73/398 [00:01<00:05, 59.63it/s]Loading weights:  22%|##1       | 86/398 [00:01<00:04, 72.49it/s]Loading weights:  24%|##3       | 95/398 [00:01<00:04, 63.93it/s]Loading weights:  26%|##5       | 103/398 [00:01<00:04, 63.74it/s]Loading weights:  29%|##9       | 116/398 [00:01<00:03, 73.32it/s]Loading weights:  31%|###1      | 125/398 [00:01<00:03, 69.22it/s]Loading weights:  33%|###3      | 133/398 [00:01<00:03, 68.60it/s]Loading weights:  37%|###6      | 146/398 [00:02<00:03, 76.64it/s]Loading weights:  39%|###8      | 154/398 [00:02<00:03, 68.41it/s]Loading weights: 100%|##########| 398/398 [00:02<00:00, 176.24it/s]
+baseline [58.3s] |h.d_L| 5.761 ppl 13.887
+d_L: [58.1s] |h.d| 5.761 ppl 13.975
+d_you: [36.7s] |h.d| 2.144 ppl 13.850
+d_Lp: [35.9s] |h.d| 8.492 ppl 14.742
+random_1: [37.1s] |h.d| 1.110 ppl 13.842
+random_2: [38.9s] |h.d| 2.886 ppl 14.026
+random_3: [38.9s] |h.d| 1.721 ppl 13.942
+random_4: [38.1s] |h.d| 0.970 ppl 13.902
+random_5: [37.9s] |h.d| 6.484 ppl 14.307
+random_6: [37.7s] |h.d| 1.804 ppl 13.871
+random_7: [38.5s] |h.d| 1.349 ppl 13.902
+random_8: [37.7s] |h.d| 1.589 ppl 13.966
+random_9: [37.6s] |h.d| 2.772 ppl 13.913
+random_10: [37.5s] |h.d| 1.017 ppl 13.897
+
+Gate-1-style (info): n=190 self 0.447 [0.37894736842105264, 0.5210526315789473] cross 0.321 maj 0.111 pass=True
+
+== primary ==
+baseline       n=190 self 0.447 drop +0.000 [0.0, 0.0] cross 0.321 (+0.000) S +0.000 [0.0, 0.0] cas 0.358 fact 0.950 ppl 13.89 chg 0.00 |hd| 5.761098709719433
+d_L            n=190 self 0.358 drop +0.089 [0.0316, 0.1474] cross 0.263 (+0.058) S +0.032 [-0.0421, 0.1053] cas 0.263 fact 0.950 ppl 13.98 chg 0.27 |hd| 5.761123711802156
+d_you          n=190 self 0.463 drop -0.016 [-0.0526, 0.0211] cross 0.342 (-0.021) S +0.005 [-0.0474, 0.0579] cas 0.379 fact 0.975 ppl 13.85 chg 0.10 |hd| 2.1435214884570213
+d_Lp           n=190 self 0.363 drop +0.084 [0.0158, 0.1579] cross 0.253 (+0.068) S +0.016 [-0.0684, 0.1] cas 0.253 fact 0.975 ppl 14.74 chg 0.37 |hd| 8.492088390268245
+random_1       n=190 self 0.442 drop +0.005 [-0.0211, 0.0316] cross 0.311 (+0.011) S -0.005 [-0.0421, 0.0263] cas 0.342 fact 0.975 ppl 13.84 chg 0.07 |hd| 1.109591154203834
+random_2       n=190 self 0.447 drop +0.000 [-0.0368, 0.0368] cross 0.289 (+0.032) S -0.032 [-0.0789, 0.0158] cas 0.358 fact 0.975 ppl 14.03 chg 0.14 |hd| 2.8864784971915314
+random_3       n=190 self 0.447 drop +0.000 [-0.0316, 0.0316] cross 0.311 (+0.011) S -0.011 [-0.0474, 0.0263] cas 0.358 fact 0.950 ppl 13.94 chg 0.08 |hd| 1.7207363393173465
+random_4       n=190 self 0.447 drop +0.000 [-0.0316, 0.0316] cross 0.337 (-0.016) S +0.016 [-0.0158, 0.0474] cas 0.347 fact 0.975 ppl 13.90 chg 0.06 |hd| 0.9696719399529677
+random_5       n=190 self 0.463 drop -0.016 [-0.0737, 0.0421] cross 0.295 (+0.026) S -0.042 [-0.1053, 0.0263] cas 0.358 fact 0.975 ppl 14.31 chg 0.27 |hd| 6.484236518272304
+random_6       n=190 self 0.442 drop +0.005 [-0.0263, 0.0368] cross 0.300 (+0.021) S -0.016 [-0.0579, 0.0211] cas 0.342 fact 0.975 ppl 13.87 chg 0.07 |hd| 1.8035707914746573
+random_7       n=190 self 0.426 drop +0.021 [-0.0053, 0.0526] cross 0.316 (+0.005) S +0.016 [-0.0211, 0.0526] cas 0.353 fact 0.950 ppl 13.90 chg 0.08 |hd| 1.3494216733020945
+random_8       n=190 self 0.416 drop +0.032 [0.0, 0.0632] cross 0.316 (+0.005) S +0.026 [-0.0105, 0.0684] cas 0.337 fact 0.950 ppl 13.97 chg 0.08 |hd| 1.5885130138599
+random_9       n=190 self 0.442 drop +0.005 [-0.0263, 0.0421] cross 0.321 (+0.000) S +0.005 [-0.0421, 0.0526] cas 0.347 fact 0.975 ppl 13.91 chg 0.08 |hd| 2.7718773299813813
+random_10      n=190 self 0.463 drop -0.016 [-0.0421, 0.0053] cross 0.326 (-0.005) S -0.011 [-0.0368, 0.0158] cas 0.368 fact 0.975 ppl 13.90 chg 0.07 |hd| 1.0168359166078564
+baseline_S2O2  n=190 self 0.453 drop +0.000 [0.0, 0.0] cross 0.347 (+0.000) S +0.000 [0.0, 0.0] cas 0.400 fact 0.950 ppl 13.89 chg 0.00 |hd| 5.761098709719433
+d_L_S2O2       n=190 self 0.342 drop +0.111 [0.0579, 0.1632] cross 0.342 (+0.005) S +0.105 [0.0526, 0.1579] cas 0.337 fact 0.950 ppl 13.98 chg 0.27 |hd| 5.761123711802156
+{
+ "a_self_drop_ci_excludes_0": true,
+ "a_self_drop_positive_ci": true,
+ "b_self_drop_gt_all_random": true,
+ "b_rank_self_drop": 1,
+ "c_S_ci_excludes_0": false,
+ "c_S_positive_ci": false,
+ "c_S_gt_all_random": true,
+ "c_rank_S": 1,
+ "d_factual_drop": 0.0,
+ "d_ppl_rise": 0.006380250594131498,
+ "e_dyou_self_drop": -0.015789473684210527,
+ "e_half_dL_self_drop": 0.04473684210526316,
+ "e_dyou_lt_half": true,
+ "paraphrase_S2O2_self_drop": 0.11052631578947368,
+ "paraphrase_S2O2_S": 0.10526315789473684,
+ "paraphrase_S2O2_self_drop_ci95": [
+  0.0579,
+  0.1632
+ ],
+ "paraphrase_S2O2_S_ci95": [
+  0.0526,
+  0.1579
+ ],
+ "d_ok": true,
+ "c_ok": false,
+ "a_ok": true,
+ "b_ok": true,
+ "paraphrase_fragile": false,
+ "e_ok": true,
+ "verdict": "Refine"
+}
+
+== secondary ==
+baseline       n=150 self 0.327 drop +0.000 [0.0, 0.0] cross 0.193 (+0.000) S +0.000 [0.0, 0.0] cas 0.240 fact 0.950 ppl 13.89 chg 0.00 |hd| 5.761098709719433
+d_L            n=150 self 0.227 drop +0.100 [0.0267, 0.1733] cross 0.140 (+0.053) S +0.047 [-0.04, 0.1333] cas 0.140 fact 0.950 ppl 13.98 chg 0.34 |hd| 5.761123711802156
+d_you          n=150 self 0.347 drop -0.020 [-0.0667, 0.0267] cross 0.220 (-0.027) S +0.007 [-0.06, 0.0733] cas 0.273 fact 0.975 ppl 13.85 chg 0.12 |hd| 2.1435214884570213
+d_Lp           n=150 self 0.260 drop +0.067 [-0.02, 0.1467] cross 0.133 (+0.060) S +0.007 [-0.0933, 0.1067] cas 0.133 fact 0.975 ppl 14.74 chg 0.46 |hd| 8.492088390268245
+random_1       n=150 self 0.327 drop +0.000 [-0.0333, 0.0333] cross 0.193 (+0.000) S +0.000 [-0.0333, 0.04] cas 0.233 fact 0.975 ppl 13.84 chg 0.09 |hd| 1.109591154203834
+random_2       n=150 self 0.340 drop -0.013 [-0.06, 0.0333] cross 0.160 (+0.033) S -0.047 [-0.1, 0.0067] cas 0.247 fact 0.975 ppl 14.03 chg 0.17 |hd| 2.8864784971915314
+random_3       n=150 self 0.333 drop -0.007 [-0.0467, 0.0333] cross 0.187 (+0.007) S -0.013 [-0.0533, 0.0267] cas 0.247 fact 0.950 ppl 13.94 chg 0.11 |hd| 1.7207363393173465
+random_4       n=150 self 0.320 drop +0.007 [-0.0333, 0.0467] cross 0.207 (-0.013) S +0.020 [-0.02, 0.0667] cas 0.227 fact 0.975 ppl 13.90 chg 0.07 |hd| 0.9696719399529677
+random_5       n=150 self 0.347 drop -0.020 [-0.0933, 0.0467] cross 0.167 (+0.027) S -0.047 [-0.1267, 0.0333] cas 0.247 fact 0.975 ppl 14.31 chg 0.33 |hd| 6.484236518272304
+random_6       n=150 self 0.313 drop +0.013 [-0.02, 0.0467] cross 0.173 (+0.020) S -0.007 [-0.0533, 0.04] cas 0.227 fact 0.975 ppl 13.87 chg 0.08 |hd| 1.8035707914746573
+random_7       n=150 self 0.300 drop +0.027 [-0.0067, 0.0667] cross 0.200 (-0.007) S +0.033 [-0.0067, 0.08] cas 0.247 fact 0.950 ppl 13.90 chg 0.11 |hd| 1.3494216733020945
+random_8       n=150 self 0.287 drop +0.040 [0.0, 0.08] cross 0.200 (-0.007) S +0.047 [0.0, 0.0933] cas 0.227 fact 0.950 ppl 13.97 chg 0.10 |hd| 1.5885130138599
+random_9       n=150 self 0.320 drop +0.007 [-0.0333, 0.0533] cross 0.180 (+0.013) S -0.007 [-0.06, 0.0467] cas 0.220 fact 0.975 ppl 13.91 chg 0.10 |hd| 2.7718773299813813
+random_10      n=150 self 0.347 drop -0.020 [-0.0533, 0.0067] cross 0.207 (-0.013) S -0.007 [-0.0333, 0.02] cas 0.260 fact 0.975 ppl 13.90 chg 0.08 |hd| 1.0168359166078564
+baseline_S2O2  n=150 self 0.333 drop +0.000 [0.0, 0.0] cross 0.207 (+0.000) S +0.000 [0.0, 0.0] cas 0.280 fact 0.950 ppl 13.89 chg 0.00 |hd| 5.761098709719433
+d_L_S2O2       n=150 self 0.200 drop +0.133 [0.0733, 0.2] cross 0.200 (+0.007) S +0.127 [0.0667, 0.1933] cas 0.200 fact 0.950 ppl 13.98 chg 0.34 |hd| 5.761123711802156
+{
+ "a_self_drop_ci_excludes_0": true,
+ "a_self_drop_positive_ci": true,
+ "b_self_drop_gt_all_random": true,
+ "b_rank_self_drop": 1,
+ "c_S_ci_excludes_0": false,
+ "c_S_positive_ci": false,
+ "c_S_gt_all_random": false,
+ "c_rank_S": 2,
+ "d_factual_drop": 0.0,
+ "d_ppl_rise": 0.006380250594131498,
+ "e_dyou_self_drop": -0.02,
+ "e_half_dL_self_drop": 0.05,
+ "e_dyou_lt_half": true,
+ "paraphrase_S2O2_self_drop": 0.13333333333333333,
+ "paraphrase_S2O2_S": 0.12666666666666668,
+ "paraphrase_S2O2_self_drop_ci95": [
+  0.0733,
+  0.2
+ ],
+ "paraphrase_S2O2_S_ci95": [
+  0.0667,
+  0.1933
+ ],
+ "d_ok": true,
+ "c_ok": false,
+ "a_ok": true,
+ "b_ok": true,
+ "paraphrase_fragile": false,
+ "e_ok": true,
+ "verdict": "Refine"
+}
+total 638.9s

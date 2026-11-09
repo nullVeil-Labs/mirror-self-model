@@ -1,0 +1,98 @@
+{
+  "split": "dev",
+  "n_items": 250,
+  "format_wording": "W1",
+  "models": {
+    "A": "Qwen3-4B-Instruct-2507",
+    "B": "Gemma-4-E4B-it"
+  },
+  "A": {
+    "load_s": 6.1,
+    "batch_check": {
+      "items": [
+        "num248",
+        "cho192",
+        "num206",
+        "num273",
+        "com335",
+        "cho022",
+        "cho133",
+        "num314",
+        "com379",
+        "com367"
+      ],
+      "mismatches": [
+        {
+          "kind": "S1",
+          "id": "cho192",
+          "batched": "p",
+          "unbatched": "g"
+        },
+        {
+          "kind": "S1",
+          "id": "cho133",
+          "batched": "a",
+          "unbatched": "j"
+        }
+      ],
+      "equal": false
+    },
+    "batch_sizes": {
+      "object": 1,
+      "prediction": 1
+    },
+    "gen_s": 116.0,
+    "n_generations": 1850,
+    "perplexity": {
+      "windows": 40,
+      "window_tokens": 256,
+      "scored_tokens": 10200,
+      "mean_nll": 2.630921894148284,
+      "ppl": 13.886565946810409,
+      "start": "first line of Chapter I, after the Gutenberg header"
+    },
+    "vram_peak_gb": 9.97
+  },
+  "B": {
+    "load_s": 7.8,
+    "batch_check": {
+      "items": [
+        "num248",
+        "cho192",
+        "num206",
+        "num273",
+        "com335",
+        "cho022",
+        "cho133",
+        "num314",
+        "com379",
+        "com367"
+      ],
+      "mismatches": [],
+      "equal": true
+    },
+    "batch_sizes": {
+      "object": 1,
+      "prediction": 1,
+      "note": "fallback after post-check mismatch"
+    },
+    "gen_s": 71.8,
+    "n_generations": 650,
+    "post_check_object": {
+      "n": 10,
+      "mismatches": [
+        {
+          "i": 126,
+          "batched": "42",
+          "unbatched": "41"
+        }
+      ]
+    },
+    "post_check_prediction": {
+      "n": 10,
+      "mismatches": []
+    },
+    "vram_peak_gb": 16.57
+  },
+  "wall_clock_s": 216.9
+}

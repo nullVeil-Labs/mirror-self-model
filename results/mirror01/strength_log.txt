@@ -1,0 +1,167 @@
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   5%|4         | 18/398 [00:00<00:02, 163.26it/s]Loading weights:   9%|8         | 35/398 [00:00<00:03, 98.08it/s] Loading weights:  12%|#1        | 47/398 [00:00<00:04, 80.33it/s]Loading weights:  14%|#4        | 56/398 [00:00<00:04, 77.18it/s]Loading weights:  17%|#7        | 68/398 [00:00<00:04, 81.67it/s]Loading weights:  19%|#9        | 77/398 [00:00<00:04, 76.70it/s]Loading weights:  21%|##1       | 85/398 [00:01<00:04, 72.16it/s]Loading weights:  24%|##3       | 94/398 [00:01<00:04, 72.77it/s]Loading weights:  26%|##6       | 104/398 [00:01<00:03, 79.00it/s]Loading weights:  29%|##8       | 115/398 [00:01<00:03, 81.24it/s]Loading weights:  31%|###1      | 124/398 [00:01<00:03, 77.04it/s]Loading weights:  34%|###4      | 136/398 [00:01<00:03, 81.13it/s]Loading weights:  36%|###6      | 145/398 [00:01<00:03, 74.43it/s]Loading weights:  40%|####      | 161/398 [00:01<00:02, 89.06it/s]Loading weights:  43%|####3     | 172/398 [00:02<00:02, 87.37it/s]Loading weights:  46%|####6     | 185/398 [00:02<00:02, 97.18it/s]Loading weights: 100%|##########| 398/398 [00:02<00:00, 177.74it/s]
+{
+  "layer": 12,
+  "alpha_d_L": 2.0,
+  "cap": 20.0,
+  "n_dev_fit_prompts": 114,
+  "measured_on": "MIRROR-00 dev-fit S1 first_letter prediction prompts; all positions processed during greedy generation (prefill + cached decoding, max 8 new tokens), batch size 1",
+  "random_seeds": [
+    1001,
+    1002,
+    1003,
+    1004,
+    1005,
+    1006,
+    1007,
+    1008,
+    1009,
+    1010,
+    1011,
+    1012,
+    1013,
+    1014,
+    1015,
+    1016,
+    1017,
+    1018,
+    1019,
+    1020
+  ],
+  "random_dir": "torch.Generator().manual_seed(s); randn(hidden); unit norm",
+  "n_positions": 8127,
+  "outputs_identical_to_stage2_S1": "114/114",
+  "m": {
+    "d_L": 6.047078443142677,
+    "d_you": 2.0492853555950723,
+    "random_1001": 1.1498731889657587,
+    "random_1002": 1.4056374653280002,
+    "random_1003": 1.780569451204104,
+    "random_1004": 0.7749776284152972,
+    "random_1005": 1.6468283108334612,
+    "random_1006": 2.842121879460059,
+    "random_1007": 0.805440667954561,
+    "random_1008": 2.480527096023109,
+    "random_1009": 0.9199543743324068,
+    "random_1010": 0.9074618834505983,
+    "random_1011": 2.8596579582816957,
+    "random_1012": 2.049788378642271,
+    "random_1013": 1.9368762165952946,
+    "random_1014": 2.922637965453836,
+    "random_1015": 1.1665480161452204,
+    "random_1016": 2.237812148422916,
+    "random_1017": 0.8984638849408318,
+    "random_1018": 1.9628541874082195,
+    "random_1019": 2.567810040569616,
+    "random_1020": 1.451396799700751
+  },
+  "alpha_matched": {
+    "d_you": {
+      "alpha_uncapped": 5.901646080310494,
+      "alpha": 5.901646080310494,
+      "capped": false
+    },
+    "random_1001": {
+      "alpha_uncapped": 10.51781796666058,
+      "alpha": 10.51781796666058,
+      "capped": false
+    },
+    "random_1002": {
+      "alpha_uncapped": 8.604037089651156,
+      "alpha": 8.604037089651156,
+      "capped": false
+    },
+    "random_1003": {
+      "alpha_uncapped": 6.7922971935223995,
+      "alpha": 6.7922971935223995,
+      "capped": false
+    },
+    "random_1004": {
+      "alpha_uncapped": 15.605814210425574,
+      "alpha": 15.605814210425574,
+      "capped": false
+    },
+    "random_1005": {
+      "alpha_uncapped": 7.343908777087085,
+      "alpha": 7.343908777087085,
+      "capped": false
+    },
+    "random_1006": {
+      "alpha_uncapped": 4.255326618358456,
+      "alpha": 4.255326618358456,
+      "capped": false
+    },
+    "random_1007": {
+      "alpha_uncapped": 15.015577642731651,
+      "alpha": 15.015577642731651,
+      "capped": false
+    },
+    "random_1008": {
+      "alpha_uncapped": 4.875639901565777,
+      "alpha": 4.875639901565777,
+      "capped": false
+    },
+    "random_1009": {
+      "alpha_uncapped": 13.146474677140214,
+      "alpha": 13.146474677140214,
+      "capped": false
+    },
+    "random_1010": {
+      "alpha_uncapped": 13.327454416374673,
+      "alpha": 13.327454416374673,
+      "capped": false
+    },
+    "random_1011": {
+      "alpha_uncapped": 4.229231979041459,
+      "alpha": 4.229231979041459,
+      "capped": false
+    },
+    "random_1012": {
+      "alpha_uncapped": 5.900197802026873,
+      "alpha": 5.900197802026873,
+      "capped": false
+    },
+    "random_1013": {
+      "alpha_uncapped": 6.24415581267494,
+      "alpha": 6.24415581267494,
+      "capped": false
+    },
+    "random_1014": {
+      "alpha_uncapped": 4.138096140966039,
+      "alpha": 4.138096140966039,
+      "capped": false
+    },
+    "random_1015": {
+      "alpha_uncapped": 10.367474565041638,
+      "alpha": 10.367474565041638,
+      "capped": false
+    },
+    "random_1016": {
+      "alpha_uncapped": 5.404455818513915,
+      "alpha": 5.404455818513915,
+      "capped": false
+    },
+    "random_1017": {
+      "alpha_uncapped": 13.460927132404228,
+      "alpha": 13.460927132404228,
+      "capped": false
+    },
+    "random_1018": {
+      "alpha_uncapped": 6.161515696820379,
+      "alpha": 6.161515696820379,
+      "capped": false
+    },
+    "random_1019": {
+      "alpha_uncapped": 4.7099110507421,
+      "alpha": 4.7099110507421,
+      "capped": false
+    },
+    "random_1020": {
+      "alpha_uncapped": 8.332770810007936,
+      "alpha": 8.332770810007936,
+      "capped": false
+    }
+  },
+  "n_capped": 0,
+  "wall_clock_s": 13.6,
+  "timestamp": "2026-11-09T12:21:52Z"
+}

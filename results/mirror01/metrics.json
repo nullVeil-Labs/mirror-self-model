@@ -1,0 +1,3006 @@
+{
+  "descriptives": {
+    "n_items": 400,
+    "n_choice": 300,
+    "n_completion": 100,
+    "object_validity": {
+      "A": 1.0,
+      "B": 1.0
+    },
+    "object_noncompliant_multiword": {
+      "A": 0.1,
+      "B": 0.0075
+    },
+    "A_letter_counts": {
+      "B": 44,
+      "P": 43,
+      "T": 41,
+      "S": 33,
+      "C": 32,
+      "F": 22,
+      "O": 22,
+      "A": 22,
+      "D": 21,
+      "M": 18,
+      "I": 17,
+      "L": 15,
+      "E": 13,
+      "R": 13,
+      "G": 9,
+      "N": 8,
+      "H": 7,
+      "W": 5,
+      "K": 4,
+      "V": 4,
+      "U": 3,
+      "Z": 2,
+      "J": 2
+    },
+    "B_letter_counts": {
+      "S": 48,
+      "C": 44,
+      "P": 42,
+      "T": 41,
+      "B": 36,
+      "O": 23,
+      "D": 21,
+      "W": 19,
+      "A": 17,
+      "G": 16,
+      "F": 15,
+      "M": 14,
+      "E": 14,
+      "R": 10,
+      "H": 9,
+      "L": 8,
+      "I": 6,
+      "V": 6,
+      "N": 4,
+      "J": 3,
+      "Z": 2,
+      "Y": 2
+    },
+    "n_distinct_A_letters": 23,
+    "A_B_same_first_letter": 0.46,
+    "completion_echo": {
+      "A": {
+        "strict_rate": 0.1,
+        "broad_rate": 0.11,
+        "n": 100
+      },
+      "B": {
+        "strict_rate": 0.0,
+        "broad_rate": 0.0,
+        "n": 100
+      }
+    },
+    "prediction_validity": {
+      "baseline": {
+        "S1": 1.0,
+        "O1": 1.0,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "d_L": {
+        "S1": 1.0,
+        "O1": 0.9975,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "d_you": {
+        "S1": 1.0,
+        "O1": 1.0,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "d_you_matched": {
+        "S1": 1.0,
+        "O1": 1.0,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "random_1001": {
+        "S1": 1.0,
+        "O1": 1.0,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "random_1002": {
+        "S1": 1.0,
+        "O1": 0.9975,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "random_1003": {
+        "S1": 1.0,
+        "O1": 1.0,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "random_1004": {
+        "S1": 1.0,
+        "O1": 1.0,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "random_1005": {
+        "S1": 1.0,
+        "O1": 1.0,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "random_1006": {
+        "S1": 1.0,
+        "O1": 1.0,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "random_1007": {
+        "S1": 1.0,
+        "O1": 1.0,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "random_1008": {
+        "S1": 1.0,
+        "O1": 1.0,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "random_1009": {
+        "S1": 1.0,
+        "O1": 1.0,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "random_1010": {
+        "S1": 1.0,
+        "O1": 1.0,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "random_1011": {
+        "S1": 1.0,
+        "O1": 0.9825,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "random_1012": {
+        "S1": 1.0,
+        "O1": 1.0,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "random_1013": {
+        "S1": 1.0,
+        "O1": 0.9825,
+        "S2": 0.9975,
+        "O2": 1.0
+      },
+      "random_1014": {
+        "S1": 1.0,
+        "O1": 1.0,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "random_1015": {
+        "S1": 1.0,
+        "O1": 1.0,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "random_1016": {
+        "S1": 1.0,
+        "O1": 1.0,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "random_1017": {
+        "S1": 1.0,
+        "O1": 1.0,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "random_1018": {
+        "S1": 1.0,
+        "O1": 1.0,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "random_1019": {
+        "S1": 1.0,
+        "O1": 1.0,
+        "S2": 1.0,
+        "O2": 1.0
+      },
+      "random_1020": {
+        "S1": 1.0,
+        "O1": 1.0,
+        "S2": 1.0,
+        "O2": 1.0
+      }
+    },
+    "mean_abs_proj": {
+      "baseline": 5.3466091757591085,
+      "d_L": 5.346428006949615,
+      "d_you": 1.930369076799542,
+      "d_you_matched": 1.9303671435000738,
+      "random_1001": 1.1398760215432233,
+      "random_1002": 1.3634427217139946,
+      "random_1003": 1.786003150702808,
+      "random_1004": 0.7649131478139843,
+      "random_1005": 1.6391971557072276,
+      "random_1006": 2.872148446263707,
+      "random_1007": 0.796468836486124,
+      "random_1008": 2.480104036040304,
+      "random_1009": 0.849280869003696,
+      "random_1010": 0.8642917523004074,
+      "random_1011": 2.8906574065156057,
+      "random_1012": 2.0622622603716483,
+      "random_1013": 1.9272038640594333,
+      "random_1014": 2.973817124189099,
+      "random_1015": 1.138370058722379,
+      "random_1016": 2.196016453994745,
+      "random_1017": 0.9569145480648699,
+      "random_1018": 1.9760733506436738,
+      "random_1019": 2.5353461497241034,
+      "random_1020": 1.401009031687499
+    },
+    "mean_abs_removed": {
+      "baseline": 0.0,
+      "d_L": 10.69285601389923,
+      "d_you": 3.860738153599084,
+      "d_you_matched": 11.392343685997375,
+      "random_1001": 11.989008499152897,
+      "random_1002": 11.731111747242128,
+      "random_1003": 12.131064188140845,
+      "random_1004": 11.937092471896834,
+      "random_1005": 12.038114379174495,
+      "random_1006": 12.221929735262835,
+      "random_1007": 11.959439654273535,
+      "random_1008": 12.092094198152434,
+      "random_1009": 11.165049438136725,
+      "random_1010": 11.51880893123227,
+      "random_1011": 12.225260744088846,
+      "random_1012": 12.16775525584777,
+      "random_1013": 12.033761209976316,
+      "random_1014": 12.305941165545633,
+      "random_1015": 11.80202262940922,
+      "random_1016": 11.868273902344194,
+      "random_1017": 12.880957003438736,
+      "random_1018": 12.175606968059437,
+      "random_1019": 11.941254848041991,
+      "random_1020": 11.674287163803076
+    },
+    "alpha": {
+      "baseline": 0.0,
+      "d_L": 2.0,
+      "d_you": 2.0,
+      "d_you_matched": 5.901646080310494,
+      "random_1001": 10.51781796666058,
+      "random_1002": 8.604037089651156,
+      "random_1003": 6.7922971935223995,
+      "random_1004": 15.605814210425574,
+      "random_1005": 7.343908777087085,
+      "random_1006": 4.255326618358456,
+      "random_1007": 15.015577642731651,
+      "random_1008": 4.875639901565777,
+      "random_1009": 13.146474677140214,
+      "random_1010": 13.327454416374673,
+      "random_1011": 4.229231979041459,
+      "random_1012": 5.900197802026873,
+      "random_1013": 6.24415581267494,
+      "random_1014": 4.138096140966039,
+      "random_1015": 10.367474565041638,
+      "random_1016": 5.404455818513915,
+      "random_1017": 13.460927132404228,
+      "random_1018": 6.161515696820379,
+      "random_1019": 4.7099110507421,
+      "random_1020": 8.332770810007936
+    },
+    "baseline_by_category": {
+      "choice": {
+        "n": 300,
+        "self_S1": 0.41333333333333333,
+        "cas_O1": 0.32
+      },
+      "completion": {
+        "n": 100,
+        "self_S1": 0.15,
+        "cas_O1": 0.16
+      }
+    }
+  },
+  "n_bootstrap": 10000,
+  "bootstrap_seed": 0,
+  "fragility_rule": "fragile if the S2/O2 verdict (same gate and rule) differs from the S1/O1 verdict",
+  "primary": {
+    "wording": "S1/O1",
+    "gate": {
+      "n": 400,
+      "self_acc": 0.3475,
+      "self_ci95": [
+        0.3,
+        0.395
+      ],
+      "majority_letter": "B",
+      "majority_baseline": 0.11,
+      "freq_random_baseline": 0.06822499999999998,
+      "pass": true
+    },
+    "conditions": {
+      "d_L": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 0.9975,
+        "self_other_same_pred": 0.6275,
+        "self_pred_changed_vs_base": 0.605,
+        "other_pred_changed_vs_base": 0.3625,
+        "self_base": 0.3475,
+        "self_acc": 0.2575,
+        "self_acc_ci95": [
+          0.215,
+          0.3
+        ],
+        "self_drop": 0.09,
+        "self_drop_ci95": [
+          0.055,
+          0.125
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.2475,
+        "cross_acc_ci95": [
+          0.205,
+          0.2925
+        ],
+        "cross_drop": 0.0,
+        "cross_drop_ci95": [
+          -0.0275,
+          0.0275
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.2775,
+        "cas_acc_ci95": [
+          0.235,
+          0.3225
+        ],
+        "cas_drop": 0.0025,
+        "cas_drop_ci95": [
+          -0.03,
+          0.035
+        ],
+        "S_cross": 0.09,
+        "S_cross_ci95": [
+          0.0475,
+          0.1325
+        ],
+        "S_cas": 0.0875,
+        "S_cas_ci95": [
+          0.045,
+          0.13
+        ]
+      },
+      "d_you": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.655,
+        "self_pred_changed_vs_base": 0.135,
+        "other_pred_changed_vs_base": 0.18,
+        "self_base": 0.3475,
+        "self_acc": 0.36,
+        "self_acc_ci95": [
+          0.3125,
+          0.4075
+        ],
+        "self_drop": -0.0125,
+        "self_drop_ci95": [
+          -0.03,
+          0.0025
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.2475,
+        "cross_acc_ci95": [
+          0.205,
+          0.2925
+        ],
+        "cross_drop": 0.0,
+        "cross_drop_ci95": [
+          -0.02,
+          0.02
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.275,
+        "cas_acc_ci95": [
+          0.2325,
+          0.32
+        ],
+        "cas_drop": 0.005,
+        "cas_drop_ci95": [
+          -0.02,
+          0.0275
+        ],
+        "S_cross": -0.0125,
+        "S_cross_ci95": [
+          -0.04,
+          0.0125
+        ],
+        "S_cas": -0.0175,
+        "S_cas_ci95": [
+          -0.045,
+          0.01
+        ]
+      },
+      "d_you_matched": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.6,
+        "self_pred_changed_vs_base": 0.345,
+        "other_pred_changed_vs_base": 0.3275,
+        "self_base": 0.3475,
+        "self_acc": 0.375,
+        "self_acc_ci95": [
+          0.3275,
+          0.4225
+        ],
+        "self_drop": -0.0275,
+        "self_drop_ci95": [
+          -0.06,
+          0.005
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.2475,
+        "cross_acc_ci95": [
+          0.205,
+          0.2925
+        ],
+        "cross_drop": 0.0,
+        "cross_drop_ci95": [
+          -0.03,
+          0.03
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.2575,
+        "cas_acc_ci95": [
+          0.215,
+          0.3025
+        ],
+        "cas_drop": 0.0225,
+        "cas_drop_ci95": [
+          -0.01,
+          0.055
+        ],
+        "S_cross": -0.0275,
+        "S_cross_ci95": [
+          -0.0675,
+          0.0125
+        ],
+        "S_cas": -0.05,
+        "S_cas_ci95": [
+          -0.09,
+          -0.01
+        ]
+      },
+      "random_1001": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.64,
+        "self_pred_changed_vs_base": 0.355,
+        "other_pred_changed_vs_base": 0.3375,
+        "self_base": 0.3475,
+        "self_acc": 0.3025,
+        "self_acc_ci95": [
+          0.2575,
+          0.3475
+        ],
+        "self_drop": 0.045,
+        "self_drop_ci95": [
+          0.0175,
+          0.075
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.22,
+        "cross_acc_ci95": [
+          0.18,
+          0.26
+        ],
+        "cross_drop": 0.0275,
+        "cross_drop_ci95": [
+          0.0,
+          0.055
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.2525,
+        "cas_acc_ci95": [
+          0.21,
+          0.2975
+        ],
+        "cas_drop": 0.0275,
+        "cas_drop_ci95": [
+          -0.0075,
+          0.0625
+        ],
+        "S_cross": 0.0175,
+        "S_cross_ci95": [
+          -0.02,
+          0.055
+        ],
+        "S_cas": 0.0175,
+        "S_cas_ci95": [
+          -0.0225,
+          0.0575
+        ]
+      },
+      "random_1002": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 0.9975,
+        "self_other_same_pred": 0.6125,
+        "self_pred_changed_vs_base": 0.445,
+        "other_pred_changed_vs_base": 0.3875,
+        "self_base": 0.3475,
+        "self_acc": 0.325,
+        "self_acc_ci95": [
+          0.28,
+          0.3725
+        ],
+        "self_drop": 0.0225,
+        "self_drop_ci95": [
+          -0.01,
+          0.055
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.21,
+        "cross_acc_ci95": [
+          0.1725,
+          0.25
+        ],
+        "cross_drop": 0.0375,
+        "cross_drop_ci95": [
+          0.005,
+          0.07
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.2625,
+        "cas_acc_ci95": [
+          0.22,
+          0.3075
+        ],
+        "cas_drop": 0.0175,
+        "cas_drop_ci95": [
+          -0.015,
+          0.05
+        ],
+        "S_cross": -0.015,
+        "S_cross_ci95": [
+          -0.0575,
+          0.0275
+        ],
+        "S_cas": 0.005,
+        "S_cas_ci95": [
+          -0.0325,
+          0.0425
+        ]
+      },
+      "random_1003": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.6375,
+        "self_pred_changed_vs_base": 0.41,
+        "other_pred_changed_vs_base": 0.3975,
+        "self_base": 0.3475,
+        "self_acc": 0.3175,
+        "self_acc_ci95": [
+          0.2725,
+          0.3625
+        ],
+        "self_drop": 0.03,
+        "self_drop_ci95": [
+          -0.005,
+          0.065
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.2275,
+        "cross_acc_ci95": [
+          0.1875,
+          0.27
+        ],
+        "cross_drop": 0.02,
+        "cross_drop_ci95": [
+          -0.01,
+          0.0525
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.2675,
+        "cas_acc_ci95": [
+          0.225,
+          0.3125
+        ],
+        "cas_drop": 0.0125,
+        "cas_drop_ci95": [
+          -0.025,
+          0.05
+        ],
+        "S_cross": 0.01,
+        "S_cross_ci95": [
+          -0.035,
+          0.0575
+        ],
+        "S_cas": 0.0175,
+        "S_cas_ci95": [
+          -0.03,
+          0.065
+        ]
+      },
+      "random_1004": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.6525,
+        "self_pred_changed_vs_base": 0.46,
+        "other_pred_changed_vs_base": 0.3875,
+        "self_base": 0.3475,
+        "self_acc": 0.285,
+        "self_acc_ci95": [
+          0.24,
+          0.33
+        ],
+        "self_drop": 0.0625,
+        "self_drop_ci95": [
+          0.03,
+          0.095
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.21,
+        "cross_acc_ci95": [
+          0.1725,
+          0.25
+        ],
+        "cross_drop": 0.0375,
+        "cross_drop_ci95": [
+          0.0075,
+          0.0675
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.23,
+        "cas_acc_ci95": [
+          0.19,
+          0.2725
+        ],
+        "cas_drop": 0.05,
+        "cas_drop_ci95": [
+          0.0175,
+          0.0825
+        ],
+        "S_cross": 0.025,
+        "S_cross_ci95": [
+          -0.0175,
+          0.0675
+        ],
+        "S_cas": 0.0125,
+        "S_cas_ci95": [
+          -0.03,
+          0.055
+        ]
+      },
+      "random_1005": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.6425,
+        "self_pred_changed_vs_base": 0.4275,
+        "other_pred_changed_vs_base": 0.3775,
+        "self_base": 0.3475,
+        "self_acc": 0.3,
+        "self_acc_ci95": [
+          0.255,
+          0.345
+        ],
+        "self_drop": 0.0475,
+        "self_drop_ci95": [
+          0.02,
+          0.075
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.185,
+        "cross_acc_ci95": [
+          0.1475,
+          0.225
+        ],
+        "cross_drop": 0.0625,
+        "cross_drop_ci95": [
+          0.035,
+          0.0925
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.2225,
+        "cas_acc_ci95": [
+          0.1825,
+          0.265
+        ],
+        "cas_drop": 0.0575,
+        "cas_drop_ci95": [
+          0.0275,
+          0.09
+        ],
+        "S_cross": -0.015,
+        "S_cross_ci95": [
+          -0.055,
+          0.025
+        ],
+        "S_cas": -0.01,
+        "S_cas_ci95": [
+          -0.05,
+          0.03
+        ]
+      },
+      "random_1006": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.6225,
+        "self_pred_changed_vs_base": 0.4275,
+        "other_pred_changed_vs_base": 0.38,
+        "self_base": 0.3475,
+        "self_acc": 0.305,
+        "self_acc_ci95": [
+          0.26,
+          0.35
+        ],
+        "self_drop": 0.0425,
+        "self_drop_ci95": [
+          0.015,
+          0.07
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.2225,
+        "cross_acc_ci95": [
+          0.1825,
+          0.265
+        ],
+        "cross_drop": 0.025,
+        "cross_drop_ci95": [
+          -0.005,
+          0.0575
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.2775,
+        "cas_acc_ci95": [
+          0.235,
+          0.3225
+        ],
+        "cas_drop": 0.0025,
+        "cas_drop_ci95": [
+          -0.03,
+          0.035
+        ],
+        "S_cross": 0.0175,
+        "S_cross_ci95": [
+          -0.02,
+          0.055
+        ],
+        "S_cas": 0.04,
+        "S_cas_ci95": [
+          0.0,
+          0.08
+        ]
+      },
+      "random_1007": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.6875,
+        "self_pred_changed_vs_base": 0.3525,
+        "other_pred_changed_vs_base": 0.3475,
+        "self_base": 0.3475,
+        "self_acc": 0.31,
+        "self_acc_ci95": [
+          0.265,
+          0.355
+        ],
+        "self_drop": 0.0375,
+        "self_drop_ci95": [
+          0.0075,
+          0.0675
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.22,
+        "cross_acc_ci95": [
+          0.18,
+          0.2625
+        ],
+        "cross_drop": 0.0275,
+        "cross_drop_ci95": [
+          0.0,
+          0.0575
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.26,
+        "cas_acc_ci95": [
+          0.2175,
+          0.305
+        ],
+        "cas_drop": 0.02,
+        "cas_drop_ci95": [
+          -0.0125,
+          0.0525
+        ],
+        "S_cross": 0.01,
+        "S_cross_ci95": [
+          -0.03,
+          0.05
+        ],
+        "S_cas": 0.0175,
+        "S_cas_ci95": [
+          -0.0225,
+          0.0575
+        ]
+      },
+      "random_1008": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.5625,
+        "self_pred_changed_vs_base": 0.48,
+        "other_pred_changed_vs_base": 0.5425,
+        "self_base": 0.3475,
+        "self_acc": 0.32,
+        "self_acc_ci95": [
+          0.275,
+          0.365
+        ],
+        "self_drop": 0.0275,
+        "self_drop_ci95": [
+          -0.0075,
+          0.065
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.225,
+        "cross_acc_ci95": [
+          0.185,
+          0.2675
+        ],
+        "cross_drop": 0.0225,
+        "cross_drop_ci95": [
+          -0.0125,
+          0.06
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.2475,
+        "cas_acc_ci95": [
+          0.205,
+          0.29
+        ],
+        "cas_drop": 0.0325,
+        "cas_drop_ci95": [
+          -0.01,
+          0.075
+        ],
+        "S_cross": 0.005,
+        "S_cross_ci95": [
+          -0.0425,
+          0.0525
+        ],
+        "S_cas": -0.005,
+        "S_cas_ci95": [
+          -0.05,
+          0.04
+        ]
+      },
+      "random_1009": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.645,
+        "self_pred_changed_vs_base": 0.39,
+        "other_pred_changed_vs_base": 0.36,
+        "self_base": 0.3475,
+        "self_acc": 0.33,
+        "self_acc_ci95": [
+          0.285,
+          0.3775
+        ],
+        "self_drop": 0.0175,
+        "self_drop_ci95": [
+          -0.015,
+          0.05
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.255,
+        "cross_acc_ci95": [
+          0.2125,
+          0.2975
+        ],
+        "cross_drop": -0.0075,
+        "cross_drop_ci95": [
+          -0.04,
+          0.0275
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.295,
+        "cas_acc_ci95": [
+          0.25,
+          0.34
+        ],
+        "cas_drop": -0.015,
+        "cas_drop_ci95": [
+          -0.0475,
+          0.0175
+        ],
+        "S_cross": 0.025,
+        "S_cross_ci95": [
+          -0.0175,
+          0.0675
+        ],
+        "S_cas": 0.0325,
+        "S_cas_ci95": [
+          -0.0075,
+          0.075
+        ]
+      },
+      "random_1010": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.665,
+        "self_pred_changed_vs_base": 0.365,
+        "other_pred_changed_vs_base": 0.3425,
+        "self_base": 0.3475,
+        "self_acc": 0.3125,
+        "self_acc_ci95": [
+          0.2675,
+          0.3575
+        ],
+        "self_drop": 0.035,
+        "self_drop_ci95": [
+          0.0075,
+          0.0625
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.2175,
+        "cross_acc_ci95": [
+          0.1775,
+          0.26
+        ],
+        "cross_drop": 0.03,
+        "cross_drop_ci95": [
+          0.0,
+          0.0625
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.27,
+        "cas_acc_ci95": [
+          0.2275,
+          0.315
+        ],
+        "cas_drop": 0.01,
+        "cas_drop_ci95": [
+          -0.02,
+          0.04
+        ],
+        "S_cross": 0.005,
+        "S_cross_ci95": [
+          -0.035,
+          0.045
+        ],
+        "S_cas": 0.025,
+        "S_cas_ci95": [
+          -0.01,
+          0.0625
+        ]
+      },
+      "random_1011": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 0.9825,
+        "self_other_same_pred": 0.5925,
+        "self_pred_changed_vs_base": 0.6625,
+        "other_pred_changed_vs_base": 0.71,
+        "self_base": 0.3475,
+        "self_acc": 0.3175,
+        "self_acc_ci95": [
+          0.2725,
+          0.365
+        ],
+        "self_drop": 0.03,
+        "self_drop_ci95": [
+          -0.01,
+          0.07
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.195,
+        "cross_acc_ci95": [
+          0.1575,
+          0.235
+        ],
+        "cross_drop": 0.0525,
+        "cross_drop_ci95": [
+          0.02,
+          0.085
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.235,
+        "cas_acc_ci95": [
+          0.1925,
+          0.2775
+        ],
+        "cas_drop": 0.045,
+        "cas_drop_ci95": [
+          0.0075,
+          0.0825
+        ],
+        "S_cross": -0.0225,
+        "S_cross_ci95": [
+          -0.07,
+          0.025
+        ],
+        "S_cas": -0.015,
+        "S_cas_ci95": [
+          -0.06,
+          0.03
+        ]
+      },
+      "random_1012": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.6,
+        "self_pred_changed_vs_base": 0.4125,
+        "other_pred_changed_vs_base": 0.3275,
+        "self_base": 0.3475,
+        "self_acc": 0.3175,
+        "self_acc_ci95": [
+          0.2725,
+          0.3625
+        ],
+        "self_drop": 0.03,
+        "self_drop_ci95": [
+          0.0,
+          0.06
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.2175,
+        "cross_acc_ci95": [
+          0.1775,
+          0.2575
+        ],
+        "cross_drop": 0.03,
+        "cross_drop_ci95": [
+          0.0025,
+          0.0575
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.2325,
+        "cas_acc_ci95": [
+          0.19,
+          0.275
+        ],
+        "cas_drop": 0.0475,
+        "cas_drop_ci95": [
+          0.015,
+          0.08
+        ],
+        "S_cross": 0.0,
+        "S_cross_ci95": [
+          -0.04,
+          0.0375
+        ],
+        "S_cas": -0.0175,
+        "S_cas_ci95": [
+          -0.06,
+          0.025
+        ]
+      },
+      "random_1013": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 0.9825,
+        "self_other_same_pred": 0.645,
+        "self_pred_changed_vs_base": 0.32,
+        "other_pred_changed_vs_base": 0.385,
+        "self_base": 0.3475,
+        "self_acc": 0.37,
+        "self_acc_ci95": [
+          0.3225,
+          0.4175
+        ],
+        "self_drop": -0.0225,
+        "self_drop_ci95": [
+          -0.055,
+          0.0075
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.2625,
+        "cross_acc_ci95": [
+          0.22,
+          0.3075
+        ],
+        "cross_drop": -0.015,
+        "cross_drop_ci95": [
+          -0.0475,
+          0.0175
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.3075,
+        "cas_acc_ci95": [
+          0.2625,
+          0.355
+        ],
+        "cas_drop": -0.0275,
+        "cas_drop_ci95": [
+          -0.0625,
+          0.0075
+        ],
+        "S_cross": -0.0075,
+        "S_cross_ci95": [
+          -0.0475,
+          0.0325
+        ],
+        "S_cas": 0.005,
+        "S_cas_ci95": [
+          -0.0375,
+          0.0475
+        ]
+      },
+      "random_1014": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.54,
+        "self_pred_changed_vs_base": 0.5125,
+        "other_pred_changed_vs_base": 0.4825,
+        "self_base": 0.3475,
+        "self_acc": 0.29,
+        "self_acc_ci95": [
+          0.245,
+          0.335
+        ],
+        "self_drop": 0.0575,
+        "self_drop_ci95": [
+          0.0225,
+          0.0925
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.22,
+        "cross_acc_ci95": [
+          0.18,
+          0.2625
+        ],
+        "cross_drop": 0.0275,
+        "cross_drop_ci95": [
+          -0.005,
+          0.06
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.2325,
+        "cas_acc_ci95": [
+          0.19,
+          0.275
+        ],
+        "cas_drop": 0.0475,
+        "cas_drop_ci95": [
+          0.0125,
+          0.0825
+        ],
+        "S_cross": 0.03,
+        "S_cross_ci95": [
+          -0.015,
+          0.075
+        ],
+        "S_cas": 0.01,
+        "S_cas_ci95": [
+          -0.035,
+          0.055
+        ]
+      },
+      "random_1015": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.6675,
+        "self_pred_changed_vs_base": 0.4075,
+        "other_pred_changed_vs_base": 0.3225,
+        "self_base": 0.3475,
+        "self_acc": 0.335,
+        "self_acc_ci95": [
+          0.29,
+          0.3825
+        ],
+        "self_drop": 0.0125,
+        "self_drop_ci95": [
+          -0.0175,
+          0.0425
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.2575,
+        "cross_acc_ci95": [
+          0.215,
+          0.3025
+        ],
+        "cross_drop": -0.01,
+        "cross_drop_ci95": [
+          -0.0425,
+          0.0225
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.2575,
+        "cas_acc_ci95": [
+          0.215,
+          0.3025
+        ],
+        "cas_drop": 0.0225,
+        "cas_drop_ci95": [
+          -0.01,
+          0.055
+        ],
+        "S_cross": 0.0225,
+        "S_cross_ci95": [
+          -0.0225,
+          0.0675
+        ],
+        "S_cas": -0.01,
+        "S_cas_ci95": [
+          -0.0525,
+          0.0325
+        ]
+      },
+      "random_1016": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.6475,
+        "self_pred_changed_vs_base": 0.485,
+        "other_pred_changed_vs_base": 0.4225,
+        "self_base": 0.3475,
+        "self_acc": 0.28,
+        "self_acc_ci95": [
+          0.2375,
+          0.325
+        ],
+        "self_drop": 0.0675,
+        "self_drop_ci95": [
+          0.0375,
+          0.1
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.1975,
+        "cross_acc_ci95": [
+          0.1575,
+          0.2375
+        ],
+        "cross_drop": 0.05,
+        "cross_drop_ci95": [
+          0.02,
+          0.08
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.22,
+        "cas_acc_ci95": [
+          0.18,
+          0.2625
+        ],
+        "cas_drop": 0.06,
+        "cas_drop_ci95": [
+          0.0275,
+          0.095
+        ],
+        "S_cross": 0.0175,
+        "S_cross_ci95": [
+          -0.025,
+          0.06
+        ],
+        "S_cas": 0.0075,
+        "S_cas_ci95": [
+          -0.0325,
+          0.0475
+        ]
+      },
+      "random_1017": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.695,
+        "self_pred_changed_vs_base": 0.625,
+        "other_pred_changed_vs_base": 0.6075,
+        "self_base": 0.3475,
+        "self_acc": 0.255,
+        "self_acc_ci95": [
+          0.2125,
+          0.2975
+        ],
+        "self_drop": 0.0925,
+        "self_drop_ci95": [
+          0.055,
+          0.13
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.175,
+        "cross_acc_ci95": [
+          0.1375,
+          0.215
+        ],
+        "cross_drop": 0.0725,
+        "cross_drop_ci95": [
+          0.0375,
+          0.11
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.1975,
+        "cas_acc_ci95": [
+          0.1575,
+          0.2375
+        ],
+        "cas_drop": 0.0825,
+        "cas_drop_ci95": [
+          0.0425,
+          0.1225
+        ],
+        "S_cross": 0.02,
+        "S_cross_ci95": [
+          -0.03,
+          0.07
+        ],
+        "S_cas": 0.01,
+        "S_cas_ci95": [
+          -0.035,
+          0.055
+        ]
+      },
+      "random_1018": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.615,
+        "self_pred_changed_vs_base": 0.455,
+        "other_pred_changed_vs_base": 0.38,
+        "self_base": 0.3475,
+        "self_acc": 0.34,
+        "self_acc_ci95": [
+          0.2925,
+          0.3875
+        ],
+        "self_drop": 0.0075,
+        "self_drop_ci95": [
+          -0.0275,
+          0.0425
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.215,
+        "cross_acc_ci95": [
+          0.175,
+          0.2551
+        ],
+        "cross_drop": 0.0325,
+        "cross_drop_ci95": [
+          0.0025,
+          0.0625
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.2575,
+        "cas_acc_ci95": [
+          0.215,
+          0.3
+        ],
+        "cas_drop": 0.0225,
+        "cas_drop_ci95": [
+          -0.0125,
+          0.06
+        ],
+        "S_cross": -0.025,
+        "S_cross_ci95": [
+          -0.07,
+          0.0175
+        ],
+        "S_cas": -0.015,
+        "S_cas_ci95": [
+          -0.0575,
+          0.025
+        ]
+      },
+      "random_1019": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.645,
+        "self_pred_changed_vs_base": 0.3725,
+        "other_pred_changed_vs_base": 0.3575,
+        "self_base": 0.3475,
+        "self_acc": 0.3275,
+        "self_acc_ci95": [
+          0.2825,
+          0.3725
+        ],
+        "self_drop": 0.02,
+        "self_drop_ci95": [
+          -0.01,
+          0.05
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.2225,
+        "cross_acc_ci95": [
+          0.1825,
+          0.265
+        ],
+        "cross_drop": 0.025,
+        "cross_drop_ci95": [
+          -0.005,
+          0.0575
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.25,
+        "cas_acc_ci95": [
+          0.2075,
+          0.295
+        ],
+        "cas_drop": 0.03,
+        "cas_drop_ci95": [
+          -0.005,
+          0.065
+        ],
+        "S_cross": -0.005,
+        "S_cross_ci95": [
+          -0.045,
+          0.035
+        ],
+        "S_cas": -0.01,
+        "S_cas_ci95": [
+          -0.0475,
+          0.03
+        ]
+      },
+      "random_1020": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.6725,
+        "self_pred_changed_vs_base": 0.4825,
+        "other_pred_changed_vs_base": 0.3325,
+        "self_base": 0.3475,
+        "self_acc": 0.3275,
+        "self_acc_ci95": [
+          0.2825,
+          0.375
+        ],
+        "self_drop": 0.02,
+        "self_drop_ci95": [
+          -0.0125,
+          0.0525
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.2425,
+        "cross_acc_ci95": [
+          0.2,
+          0.285
+        ],
+        "cross_drop": 0.005,
+        "cross_drop_ci95": [
+          -0.0225,
+          0.0325
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.28,
+        "cas_acc_ci95": [
+          0.235,
+          0.325
+        ],
+        "cas_drop": 0.0,
+        "cas_drop_ci95": [
+          -0.0325,
+          0.0325
+        ],
+        "S_cross": 0.015,
+        "S_cross_ci95": [
+          -0.025,
+          0.055
+        ],
+        "S_cas": 0.02,
+        "S_cas_ci95": [
+          -0.0175,
+          0.06
+        ]
+      },
+      "baseline": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.635,
+        "self_pred_changed_vs_base": 0.0,
+        "other_pred_changed_vs_base": 0.0,
+        "self_base": 0.3475,
+        "self_acc": 0.3475,
+        "self_acc_ci95": [
+          0.3,
+          0.395
+        ],
+        "self_drop": 0.0,
+        "self_drop_ci95": [
+          0.0,
+          0.0
+        ],
+        "cross_base": 0.2475,
+        "cross_acc": 0.2475,
+        "cross_acc_ci95": [
+          0.205,
+          0.2925
+        ],
+        "cross_drop": 0.0,
+        "cross_drop_ci95": [
+          0.0,
+          0.0
+        ],
+        "cas_base": 0.28,
+        "cas_acc": 0.28,
+        "cas_acc_ci95": [
+          0.235,
+          0.325
+        ],
+        "cas_drop": 0.0,
+        "cas_drop_ci95": [
+          0.0,
+          0.0
+        ],
+        "S_cross": 0.0,
+        "S_cross_ci95": [
+          0.0,
+          0.0
+        ],
+        "S_cas": 0.0,
+        "S_cas_ci95": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "random_summary": {
+      "self_drop": {
+        "min": -0.0225,
+        "max": 0.0925,
+        "mean": 0.034125
+      },
+      "cross_drop": {
+        "min": -0.015,
+        "max": 0.0725,
+        "mean": 0.027625000000000004
+      },
+      "cas_drop": {
+        "min": -0.0275,
+        "max": 0.0825,
+        "mean": 0.027250000000000003
+      },
+      "S_cross": {
+        "min": -0.025,
+        "max": 0.03,
+        "mean": 0.006500000000000001
+      },
+      "S_cas": {
+        "min": -0.0175,
+        "max": 0.04,
+        "mean": 0.006875000000000001
+      },
+      "self_validity": {
+        "min": 1.0,
+        "max": 1.0,
+        "mean": 1.0
+      },
+      "other_validity": {
+        "min": 0.9825,
+        "max": 1.0,
+        "mean": 0.9981249999999999
+      }
+    },
+    "decision": {
+      "self_drop_ci_includes_0": false,
+      "self_drop_gt_all_random": false,
+      "self_drop_rank": 2,
+      "max_random_self_drop": 0.0925,
+      "H3": true,
+      "h1_S_cas_ci_gt_0": true,
+      "h1_S_cross_ci_gt_0": true,
+      "h1_S_cas_gt_all_random": true,
+      "S_cas_rank": 1,
+      "max_random_S_cas": 0.04,
+      "h1_dyou_matched_lt_half": true,
+      "dyou_matched_self_drop": -0.0275,
+      "half_dL_self_drop": 0.045,
+      "verdict": "H3"
+    }
+  },
+  "secondary": {
+    "wording": "S2/O2",
+    "gate": {
+      "n": 400,
+      "self_acc": 0.3175,
+      "self_ci95": [
+        0.2725,
+        0.3625
+      ],
+      "majority_letter": "B",
+      "majority_baseline": 0.11,
+      "freq_random_baseline": 0.06822499999999998,
+      "pass": true
+    },
+    "conditions": {
+      "d_L": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.75,
+        "self_pred_changed_vs_base": 0.595,
+        "other_pred_changed_vs_base": 0.3025,
+        "self_base": 0.3175,
+        "self_acc": 0.235,
+        "self_acc_ci95": [
+          0.1925,
+          0.2775
+        ],
+        "self_drop": 0.0825,
+        "self_drop_ci95": [
+          0.0525,
+          0.115
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.2125,
+        "cross_acc_ci95": [
+          0.1725,
+          0.2526
+        ],
+        "cross_drop": 0.0075,
+        "cross_drop_ci95": [
+          -0.015,
+          0.0325
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.2425,
+        "cas_acc_ci95": [
+          0.2,
+          0.285
+        ],
+        "cas_drop": 0.0275,
+        "cas_drop_ci95": [
+          0.0025,
+          0.0525
+        ],
+        "S_cross": 0.075,
+        "S_cross_ci95": [
+          0.04,
+          0.1125
+        ],
+        "S_cas": 0.055,
+        "S_cas_ci95": [
+          0.0225,
+          0.09
+        ]
+      },
+      "d_you": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.76,
+        "self_pred_changed_vs_base": 0.1075,
+        "other_pred_changed_vs_base": 0.1475,
+        "self_base": 0.3175,
+        "self_acc": 0.335,
+        "self_acc_ci95": [
+          0.2875,
+          0.3825
+        ],
+        "self_drop": -0.0175,
+        "self_drop_ci95": [
+          -0.0375,
+          0.0
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.2325,
+        "cross_acc_ci95": [
+          0.19,
+          0.275
+        ],
+        "cross_drop": -0.0125,
+        "cross_drop_ci95": [
+          -0.035,
+          0.01
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.2725,
+        "cas_acc_ci95": [
+          0.23,
+          0.3175
+        ],
+        "cas_drop": -0.0025,
+        "cas_drop_ci95": [
+          -0.0225,
+          0.02
+        ],
+        "S_cross": -0.005,
+        "S_cross_ci95": [
+          -0.03,
+          0.0225
+        ],
+        "S_cas": -0.015,
+        "S_cas_ci95": [
+          -0.0375,
+          0.0075
+        ]
+      },
+      "d_you_matched": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.76,
+        "self_pred_changed_vs_base": 0.2975,
+        "other_pred_changed_vs_base": 0.265,
+        "self_base": 0.3175,
+        "self_acc": 0.2925,
+        "self_acc_ci95": [
+          0.2475,
+          0.3375
+        ],
+        "self_drop": 0.025,
+        "self_drop_ci95": [
+          -0.0025,
+          0.055
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.2375,
+        "cross_acc_ci95": [
+          0.195,
+          0.28
+        ],
+        "cross_drop": -0.0175,
+        "cross_drop_ci95": [
+          -0.045,
+          0.01
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.285,
+        "cas_acc_ci95": [
+          0.24,
+          0.33
+        ],
+        "cas_drop": -0.015,
+        "cas_drop_ci95": [
+          -0.0425,
+          0.0125
+        ],
+        "S_cross": 0.0425,
+        "S_cross_ci95": [
+          0.0075,
+          0.08
+        ],
+        "S_cas": 0.04,
+        "S_cas_ci95": [
+          0.005,
+          0.075
+        ]
+      },
+      "random_1001": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.7375,
+        "self_pred_changed_vs_base": 0.3925,
+        "other_pred_changed_vs_base": 0.3275,
+        "self_base": 0.3175,
+        "self_acc": 0.28,
+        "self_acc_ci95": [
+          0.2375,
+          0.325
+        ],
+        "self_drop": 0.0375,
+        "self_drop_ci95": [
+          0.0075,
+          0.0675
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.21,
+        "cross_acc_ci95": [
+          0.17,
+          0.2501
+        ],
+        "cross_drop": 0.01,
+        "cross_drop_ci95": [
+          -0.0175,
+          0.0375
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.26,
+        "cas_acc_ci95": [
+          0.2175,
+          0.3025
+        ],
+        "cas_drop": 0.01,
+        "cas_drop_ci95": [
+          -0.02,
+          0.0425
+        ],
+        "S_cross": 0.0275,
+        "S_cross_ci95": [
+          -0.01,
+          0.0675
+        ],
+        "S_cas": 0.0275,
+        "S_cas_ci95": [
+          -0.01,
+          0.065
+        ]
+      },
+      "random_1002": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.7725,
+        "self_pred_changed_vs_base": 0.36,
+        "other_pred_changed_vs_base": 0.3225,
+        "self_base": 0.3175,
+        "self_acc": 0.33,
+        "self_acc_ci95": [
+          0.285,
+          0.3775
+        ],
+        "self_drop": -0.0125,
+        "self_drop_ci95": [
+          -0.0425,
+          0.0175
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.2325,
+        "cross_acc_ci95": [
+          0.1925,
+          0.275
+        ],
+        "cross_drop": -0.0125,
+        "cross_drop_ci95": [
+          -0.0425,
+          0.0175
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.2975,
+        "cas_acc_ci95": [
+          0.2525,
+          0.3425
+        ],
+        "cas_drop": -0.0275,
+        "cas_drop_ci95": [
+          -0.06,
+          0.0025
+        ],
+        "S_cross": 0.0,
+        "S_cross_ci95": [
+          -0.0375,
+          0.0375
+        ],
+        "S_cas": 0.015,
+        "S_cas_ci95": [
+          -0.0175,
+          0.0475
+        ]
+      },
+      "random_1003": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.7675,
+        "self_pred_changed_vs_base": 0.3675,
+        "other_pred_changed_vs_base": 0.35,
+        "self_base": 0.3175,
+        "self_acc": 0.275,
+        "self_acc_ci95": [
+          0.2325,
+          0.32
+        ],
+        "self_drop": 0.0425,
+        "self_drop_ci95": [
+          0.01,
+          0.075
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.1825,
+        "cross_acc_ci95": [
+          0.145,
+          0.2225
+        ],
+        "cross_drop": 0.0375,
+        "cross_drop_ci95": [
+          0.0075,
+          0.0675
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.22,
+        "cas_acc_ci95": [
+          0.18,
+          0.2625
+        ],
+        "cas_drop": 0.05,
+        "cas_drop_ci95": [
+          0.015,
+          0.085
+        ],
+        "S_cross": 0.005,
+        "S_cross_ci95": [
+          -0.0325,
+          0.045
+        ],
+        "S_cas": -0.0075,
+        "S_cas_ci95": [
+          -0.045,
+          0.0325
+        ]
+      },
+      "random_1004": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.7675,
+        "self_pred_changed_vs_base": 0.395,
+        "other_pred_changed_vs_base": 0.2825,
+        "self_base": 0.3175,
+        "self_acc": 0.2725,
+        "self_acc_ci95": [
+          0.23,
+          0.3175
+        ],
+        "self_drop": 0.045,
+        "self_drop_ci95": [
+          0.0175,
+          0.0725
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.175,
+        "cross_acc_ci95": [
+          0.1375,
+          0.215
+        ],
+        "cross_drop": 0.045,
+        "cross_drop_ci95": [
+          0.02,
+          0.07
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.2125,
+        "cas_acc_ci95": [
+          0.1725,
+          0.2526
+        ],
+        "cas_drop": 0.0575,
+        "cas_drop_ci95": [
+          0.03,
+          0.085
+        ],
+        "S_cross": 0.0,
+        "S_cross_ci95": [
+          -0.035,
+          0.035
+        ],
+        "S_cas": -0.0125,
+        "S_cas_ci95": [
+          -0.045,
+          0.02
+        ]
+      },
+      "random_1005": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.83,
+        "self_pred_changed_vs_base": 0.3475,
+        "other_pred_changed_vs_base": 0.2825,
+        "self_base": 0.3175,
+        "self_acc": 0.28,
+        "self_acc_ci95": [
+          0.2375,
+          0.325
+        ],
+        "self_drop": 0.0375,
+        "self_drop_ci95": [
+          0.01,
+          0.0675
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.1825,
+        "cross_acc_ci95": [
+          0.145,
+          0.2225
+        ],
+        "cross_drop": 0.0375,
+        "cross_drop_ci95": [
+          0.0125,
+          0.0625
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.255,
+        "cas_acc_ci95": [
+          0.2125,
+          0.2975
+        ],
+        "cas_drop": 0.015,
+        "cas_drop_ci95": [
+          -0.0125,
+          0.0425
+        ],
+        "S_cross": 0.0,
+        "S_cross_ci95": [
+          -0.035,
+          0.0375
+        ],
+        "S_cas": 0.0225,
+        "S_cas_ci95": [
+          -0.01,
+          0.0575
+        ]
+      },
+      "random_1006": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.76,
+        "self_pred_changed_vs_base": 0.405,
+        "other_pred_changed_vs_base": 0.3825,
+        "self_base": 0.3175,
+        "self_acc": 0.2875,
+        "self_acc_ci95": [
+          0.2425,
+          0.3325
+        ],
+        "self_drop": 0.03,
+        "self_drop_ci95": [
+          0.0,
+          0.06
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.2025,
+        "cross_acc_ci95": [
+          0.1625,
+          0.245
+        ],
+        "cross_drop": 0.0175,
+        "cross_drop_ci95": [
+          -0.0125,
+          0.0475
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.2675,
+        "cas_acc_ci95": [
+          0.225,
+          0.3125
+        ],
+        "cas_drop": 0.0025,
+        "cas_drop_ci95": [
+          -0.0325,
+          0.0375
+        ],
+        "S_cross": 0.0125,
+        "S_cross_ci95": [
+          -0.0275,
+          0.0525
+        ],
+        "S_cas": 0.0275,
+        "S_cas_ci95": [
+          -0.0075,
+          0.065
+        ]
+      },
+      "random_1007": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.795,
+        "self_pred_changed_vs_base": 0.31,
+        "other_pred_changed_vs_base": 0.3025,
+        "self_base": 0.3175,
+        "self_acc": 0.3,
+        "self_acc_ci95": [
+          0.255,
+          0.345
+        ],
+        "self_drop": 0.0175,
+        "self_drop_ci95": [
+          -0.01,
+          0.0475
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.1875,
+        "cross_acc_ci95": [
+          0.15,
+          0.2275
+        ],
+        "cross_drop": 0.0325,
+        "cross_drop_ci95": [
+          0.0075,
+          0.06
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.24,
+        "cas_acc_ci95": [
+          0.1975,
+          0.2825
+        ],
+        "cas_drop": 0.03,
+        "cas_drop_ci95": [
+          0.0,
+          0.06
+        ],
+        "S_cross": -0.015,
+        "S_cross_ci95": [
+          -0.05,
+          0.02
+        ],
+        "S_cas": -0.0125,
+        "S_cas_ci95": [
+          -0.045,
+          0.02
+        ]
+      },
+      "random_1008": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.6725,
+        "self_pred_changed_vs_base": 0.5475,
+        "other_pred_changed_vs_base": 0.445,
+        "self_base": 0.3175,
+        "self_acc": 0.295,
+        "self_acc_ci95": [
+          0.25,
+          0.34
+        ],
+        "self_drop": 0.0225,
+        "self_drop_ci95": [
+          -0.0175,
+          0.0625
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.1775,
+        "cross_acc_ci95": [
+          0.14,
+          0.2175
+        ],
+        "cross_drop": 0.0425,
+        "cross_drop_ci95": [
+          0.015,
+          0.07
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.21,
+        "cas_acc_ci95": [
+          0.17,
+          0.25
+        ],
+        "cas_drop": 0.06,
+        "cas_drop_ci95": [
+          0.03,
+          0.0925
+        ],
+        "S_cross": -0.02,
+        "S_cross_ci95": [
+          -0.0625,
+          0.0225
+        ],
+        "S_cas": -0.0375,
+        "S_cas_ci95": [
+          -0.075,
+          0.0
+        ]
+      },
+      "random_1009": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.7825,
+        "self_pred_changed_vs_base": 0.4075,
+        "other_pred_changed_vs_base": 0.3225,
+        "self_base": 0.3175,
+        "self_acc": 0.305,
+        "self_acc_ci95": [
+          0.26,
+          0.35
+        ],
+        "self_drop": 0.0125,
+        "self_drop_ci95": [
+          -0.015,
+          0.04
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.2275,
+        "cross_acc_ci95": [
+          0.1875,
+          0.27
+        ],
+        "cross_drop": -0.0075,
+        "cross_drop_ci95": [
+          -0.0325,
+          0.0175
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.2625,
+        "cas_acc_ci95": [
+          0.22,
+          0.3051
+        ],
+        "cas_drop": 0.0075,
+        "cas_drop_ci95": [
+          -0.0175,
+          0.0325
+        ],
+        "S_cross": 0.02,
+        "S_cross_ci95": [
+          -0.015,
+          0.0575
+        ],
+        "S_cas": 0.005,
+        "S_cas_ci95": [
+          -0.03,
+          0.04
+        ]
+      },
+      "random_1010": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.7425,
+        "self_pred_changed_vs_base": 0.2925,
+        "other_pred_changed_vs_base": 0.3,
+        "self_base": 0.3175,
+        "self_acc": 0.295,
+        "self_acc_ci95": [
+          0.25,
+          0.34
+        ],
+        "self_drop": 0.0225,
+        "self_drop_ci95": [
+          -0.005,
+          0.0525
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.1975,
+        "cross_acc_ci95": [
+          0.16,
+          0.2375
+        ],
+        "cross_drop": 0.0225,
+        "cross_drop_ci95": [
+          -0.0025,
+          0.0475
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.255,
+        "cas_acc_ci95": [
+          0.2125,
+          0.2975
+        ],
+        "cas_drop": 0.015,
+        "cas_drop_ci95": [
+          -0.0125,
+          0.0425
+        ],
+        "S_cross": 0.0,
+        "S_cross_ci95": [
+          -0.035,
+          0.035
+        ],
+        "S_cas": 0.0075,
+        "S_cas_ci95": [
+          -0.025,
+          0.04
+        ]
+      },
+      "random_1011": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.7625,
+        "self_pred_changed_vs_base": 0.755,
+        "other_pred_changed_vs_base": 0.755,
+        "self_base": 0.3175,
+        "self_acc": 0.295,
+        "self_acc_ci95": [
+          0.25,
+          0.34
+        ],
+        "self_drop": 0.0225,
+        "self_drop_ci95": [
+          -0.015,
+          0.0625
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.195,
+        "cross_acc_ci95": [
+          0.155,
+          0.235
+        ],
+        "cross_drop": 0.025,
+        "cross_drop_ci95": [
+          -0.0075,
+          0.055
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.245,
+        "cas_acc_ci95": [
+          0.2025,
+          0.2875
+        ],
+        "cas_drop": 0.025,
+        "cas_drop_ci95": [
+          -0.0075,
+          0.0575
+        ],
+        "S_cross": -0.0025,
+        "S_cross_ci95": [
+          -0.0475,
+          0.0425
+        ],
+        "S_cas": -0.0025,
+        "S_cas_ci95": [
+          -0.0425,
+          0.0375
+        ]
+      },
+      "random_1012": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.7125,
+        "self_pred_changed_vs_base": 0.355,
+        "other_pred_changed_vs_base": 0.3475,
+        "self_base": 0.3175,
+        "self_acc": 0.275,
+        "self_acc_ci95": [
+          0.2325,
+          0.32
+        ],
+        "self_drop": 0.0425,
+        "self_drop_ci95": [
+          0.01,
+          0.075
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.1625,
+        "cross_acc_ci95": [
+          0.1275,
+          0.2
+        ],
+        "cross_drop": 0.0575,
+        "cross_drop_ci95": [
+          0.0275,
+          0.0875
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.1775,
+        "cas_acc_ci95": [
+          0.14,
+          0.215
+        ],
+        "cas_drop": 0.0925,
+        "cas_drop_ci95": [
+          0.06,
+          0.125
+        ],
+        "S_cross": -0.015,
+        "S_cross_ci95": [
+          -0.055,
+          0.025
+        ],
+        "S_cas": -0.05,
+        "S_cas_ci95": [
+          -0.0875,
+          -0.0125
+        ]
+      },
+      "random_1013": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 0.9975,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.7975,
+        "self_pred_changed_vs_base": 0.37,
+        "other_pred_changed_vs_base": 0.3125,
+        "self_base": 0.3175,
+        "self_acc": 0.3475,
+        "self_acc_ci95": [
+          0.3,
+          0.395
+        ],
+        "self_drop": -0.03,
+        "self_drop_ci95": [
+          -0.06,
+          0.0
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.2325,
+        "cross_acc_ci95": [
+          0.1925,
+          0.275
+        ],
+        "cross_drop": -0.0125,
+        "cross_drop_ci95": [
+          -0.04,
+          0.0175
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.28,
+        "cas_acc_ci95": [
+          0.2374,
+          0.325
+        ],
+        "cas_drop": -0.01,
+        "cas_drop_ci95": [
+          -0.04,
+          0.02
+        ],
+        "S_cross": -0.0175,
+        "S_cross_ci95": [
+          -0.055,
+          0.0225
+        ],
+        "S_cas": -0.02,
+        "S_cas_ci95": [
+          -0.0525,
+          0.0125
+        ]
+      },
+      "random_1014": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.75,
+        "self_pred_changed_vs_base": 0.5225,
+        "other_pred_changed_vs_base": 0.405,
+        "self_base": 0.3175,
+        "self_acc": 0.26,
+        "self_acc_ci95": [
+          0.2175,
+          0.3025
+        ],
+        "self_drop": 0.0575,
+        "self_drop_ci95": [
+          0.0275,
+          0.09
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.21,
+        "cross_acc_ci95": [
+          0.17,
+          0.25
+        ],
+        "cross_drop": 0.01,
+        "cross_drop_ci95": [
+          -0.0175,
+          0.0375
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.2375,
+        "cas_acc_ci95": [
+          0.1974,
+          0.28
+        ],
+        "cas_drop": 0.0325,
+        "cas_drop_ci95": [
+          0.0025,
+          0.0625
+        ],
+        "S_cross": 0.0475,
+        "S_cross_ci95": [
+          0.01,
+          0.0875
+        ],
+        "S_cas": 0.025,
+        "S_cas_ci95": [
+          -0.0075,
+          0.0575
+        ]
+      },
+      "random_1015": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.72,
+        "self_pred_changed_vs_base": 0.4125,
+        "other_pred_changed_vs_base": 0.3225,
+        "self_base": 0.3175,
+        "self_acc": 0.315,
+        "self_acc_ci95": [
+          0.27,
+          0.36
+        ],
+        "self_drop": 0.0025,
+        "self_drop_ci95": [
+          -0.03,
+          0.035
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.2375,
+        "cross_acc_ci95": [
+          0.195,
+          0.28
+        ],
+        "cross_drop": -0.0175,
+        "cross_drop_ci95": [
+          -0.0475,
+          0.0125
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.2675,
+        "cas_acc_ci95": [
+          0.225,
+          0.3125
+        ],
+        "cas_drop": 0.0025,
+        "cas_drop_ci95": [
+          -0.03,
+          0.035
+        ],
+        "S_cross": 0.02,
+        "S_cross_ci95": [
+          -0.025,
+          0.0675
+        ],
+        "S_cas": 0.0,
+        "S_cas_ci95": [
+          -0.0375,
+          0.04
+        ]
+      },
+      "random_1016": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.7725,
+        "self_pred_changed_vs_base": 0.45,
+        "other_pred_changed_vs_base": 0.375,
+        "self_base": 0.3175,
+        "self_acc": 0.235,
+        "self_acc_ci95": [
+          0.1925,
+          0.2775
+        ],
+        "self_drop": 0.0825,
+        "self_drop_ci95": [
+          0.05,
+          0.1175
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.1625,
+        "cross_acc_ci95": [
+          0.1275,
+          0.2
+        ],
+        "cross_drop": 0.0575,
+        "cross_drop_ci95": [
+          0.03,
+          0.085
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.1825,
+        "cas_acc_ci95": [
+          0.145,
+          0.2225
+        ],
+        "cas_drop": 0.0875,
+        "cas_drop_ci95": [
+          0.0575,
+          0.12
+        ],
+        "S_cross": 0.025,
+        "S_cross_ci95": [
+          -0.01,
+          0.0625
+        ],
+        "S_cas": -0.005,
+        "S_cas_ci95": [
+          -0.04,
+          0.03
+        ]
+      },
+      "random_1017": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.77,
+        "self_pred_changed_vs_base": 0.4875,
+        "other_pred_changed_vs_base": 0.44,
+        "self_base": 0.3175,
+        "self_acc": 0.22,
+        "self_acc_ci95": [
+          0.18,
+          0.2625
+        ],
+        "self_drop": 0.0975,
+        "self_drop_ci95": [
+          0.0625,
+          0.135
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.1475,
+        "cross_acc_ci95": [
+          0.1125,
+          0.185
+        ],
+        "cross_drop": 0.0725,
+        "cross_drop_ci95": [
+          0.04,
+          0.1075
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.17,
+        "cas_acc_ci95": [
+          0.1325,
+          0.2075
+        ],
+        "cas_drop": 0.1,
+        "cas_drop_ci95": [
+          0.065,
+          0.1375
+        ],
+        "S_cross": 0.025,
+        "S_cross_ci95": [
+          -0.02,
+          0.07
+        ],
+        "S_cas": -0.0025,
+        "S_cas_ci95": [
+          -0.0425,
+          0.0375
+        ]
+      },
+      "random_1018": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.78,
+        "self_pred_changed_vs_base": 0.355,
+        "other_pred_changed_vs_base": 0.3425,
+        "self_base": 0.3175,
+        "self_acc": 0.265,
+        "self_acc_ci95": [
+          0.2225,
+          0.3075
+        ],
+        "self_drop": 0.0525,
+        "self_drop_ci95": [
+          0.0225,
+          0.085
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.1975,
+        "cross_acc_ci95": [
+          0.1575,
+          0.2375
+        ],
+        "cross_drop": 0.0225,
+        "cross_drop_ci95": [
+          -0.0075,
+          0.0525
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.235,
+        "cas_acc_ci95": [
+          0.195,
+          0.2775
+        ],
+        "cas_drop": 0.035,
+        "cas_drop_ci95": [
+          0.0025,
+          0.0675
+        ],
+        "S_cross": 0.03,
+        "S_cross_ci95": [
+          -0.0025,
+          0.0625
+        ],
+        "S_cas": 0.0175,
+        "S_cas_ci95": [
+          -0.0125,
+          0.0475
+        ]
+      },
+      "random_1019": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.76,
+        "self_pred_changed_vs_base": 0.325,
+        "other_pred_changed_vs_base": 0.27,
+        "self_base": 0.3175,
+        "self_acc": 0.29,
+        "self_acc_ci95": [
+          0.245,
+          0.335
+        ],
+        "self_drop": 0.0275,
+        "self_drop_ci95": [
+          -0.0025,
+          0.06
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.2,
+        "cross_acc_ci95": [
+          0.16,
+          0.24
+        ],
+        "cross_drop": 0.02,
+        "cross_drop_ci95": [
+          -0.005,
+          0.045
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.2325,
+        "cas_acc_ci95": [
+          0.19,
+          0.275
+        ],
+        "cas_drop": 0.0375,
+        "cas_drop_ci95": [
+          0.01,
+          0.065
+        ],
+        "S_cross": 0.0075,
+        "S_cross_ci95": [
+          -0.03,
+          0.045
+        ],
+        "S_cas": -0.01,
+        "S_cas_ci95": [
+          -0.045,
+          0.0275
+        ]
+      },
+      "random_1020": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.7375,
+        "self_pred_changed_vs_base": 0.3975,
+        "other_pred_changed_vs_base": 0.3125,
+        "self_base": 0.3175,
+        "self_acc": 0.3325,
+        "self_acc_ci95": [
+          0.2875,
+          0.38
+        ],
+        "self_drop": -0.015,
+        "self_drop_ci95": [
+          -0.0425,
+          0.0125
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.2175,
+        "cross_acc_ci95": [
+          0.1775,
+          0.26
+        ],
+        "cross_drop": 0.0025,
+        "cross_drop_ci95": [
+          -0.0225,
+          0.03
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.2675,
+        "cas_acc_ci95": [
+          0.225,
+          0.31
+        ],
+        "cas_drop": 0.0025,
+        "cas_drop_ci95": [
+          -0.0225,
+          0.03
+        ],
+        "S_cross": -0.0175,
+        "S_cross_ci95": [
+          -0.0525,
+          0.0175
+        ],
+        "S_cas": -0.0175,
+        "S_cas_ci95": [
+          -0.05,
+          0.015
+        ]
+      },
+      "baseline": {
+        "n_eligible_self": 400,
+        "n_eligible_cross": 400,
+        "n_eligible_both": 400,
+        "self_validity": 1.0,
+        "other_validity": 1.0,
+        "self_other_same_pred": 0.765,
+        "self_pred_changed_vs_base": 0.0,
+        "other_pred_changed_vs_base": 0.0,
+        "self_base": 0.3175,
+        "self_acc": 0.3175,
+        "self_acc_ci95": [
+          0.2725,
+          0.3625
+        ],
+        "self_drop": 0.0,
+        "self_drop_ci95": [
+          0.0,
+          0.0
+        ],
+        "cross_base": 0.22,
+        "cross_acc": 0.22,
+        "cross_acc_ci95": [
+          0.18,
+          0.2625
+        ],
+        "cross_drop": 0.0,
+        "cross_drop_ci95": [
+          0.0,
+          0.0
+        ],
+        "cas_base": 0.27,
+        "cas_acc": 0.27,
+        "cas_acc_ci95": [
+          0.2275,
+          0.315
+        ],
+        "cas_drop": 0.0,
+        "cas_drop_ci95": [
+          0.0,
+          0.0
+        ],
+        "S_cross": 0.0,
+        "S_cross_ci95": [
+          0.0,
+          0.0
+        ],
+        "S_cas": 0.0,
+        "S_cas_ci95": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "random_summary": {
+      "self_drop": {
+        "min": -0.03,
+        "max": 0.0975,
+        "mean": 0.02975
+      },
+      "cross_drop": {
+        "min": -0.0175,
+        "max": 0.0725,
+        "mean": 0.023125000000000003
+      },
+      "cas_drop": {
+        "min": -0.0275,
+        "max": 0.1,
+        "mean": 0.03125
+      },
+      "S_cross": {
+        "min": -0.02,
+        "max": 0.0475,
+        "mean": 0.006625000000000001
+      },
+      "S_cas": {
+        "min": -0.05,
+        "max": 0.0275,
+        "mean": -0.001499999999999999
+      },
+      "self_validity": {
+        "min": 0.9975,
+        "max": 1.0,
+        "mean": 0.9998750000000001
+      },
+      "other_validity": {
+        "min": 1.0,
+        "max": 1.0,
+        "mean": 1.0
+      }
+    },
+    "decision": {
+      "self_drop_ci_includes_0": false,
+      "self_drop_gt_all_random": false,
+      "self_drop_rank": 3,
+      "max_random_self_drop": 0.0975,
+      "H3": true,
+      "h1_S_cas_ci_gt_0": true,
+      "h1_S_cross_ci_gt_0": true,
+      "h1_S_cas_gt_all_random": true,
+      "S_cas_rank": 1,
+      "max_random_S_cas": 0.0275,
+      "h1_dyou_matched_lt_half": true,
+      "dyou_matched_self_drop": 0.025,
+      "half_dL_self_drop": 0.04125,
+      "verdict": "H3"
+    }
+  },
+  "verdict": {
+    "primary": "H3",
+    "secondary": "H3",
+    "fragile": false
+  }
+}

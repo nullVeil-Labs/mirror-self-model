@@ -1,0 +1,22 @@
+{
+  "split": "dev",
+  "n_layers": 36,
+  "directions_s": 22.5,
+  "baseline": {
+    "gen_s": 17.8,
+    "n_generations": 252,
+    "perplexity": {
+      "windows": 40,
+      "window_tokens": 256,
+      "scored_tokens": 10200,
+      "mean_nll": 2.630921894148284,
+      "ppl": 13.886565946810409,
+      "start": "first line of Chapter I, after the Gutenberg header"
+    },
+    "factual_acc": 0.95,
+    "n_factual": 40,
+    "identical_to_stage2": "252/252"
+  },
+  "wall_clock_s": 456.3,
+  "vram_peak_gb": 9.97
+}

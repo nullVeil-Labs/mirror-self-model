@@ -1,0 +1,36 @@
+{
+  "layer": 12,
+  "alpha": 2.0,
+  "rule": "max S among settings meeting both constraints",
+  "n_settings": 22,
+  "n_settings_meeting_constraints": 20,
+  "criterion": {
+    "S": 0.039473684210526314,
+    "S_ci95_lo": -0.0526,
+    "S_ci95_hi": 0.1316,
+    "self_drop": 0.06578947368421052,
+    "cross_drop": 0.02631578947368421,
+    "self_base": 0.4473684210526316,
+    "self_cond": 0.3815789473684211,
+    "cross_base": 0.34210526315789475,
+    "cross_cond": 0.3157894736842105,
+    "factual_acc": 0.95,
+    "factual_drop": 0.0,
+    "ppl": 13.975165717442993,
+    "ppl_rise": 0.006380250594131498,
+    "answer_change_rate": 0.27631578947368424,
+    "mean_abs_proj": 6.102716199554424
+  },
+  "n_eligible_dev_select": 76,
+  "baseline_dev_select": {
+    "factual_acc": 0.95,
+    "ppl": 13.886565946810409
+  },
+  "constraints": {
+    "factual_max_drop": 0.05,
+    "ppl_max_rel_rise": 0.1
+  },
+  "tie_break": "higher S, then lower alpha, then lower layer",
+  "split": "dev-select only; no test item has been run",
+  "timestamp": "2026-11-09T11:26:09+00:00"
+}

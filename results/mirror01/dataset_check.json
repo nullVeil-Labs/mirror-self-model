@@ -1,0 +1,28 @@
+{
+  "seed": 101,
+  "n_items": 400,
+  "by_category": {
+    "choice": 300,
+    "completion": 100
+  },
+  "by_subcategory": {
+    "phrase": 100,
+    "animal": 25,
+    "bird": 25,
+    "food": 25,
+    "vegetable": 25,
+    "fruit": 25,
+    "city": 25,
+    "country": 25,
+    "first_name": 25,
+    "instrument": 25,
+    "sport": 25,
+    "profession": 25,
+    "vehicle": 25
+  },
+  "n_mirror00_tasks": 500,
+  "task_string_overlap": 0,
+  "object_prompt_overlap": 0,
+  "mirror00_template_prefix_reuse": 0,
+  "tasks_unique": true
+}
