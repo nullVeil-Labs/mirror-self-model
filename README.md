@@ -86,3 +86,11 @@ models/    weights (gitignored)
 ## Limitations
 Zero-shot; one hooked model; one property (first letter); small samples (190–400 items); random-direction nulls are
 coarse (10 in MIRROR-00, 20 in MIRROR-01); greedy bf16 decoding. See the reports for details.
+
+## AI assistance
+The study was designed with an AI co-designer, and implemented, run and written up with Claude (Anthropic), under
+human direction and review.
+
+## Licence
+Code: MIT (see `LICENSE`). `data/pg1342.txt` is a Project Gutenberg text and is public domain in the USA.
+The model weights are not included; they are subject to their own licences (Qwen: Apache-2.0; Gemma 4: Apache-2.0).
